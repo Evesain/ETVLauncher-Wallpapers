@@ -1,0 +1,41 @@
+name: New places
+
+# TVs that turn on "Photos of my area" in a place with no pack ask the Worker for one. This workflow reads that queue, finds photos
+# on Wikimedia Commons, and opens a pull request per place. A person reviews and merges it. Nothing is published without a review.
+# Needs the repository secrets EVENTS_URL and ETV_SETUP_KEY (the same two as the ETVLauncher repo uses for crash reports).
+# The Worker holds no GitHub key: this workflow pulls the queue. It uses the built-in GITHUB_TOKEN, no personal token.
+# Settings > Actions > General > "Allow GitHub Actions to create and approve pull requests" must be on.
+
+on:
+  schedule:
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: new-places
+  cancel-in-progress: false
+
+jobs:
+  places:
+    name: Find photos for requested places
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow
+      - name: Read the queue and open pull requests
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          EVENTS_URL: ${{ secrets.EVENTS_URL }}
+          SETUP_KEY: ${{ secrets.ETV_SETUP_KEY }}
+        run: python tools/process_requests.py

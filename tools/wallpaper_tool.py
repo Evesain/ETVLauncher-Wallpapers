@@ -5,6 +5,7 @@ Photos come from Wikimedia Commons, which gives the licence and the photographer
 reuse with credit are used (CC0, public domain, CC BY, CC BY-SA). The credit goes into the text next to the photo. Nothing is
 drawn on the picture.
 
+  auto   Find and add a pack for one point without help (the new-places workflow uses this; a person reviews the pull request).
   find   Search Commons near a place and write candidate pictures and contact sheets to a work folder, for a person to look at.
   add    Copy the chosen candidates into  <Country>/<Region>/<City>/{day,night}/  and write that city's place.json.
   index  Rebuild places.json (the list the app downloads: every place with its coordinates).
@@ -59,7 +60,7 @@ def pages_from(titles_or_ids):
     out = []
     ids = list(titles_or_ids)
     for i in range(0, len(ids), 50):
-        data = call(action="query", prop="imageinfo", pageids="|".join(str(x) for x in ids[i:i + 50]),
+        data = call(action="query", prop="imageinfo|coordinates", colimit="max", pageids="|".join(str(x) for x in ids[i:i + 50]),
                     iiprop="url|size|mime|extmetadata", iiurlwidth=WIDTH, iiextmetadatafilter=
                     "LicenseShortName|Artist|ImageDescription|Categories|DateTimeOriginal|ObjectName")
         out.extend(data.get("query", {}).get("pages", {}).values())
@@ -87,6 +88,7 @@ def keep(page):
         "id": page["pageid"], "file": page["title"], "name": strip_html(meta.get("ObjectName", {}).get("value")) or title,
         "author": strip_html(meta.get("Artist", {}).get("value")) or "Unknown", "licence": licence,
         "page": ii.get("descriptionurl"), "thumb": ii.get("thumburl"), "width": w, "height": h,
+        "lat": (page.get("coordinates") or [{}])[0].get("lat"), "lon": (page.get("coordinates") or [{}])[0].get("lon"),
         "desc": desc[:300], "blob": (title + " " + desc + " " + cats).lower(), "hint_night": bool(NIGHT_WORDS.search(title + " " + desc + " " + cats)),
     }
 
@@ -149,9 +151,9 @@ def sheet(items, path, work):
     img.save(path, quality=80)
 
 
-def cmd_find(a):
-    centres = [tuple(float(v) for v in c.split(",")) for c in a.centre]
-    ids = find_ids(centres, a.radius, a.query, a.query)
+def gather(centres, radius, queries):
+    """Candidate pictures (size, licence and place checked) near the centres or named by the queries. No pictures are downloaded yet."""
+    ids = find_ids(centres, radius, queries, queries)
     print("%d files found; checking size and licence ..." % len(ids))
     cands = []
     keys = list(ids)
@@ -164,13 +166,21 @@ def cmd_find(a):
             # A text hit counts only when the place name is really in its title, description or categories.
             if src == "text" and term.lower() not in c["blob"]:
                 continue
-            c["from"] = src
+            # A file with its own coordinates must lie within 35 km of a centre (so "Whitby" is not Whitby in Canada).
+            if c["lat"] is not None and min(metres(c["lat"], c["lon"], la, lo) for la, lo in centres) > 35000:
+                continue
+            c["from"] = src if c["lat"] is not None or src == "geo" else "text"
             cands.append(c)
     print("%d pass the size and licence checks" % len(cands))
-    os.makedirs(a.work, exist_ok=True)
+    return cands
+
+
+def download(cands, work):
+    """Downloads each candidate at 1920 px and measures its brightness. Returns (day, night) lists."""
+    os.makedirs(work, exist_ok=True)
     good = []
     for c in cands:
-        path = os.path.join(a.work, "%d.jpg" % c["id"])
+        path = os.path.join(work, "%d.jpg" % c["id"])
         if not os.path.exists(path):
             data = fetch(c["thumb"])
             if not data:
@@ -186,11 +196,140 @@ def cmd_find(a):
     day = sorted([c for c in good if c["brightness"] >= 75], key=lambda c: -c["width"] * c["height"])
     for c in good:
         c.pop("blob", None)
-    json.dump({"day": day, "night": night}, open(os.path.join(a.work, "candidates.json"), "w"), indent=1)
+    json.dump({"day": day, "night": night}, open(os.path.join(work, "candidates.json"), "w"), indent=1)
+    return day, night
+
+
+def cmd_find(a):
+    centres = [tuple(float(v) for v in c.split(",")) for c in a.centre]
+    day, night = download(gather(centres, a.radius, a.query), a.work)
     for name, items in (("day", day), ("night", night)):
         for n in range(0, len(items), 12):
             sheet(items[n:n + 12], os.path.join(a.work, "sheet_%s_%d.jpg" % (name, n // 12 + 1)), a.work)
     print("day candidates: %d, night candidates: %d. Contact sheets are in %s" % (len(day), len(night), a.work))
+
+
+# ---------------------------------------------------------------- automatic pick (used by the new-places workflow)
+
+# Words that mark a picture as a poor wallpaper (indoors, streets, signs, close-ups) or a good one (views, landmarks, nature).
+POOR = re.compile(r"interior|inside|church|cathedral|chapel|\bpub\b|\binn\b|hotel|station|\bbus\b|\broad\b|street|\blane\b|junction|"
+                  r"shop|market|cemetery|school|hospital|car park|garage|sign\b|plaque|memorial|window|altar|font\b|portrait|crowd|"
+                  r"train|tram|\bcar\b|lorry|cattle|sheep|\bcow|roundabout|houses?\b|flats|estate|"
+                  r"\bshed\b|barn|pylon|\bbin\b|recycling|warehouse|office|club|society|centre\b|"
+                  r"\bhen\b|\bstag\b|party|wedding|birthday|selfie|friends|family|\bgirls?\b|\bboys?\b|\bwoman|\bman\b|\blady\b|"
+                  r"kids?\b|child|people|portrait|\bme\b|\bmy\b", re.I)
+GOOD = re.compile(r"park|lake|reservoir|hill|castle|view|sunrise|sunset|valley|river|canal|beach|harbou?r|skyline|panorama|forest|"
+                  r"bridge|tower|abbey|cliff|mountain|moor|peak|cathedral|hall\b|palace|pier|lighthouse|waterfall|ridge|coast|"
+                  r"bay\b|island|woods?\b|common|gardens?|aurora|night|dusk|twilight|illuminat", re.I)
+
+
+def stem(name):
+    n = re.sub(r"\s*-\s*geograph.*$", "", name, flags=re.I)
+    return re.sub(r"[\d\W_]+$", "", n).lower()
+
+
+def nice_title(name):
+    n = re.sub(r"\s*-\s*geograph.*$", "", name, flags=re.I)
+    n = re.sub(r"^\d{4}-\d{2}-\d{2}\s+", "", n)
+    n = re.sub(r"\s*\(\d+\)$|\s+\d{1,4}$", "", n).strip(" -,.")
+    return (n[:42].rsplit(" ", 1)[0] if len(n) > 42 else n) or "Photo"
+
+
+def score(c, night):
+    sc = 0.0
+    if POOR.search(c["name"]) or POOR.search(c.get("desc", "")[:80]):
+        sc -= 6
+    if GOOD.search(c["name"]) or GOOD.search(c.get("desc", "")[:120]):
+        sc += 3
+    sc += 2 if c.get("from") == "geo" else 0
+    sc += 1 if c.get("lat") is not None else 0                # it carries coordinates near the place
+    sc += min(c["width"] * c["height"] / 2e7, 2)           # bigger originals stay sharper
+    sc += 1 if c["width"] / c["height"] >= 1.7 else 0       # close to 16:9, so little is cropped
+    if "brightness" in c:
+        if night:
+            sc += 4 if c["hint_night"] else -3
+            sc -= 3 if c["brightness"] < 12 else 0          # almost black
+        else:
+            sc -= 3 if c["brightness"] > 190 or c["brightness"] < 90 else 0
+    return sc
+
+
+def pick(items, night, n):
+    chosen, stems, authors = [], set(), {}
+    for c in sorted(items, key=lambda c: -score(c, night)):
+        if POOR.search(c["name"]) or POOR.search(c.get("desc", "")[:80]):
+            continue                                            # never pick indoors, streets, signs or people
+        if score(c, night) < (1 if night else 0):
+            break
+        st = stem(c["name"])
+        if st in stems or authors.get(c["author"], 0) >= 2:
+            continue
+        stems.add(st)
+        authors[c["author"]] = authors.get(c["author"], 0) + 1
+        chosen.append(c)
+        if len(chosen) >= n:
+            break
+    return chosen
+
+
+def reverse(lat, lon):
+    """Country, region and town for a point, from OpenStreetMap's Nominatim (a few requests a day: well inside its limits)."""
+    url = "https://nominatim.openstreetmap.org/reverse?" + urllib.parse.urlencode(
+        {"format": "jsonv2", "zoom": 14, "addressdetails": 1, "accept-language": "en", "lat": lat, "lon": lon})
+    data = json.loads(fetch(url) or b"{}")
+    ad = data.get("address", {})
+    town = next((ad[k] for k in ("city", "town", "village", "hamlet", "municipality", "suburb", "county") if ad.get(k)), "")
+    region = ad.get("state") or ad.get("region") or ad.get("state_district") or ad.get("county") or ""
+    return ad.get("country", ""), region, town
+
+
+def metres(lat1, lon1, lat2, lon2):
+    p = math.pi / 180
+    h = math.sin((lat2 - lat1) * p / 2) ** 2 + math.cos(lat1 * p) * math.cos(lat2 * p) * math.sin((lon2 - lon1) * p / 2) ** 2
+    return 12742000 * math.asin(math.sqrt(h))
+
+
+def covered(lat, lon):
+    """The place that already covers this point, or None."""
+    f = os.path.join(ROOT, "places.json")
+    if not os.path.exists(f):
+        return None
+    for p in json.load(open(f, encoding="utf-8"))["places"]:
+        if metres(lat, lon, p["lat"], p["lon"]) <= p.get("radius_km", 25) * 1000:
+            return p
+    return None
+
+
+def auto(lat, lon, place, work, n=4):
+    """Finds and adds a pack for one point. Returns (status, text): done, covered or none."""
+    have = covered(lat, lon)
+    if have:
+        return "covered", "%s already covers this point" % have["city"]
+    country, region, town = reverse(lat, lon)
+    town = town or place
+    if not (country and region and town):
+        return "none", "no place name found for %s,%s" % (lat, lon)
+    dlat, dlon = 0.07, 0.07 / max(math.cos(math.radians(lat)), 0.2)
+    centres = [(lat, lon), (lat + dlat, lon), (lat - dlat, lon), (lat, lon + dlon), (lat, lon - dlon)]
+    queries = [town] + ([place] if place and place.lower() != town.lower() else [])
+    cands = gather(centres, 10000, queries)
+    # Download only the most promising 80, so the run stays quick.
+    cands.sort(key=lambda c: -(score(c, False) + (2 if c["hint_night"] else 0)))
+    day, night = download(cands[:80], work)
+    d, ni = pick(day, False, n), pick(night, True, n)
+    if len(d) < 3 or len(ni) < 3:
+        return "none", "%s, %s, %s: only %d day and %d night photos fit" % (town, region, country, len(d), len(ni))
+    sub = town + ", " + region
+    folder = add_photos(work, country, region, town, round(lat, 4), round(lon, 4), 25,
+                        ["%d=%s|%s" % (c["id"], nice_title(c["name"]), sub) for c in d],
+                        ["%d=%s|%s" % (c["id"], nice_title(c["name"]), sub) for c in ni])
+    return "done", folder
+
+
+def cmd_auto(a):
+    status, text = auto(a.lat, a.lon, a.place or "", a.work)
+    print("%s: %s" % (status, text))
+    print("RESULT=" + status)
 
 
 def slug_ok(s):
@@ -203,14 +342,14 @@ def credit(c):
     return "Photo: %s, %s" % (who, c["licence"])
 
 
-def cmd_add(a):
-    cands = json.load(open(os.path.join(a.work, "candidates.json")))
+def add_photos(work, country, region, city, lat, lon, radius_km, day, night):
+    cands = json.load(open(os.path.join(work, "candidates.json"), encoding="utf-8"))
     by_id = {c["id"]: c for c in cands["day"] + cands["night"]}
-    base = os.path.join(ROOT, slug_ok(a.country), slug_ok(a.region), slug_ok(a.city))
+    base = os.path.join(ROOT, slug_ok(country), slug_ok(region), slug_ok(city))
     pj = os.path.join(base, "place.json")
     place = json.load(open(pj, encoding="utf-8")) if os.path.exists(pj) else {
-        "country": a.country, "region": a.region, "city": a.city, "lat": a.lat, "lon": a.lon, "radius_km": a.radius_km, "photos": []}
-    for mode, spec in (("day", a.day), ("night", a.night)):
+        "country": country, "region": region, "city": city, "lat": lat, "lon": lon, "radius_km": radius_km, "photos": []}
+    for mode, spec in (("day", day), ("night", night)):
         os.makedirs(os.path.join(base, mode), exist_ok=True)
         for item in spec or []:
             cid, _, rest = item.partition("=")
@@ -218,18 +357,22 @@ def cmd_add(a):
             c = by_id[int(cid)]
             n = 1 + sum(1 for p in place["photos"] if p["mode"] == mode)
             fname = "%02d.jpg" % n
-            im = Image.open(os.path.join(a.work, "%d.jpg" % c["id"])).convert("RGB")
+            im = Image.open(os.path.join(work, "%d.jpg" % c["id"])).convert("RGB")
             if im.width > WIDTH:
                 im = im.resize((WIDTH, round(im.height * WIDTH / im.width)), Image.LANCZOS)
             im.save(os.path.join(base, mode, fname), quality=85, optimize=True, progressive=True)
             place["photos"].append({"mode": mode, "file": mode + "/" + fname, "title": title or c["name"],
-                                    "subtitle": subtitle or a.city + ", " + a.region, "credit": credit(c), "source": c["page"]})
+                                    "subtitle": subtitle or city + ", " + region, "credit": credit(c), "source": c["page"]})
     json.dump(place, open(pj, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
-    print("wrote", base)
-    cmd_index(a)
+    build_index()
+    return os.path.relpath(base, ROOT).replace("\\", "/")
 
 
-def cmd_index(a):
+def cmd_add(a):
+    print("wrote", add_photos(a.work, a.country, a.region, a.city, a.lat, a.lon, a.radius_km, a.day, a.night))
+
+
+def build_index():
     places = []
     for dirpath, _, files in os.walk(ROOT):
         if "place.json" in files and ".git" not in dirpath:
@@ -242,6 +385,10 @@ def cmd_index(a):
     places.sort(key=lambda p: (p["country"], p["region"], p["city"]))
     json.dump({"version": 1, "places": places}, open(os.path.join(ROOT, "places.json"), "w", encoding="utf-8"), indent=1, ensure_ascii=False)
     print("places.json: %d place(s)" % len(places))
+
+
+def cmd_index(a):
+    build_index()
 
 
 def main():
@@ -264,6 +411,12 @@ def main():
     d.add_argument("--day", nargs="*", help="id, id=Title or id=Title|Subtitle, from the contact sheet")
     d.add_argument("--night", nargs="*", help="id, id=Title or id=Title|Subtitle, from the contact sheet")
     d.set_defaults(fn=cmd_add)
+    u = sub.add_parser("auto", help="find and add a pack for one point by itself (used by the new-places workflow)")
+    u.add_argument("--lat", type=float, required=True)
+    u.add_argument("--lon", type=float, required=True)
+    u.add_argument("--place", default="")
+    u.add_argument("--work", required=True)
+    u.set_defaults(fn=cmd_auto)
     i = sub.add_parser("index")
     i.set_defaults(fn=cmd_index)
     a = ap.parse_args()

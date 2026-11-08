@@ -1,0 +1,50 @@
+{
+ "country": "United Kingdom",
+ "region": "Wales",
+ "city": "Swansea",
+ "lat": 51.6214,
+ "lon": -3.9436,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "70 803 loading straps Baglan",
+   "subtitle": "Swansea, Wales",
+   "credit": "Photo: kitmasterbloke, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:70_803_loading_straps_Baglan.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "70 803 Baglan side",
+   "subtitle": "Swansea, Wales",
+   "credit": "Photo: kitmasterbloke, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:70_803_Baglan_side.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Bracelet Bay, Looking West",
+   "subtitle": "Swansea, Wales",
+   "credit": "Photo: Dave Roberts, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bracelet_Bay,_Looking_West.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Lone cyclist crossing Fairwood Common",
+   "subtitle": "Swansea, Wales",
+   "credit": "Photo: Simon Mortimer, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lone_cyclist_crossing_Fairwood_Common_-_geograph.org.uk_-_5772649.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "70 803 Baglan",
+   "subtitle": "Swansea, Wales",
+   "credit": "Photo: kitmasterbloke, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:70_803_Baglan.jpg"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Beaumont",
+ "lat": 30.0802,
+ "lon": -94.1266,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Vidor Texas City Hall",
+   "subtitle": "Beaumont, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Vidor_Texas_City_Hall_2018.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Rose City City Hall",
+   "subtitle": "Beaumont, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rose_City_City_Hall_2018.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Neches River Lift Bridge in",
+   "subtitle": "Beaumont, Texas",
+   "credit": "Photo: gosdin, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Neches_River_Lift_Bridge_in_2017.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Wiess Park, Beaumont, Texas 1604281350",
+   "subtitle": "Beaumont, Texas",
+   "credit": "Photo: Patrick Feller from Humble, Texas, USA, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Wiess_Park,_Beaumont,_Texas_1604281350_(26170345333).jpg"
+  }
+ ]
+}

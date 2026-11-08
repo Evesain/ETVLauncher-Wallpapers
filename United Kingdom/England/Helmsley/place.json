@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Helmsley",
+ "lat": 54.247,
+ "lon": -1.059,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Winter sunlight on the flanks of Penhill",
+   "subtitle": "Helmsley, England",
+   "credit": "Photo: Gordon Hatton, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Winter_sunlight_on_the_flanks_of_Penhill_-_geograph.org.uk_-_6355571.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "View over Bonfield Gill",
+   "subtitle": "Helmsley, England",
+   "credit": "Photo: Gordon Hatton, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_over_Bonfield_Gill_-_geograph.org.uk_-_2979420.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Helmsley, Castlegate",
+   "subtitle": "Helmsley, England",
+   "credit": "Photo: Michael Garlick, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Helmsley,_Castlegate_-_geograph.org.uk_-_6286909.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "North York Moors National Park",
+   "subtitle": "Helmsley, England",
+   "credit": "Photo: David Kilvington, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:North_York_Moors_National_Park_-_geograph.org.uk_-_6701487.jpg"
+  }
+ ]
+}

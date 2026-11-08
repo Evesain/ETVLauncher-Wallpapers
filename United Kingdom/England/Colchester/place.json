@@ -1,0 +1,58 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Colchester",
+ "lat": 51.8959,
+ "lon": 0.8919,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Fyl's sunset. - panoramio",
+   "subtitle": "Colchester, England",
+   "credit": "Photo: Jane White, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fyl%27s_sunset._-_panoramio.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Borrow dyke at sunset, Tollesbury Wick",
+   "subtitle": "Colchester, England",
+   "credit": "Photo: Roger Jones, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Borrow_dyke_at_sunset,_Tollesbury_Wick_Marshes_-_geograph.org.uk_-_3819029.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Sunset over Chalkwell Oaze",
+   "subtitle": "Colchester, England",
+   "credit": "Photo: Chris Morgan, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_Chalkwell_Oaze_-_geograph.org.uk_-_5236880.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Colchester Castle",
+   "subtitle": "Colchester, England",
+   "credit": "Photo: Peter Stack, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Colchester_Castle_-_geograph.org.uk_-_2764371.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Wheat and wild flowers at sunset, The",
+   "subtitle": "Colchester, England",
+   "credit": "Photo: JJ Jones, CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Wheat_and_wild_flowers_at_sunset,_The_Naze,_Essex_-_panoramio_(3).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Wheat field at sunset, The Naze, Essex -",
+   "subtitle": "Colchester, England",
+   "credit": "Photo: JJ Jones, CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Wheat_field_at_sunset,_The_Naze,_Essex_-_panoramio_(9).jpg"
+  }
+ ]
+}

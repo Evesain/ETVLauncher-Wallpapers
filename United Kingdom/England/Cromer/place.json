@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Cromer",
+ "lat": 52.931,
+ "lon": 1.299,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Pond near Kelling Heath Park Halt",
+   "subtitle": "Cromer, England",
+   "credit": "Photo: Hugh Venables, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pond_near_Kelling_Heath_Park_Halt_-_geograph.org.uk_-_7394443.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Beach, East Runton Gap",
+   "subtitle": "Cromer, England",
+   "credit": "Photo: Julian Dowse, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Beach,_East_Runton_Gap_-_geograph.org.uk_-_2629724.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Cromer, The Pier",
+   "subtitle": "Cromer, England",
+   "credit": "Photo: Michael Garlick, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cromer,_The_Pier_-_geograph.org.uk_-_8341100.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Cromer Pier",
+   "subtitle": "Cromer, England",
+   "credit": "Photo: Michael Garlick, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cromer_Pier_-_geograph.org.uk_-_7514396.jpg"
+  }
+ ]
+}

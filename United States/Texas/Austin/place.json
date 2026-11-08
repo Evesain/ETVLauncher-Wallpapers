@@ -1,0 +1,74 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Austin",
+ "lat": 30.2672,
+ "lon": -97.7431,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Lone Tree Mckinney Falls State Park Texas",
+   "subtitle": "Austin, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lone_Tree_Mckinney_Falls_State_Park_Texas.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Visitor Center McKinney Falls State Park",
+   "subtitle": "Austin, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Visitor_Center_McKinney_Falls_State_Park_Texas_2024.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Easton Park Austin Texas Construction 11",
+   "subtitle": "Austin, Texas",
+   "credit": "Photo: Straley, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Easton_Park_Austin_Texas_Construction_11_July_2016.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Rand Paul",
+   "subtitle": "Austin, Texas",
+   "credit": "Photo: Gage Skidmore from Surprise, AZ, United States of America, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rand_Paul_(16833484835).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Texas State Capitol Building - Austin,",
+   "subtitle": "Austin, Texas",
+   "credit": "Photo: Jonathan Cutrer from San Angelo, Texas, United States, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Texas_State_Capitol_Building_-_Austin,_Texas_(48525043906).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "B&W Texas State Capitol at Night",
+   "subtitle": "Austin, Texas",
+   "credit": "Photo: Jonathan Cutrer, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:B%26W_Texas_State_Capitol_at_Night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Austin Sunrise",
+   "subtitle": "Austin, Texas",
+   "credit": "Photo: Samantha (Wiki Ed), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Austin_Sunrise.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Obsolete",
+   "subtitle": "Austin, Texas",
+   "credit": "Photo: Maxx@night from Austin, Texas. USA, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Obsolete_-_Flickr_-_Night_Photo.jpg"
+  }
+ ]
+}

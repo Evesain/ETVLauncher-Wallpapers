@@ -1,0 +1,66 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Portree",
+ "lat": 57.412,
+ "lon": -6.194,
+ "radius_km": 45,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Sgùrr nan Gillean from Sligachan, Isle of",
+   "subtitle": "Portree, Scotland",
+   "credit": "Photo: Diliff, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sg%C3%B9rr_nan_Gillean_from_Sligachan,_Isle_of_Skye,_Scotland_-_Diliff.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "View from Rubha nam Brathairean, Isle of",
+   "subtitle": "Portree, Scotland",
+   "credit": "Photo: Colin, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_from_Rubha_nam_Brathairean,_Isle_of_Skye.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "South over the Quiraing, Isle of Skye",
+   "subtitle": "Portree, Scotland",
+   "credit": "Photo: Colin, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:South_over_the_Quiraing,_Isle_of_Skye_-_2.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Fungi near the Lealt River - Trotternish,",
+   "subtitle": "Portree, Scotland",
+   "credit": "Photo: Ian Cunliffe, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fungi_near_the_Lealt_River_-_Trotternish,_Skye_-_geograph.org.uk_-_6379203.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Sunset Over Skye - panoramio",
+   "subtitle": "Portree, Scotland",
+   "credit": "Photo: Alexander Reuss, CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_Over_Skye_-_panoramio.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Night lights - panoramio",
+   "subtitle": "Portree, Scotland",
+   "credit": "Photo: Eric Spenle, CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Night_lights_-_panoramio_(3).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunset over the Sound of Raasay",
+   "subtitle": "Portree, Scotland",
+   "credit": "Photo: Calum McRoberts, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_the_Sound_of_Raasay_-_geograph.org.uk_-_2113962.jpg"
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Victoria",
+ "lat": 28.8053,
+ "lon": -97.0036,
+ "radius_km": 40,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Irrigation and Water",
+   "subtitle": "Victoria, Texas",
+   "credit": "Photo: USDAgov, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Irrigation_and_Water_(20210603-NRCS-LSC-0585).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Shelters Goliad State Park Texas",
+   "subtitle": "Victoria, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Shelters_Goliad_State_Park_Texas_2024.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Camping Area Goliad State Park Texas",
+   "subtitle": "Victoria, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Camping_Area_Goliad_State_Park_Texas_2024.jpg"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Bradford",
+ "lat": 53.796,
+ "lon": -1.7594,
+ "radius_km": 20,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "River Aire, Saltaire",
+   "subtitle": "Bradford, England",
+   "credit": "Photo: Tim Green, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:River_Aire,_Saltaire.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Tong Park Dam, Baildon",
+   "subtitle": "Bradford, England",
+   "credit": "Photo: habiloid, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tong_Park_Dam,_Baildon_-_geograph.org.uk_-_8281496.jpg"
+  }
+ ]
+}

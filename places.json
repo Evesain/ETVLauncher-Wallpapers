@@ -114,6 +114,17 @@
   {
    "country": "United Kingdom",
    "region": "England",
+   "city": "Carlisle",
+   "lat": 54.8925,
+   "lon": -2.9329,
+   "radius_km": 30,
+   "path": "United Kingdom/England/Carlisle",
+   "day": 4,
+   "night": 4
+  },
+  {
+   "country": "United Kingdom",
+   "region": "England",
    "city": "Chester",
    "lat": 53.193,
    "lon": -2.8931,
@@ -174,6 +185,17 @@
    "lon": 0.2905,
    "radius_km": 25,
    "path": "United Kingdom/England/Eastbourne",
+   "day": 4,
+   "night": 4
+  },
+  {
+   "country": "United Kingdom",
+   "region": "England",
+   "city": "Exeter",
+   "lat": 50.7184,
+   "lon": -3.5339,
+   "radius_km": 25,
+   "path": "United Kingdom/England/Exeter",
    "day": 4,
    "night": 4
   },
@@ -257,11 +279,44 @@
   {
    "country": "United Kingdom",
    "region": "England",
+   "city": "Lancaster",
+   "lat": 54.0466,
+   "lon": -2.8007,
+   "radius_km": 25,
+   "path": "United Kingdom/England/Lancaster",
+   "day": 4,
+   "night": 3
+  },
+  {
+   "country": "United Kingdom",
+   "region": "England",
    "city": "Land's End",
    "lat": 50.118,
    "lon": -5.537,
    "radius_km": 30,
    "path": "United Kingdom/England/Land's End",
+   "day": 4,
+   "night": 4
+  },
+  {
+   "country": "United Kingdom",
+   "region": "England",
+   "city": "Leeds",
+   "lat": 53.8008,
+   "lon": -1.5491,
+   "radius_km": 25,
+   "path": "United Kingdom/England/Leeds",
+   "day": 4,
+   "night": 4
+  },
+  {
+   "country": "United Kingdom",
+   "region": "England",
+   "city": "Leicester",
+   "lat": 52.6369,
+   "lon": -1.1398,
+   "radius_km": 25,
+   "path": "United Kingdom/England/Leicester",
    "day": 4,
    "night": 4
   },
@@ -378,6 +433,17 @@
   {
    "country": "United Kingdom",
    "region": "England",
+   "city": "Norwich",
+   "lat": 52.6309,
+   "lon": 1.2974,
+   "radius_km": 25,
+   "path": "United Kingdom/England/Norwich",
+   "day": 4,
+   "night": 4
+  },
+  {
+   "country": "United Kingdom",
+   "region": "England",
    "city": "Nottingham",
    "lat": 52.9548,
    "lon": -1.1581,
@@ -385,6 +451,17 @@
    "path": "United Kingdom/England/Nottingham",
    "day": 4,
    "night": 4
+  },
+  {
+   "country": "United Kingdom",
+   "region": "England",
+   "city": "Oxford",
+   "lat": 51.752,
+   "lon": -1.2577,
+   "radius_km": 25,
+   "path": "United Kingdom/England/Oxford",
+   "day": 4,
+   "night": 3
   },
   {
    "country": "United Kingdom",
@@ -499,6 +576,17 @@
   {
    "country": "United Kingdom",
    "region": "England",
+   "city": "Stoke-on-Trent",
+   "lat": 53.0027,
+   "lon": -2.1794,
+   "radius_km": 20,
+   "path": "United Kingdom/England/Stoke-on-Trent",
+   "day": 4,
+   "night": 4
+  },
+  {
+   "country": "United Kingdom",
+   "region": "England",
    "city": "Sunderland",
    "lat": 54.9069,
    "lon": -1.3838,
@@ -539,6 +627,17 @@
    "path": "United Kingdom/England/Whitby",
    "day": 4,
    "night": 3
+  },
+  {
+   "country": "United Kingdom",
+   "region": "England",
+   "city": "Wigan",
+   "lat": 53.545,
+   "lon": -2.6325,
+   "radius_km": 20,
+   "path": "United Kingdom/England/Wigan",
+   "day": 4,
+   "night": 4
   },
   {
    "country": "United Kingdom",

@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Oban",
+ "lat": 56.415,
+ "lon": -5.472,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Rain over Beinn Eich, Luss Hills, Scotland",
+   "subtitle": "Oban, Scotland",
+   "credit": "Photo: Michal Klajban, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rain_over_Beinn_Eich,_Luss_Hills,_Scotland.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "A small loch in the saddle between Beinn",
+   "subtitle": "Oban, Scotland",
+   "credit": "Photo: Michal Klajban, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A_small_loch_in_the_saddle_between_Beinn_an_Dothaidh_and_Beinn_Dorain,_Scotland_01.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Common seal (Phoca vitulina)",
+   "subtitle": "Oban, Scotland",
+   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Common_seal_(Phoca_vitulina)_2.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Inveraray Castle, Argyll and Bute,",
+   "subtitle": "Oban, Scotland",
+   "credit": "Photo: Son of Groucho from Scotland, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Inveraray_Castle,_Argyll_and_Bute,_Scotland-31May2010.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Oban at Night",
+   "subtitle": "Oban, Scotland",
+   "credit": "Photo: Raibeart MacAoidh, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Oban_at_Night_-_geograph.org.uk_-_7933129.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Argyll & Macnab MPU DSC00799",
+   "subtitle": "Oban, Scotland",
+   "credit": "Photo: SteelCity905, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Argyll_%26_Macnab_MPU_DSC00799.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Evening Arrival",
+   "subtitle": "Oban, Scotland",
+   "credit": "Photo: Tony Hisgett from Birmingham, UK, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Evening_Arrival_(37379679446).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Easter",
+   "subtitle": "Oban, Scotland",
+   "credit": "Photo: marsupium photography, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Easter_2013_(8619909869).jpg"
+  }
+ ]
+}

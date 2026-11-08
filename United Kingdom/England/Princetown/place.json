@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Princetown",
+ "lat": 50.542,
+ "lon": -3.993,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "From O Pupers last light-3 crop",
+   "subtitle": "Princetown, England",
+   "credit": "Photo: Herbythyme, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:From_O_Pupers_last_light-3_crop.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Mil tor",
+   "subtitle": "Princetown, England",
+   "credit": "Photo: Herbythyme, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mil_tor.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "West Devon , Dartmoor Scenery",
+   "subtitle": "Princetown, England",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:West_Devon_,_Dartmoor_Scenery_-_geograph.org.uk_-_4630236.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "West Devon , Dartmoor Scenery - Fur Tor",
+   "subtitle": "Princetown, England",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:West_Devon_,_Dartmoor_Scenery_-_Fur_Tor_-_geograph.org.uk_-_4630247.jpg"
+  }
+ ]
+}

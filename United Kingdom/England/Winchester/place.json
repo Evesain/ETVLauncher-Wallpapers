@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Winchester",
+ "lat": 51.0632,
+ "lon": -1.308,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "The Clarendon Way on Beacon Hill",
+   "subtitle": "Winchester, England",
+   "credit": "Photo: Bill Boaden, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Clarendon_Way_on_Beacon_Hill_-_geograph.org.uk_-_6978235.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Sunrise over Morestead, Hampshire",
+   "subtitle": "Winchester, England",
+   "credit": "Photo: Forbes Johnston, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_over_Morestead,_Hampshire.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Clouded yellow (Colias croceus) male",
+   "subtitle": "Winchester, England",
+   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Clouded_yellow_(Colias_croceus)_male_underside_2.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Clouded yellow (Colias croceus) female",
+   "subtitle": "Winchester, England",
+   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Clouded_yellow_(Colias_croceus)_female_underside.jpg"
+  }
+ ]
+}

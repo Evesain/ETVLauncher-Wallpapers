@@ -1,0 +1,58 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Melrose",
+ "lat": 55.599,
+ "lon": -2.724,
+ "radius_km": 40,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Burnmouth MMB",
+   "subtitle": "Melrose, Scotland",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Burnmouth_MMB_06.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Greenlaw Moor",
+   "subtitle": "Melrose, Scotland",
+   "credit": "Photo: Richard Webb, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Greenlaw_Moor_-_geograph.org.uk_-_7849424.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Line of butts, Greenlaw Moor",
+   "subtitle": "Melrose, Scotland",
+   "credit": "Photo: Richard Webb, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Line_of_butts,_Greenlaw_Moor_-_geograph.org.uk_-_7849708.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Melrose Abbey",
+   "subtitle": "Melrose, Scotland",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Melrose_Abbey_-_geograph.org.uk_-_6011847.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Stormy sunset",
+   "subtitle": "Melrose, Scotland",
+   "credit": "Photo: Jonathan Combe from Scotland, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Stormy_sunset_(11784502705).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Melrose Town Square at Night",
+   "subtitle": "Melrose, Scotland",
+   "credit": "Photo: Daniel from Glasgow, United Kingdom, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Melrose_Town_Square_at_Night_(8623040086).jpg"
+  }
+ ]
+}

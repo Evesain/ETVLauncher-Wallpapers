@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Bath",
+ "lat": 51.3811,
+ "lon": -2.359,
+ "radius_km": 20,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Bath MMB 11 River Avon",
+   "subtitle": "Bath, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bath_MMB_11_River_Avon.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Bath MMB 14 River Avon",
+   "subtitle": "Bath, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bath_MMB_14_River_Avon.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Former occupation bridge at Wellow",
+   "subtitle": "Bath, England",
+   "credit": "Photo: John Winder, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Former_occupation_bridge_at_Wellow_-_geograph.org.uk_-_5214755.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Henley Hill",
+   "subtitle": "Bath, England",
+   "credit": "Photo: Derek Harper, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Henley_Hill_-_geograph.org.uk_-_6344863.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Bath monuments 2016 Bath Abbey at night",
+   "subtitle": "Bath, England",
+   "credit": "Photo: Jwslubbock, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bath_monuments_2016_Bath_Abbey_at_night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Bath monuments 2016 Pulteney Bridge at",
+   "subtitle": "Bath, England",
+   "credit": "Photo: Jwslubbock, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bath_monuments_2016_Pulteney_Bridge_at_night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Bath , Parade Gardens",
+   "subtitle": "Bath, England",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bath_,_Parade_Gardens_-_geograph.org.uk_-_7905076.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "The King's Bath at Night",
+   "subtitle": "Bath, England",
+   "credit": "Photo: Matthew Hoser, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_King%27s_Bath_at_Night_(2).jpg"
+  }
+ ]
+}

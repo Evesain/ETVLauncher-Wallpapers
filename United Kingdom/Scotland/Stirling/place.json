@@ -1,0 +1,34 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Stirling",
+ "lat": 56.1165,
+ "lon": -3.9369,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Stirling Bridge in sun",
+   "subtitle": "Stirling, Scotland",
+   "credit": "Photo: Iain Cameron, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Stirling_Bridge_in_sun.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Stirling Castle Royal Palace",
+   "subtitle": "Stirling, Scotland",
+   "credit": "Photo: DeFacto, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Stirling_Castle_Royal_Palace.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Stirling Castle by night",
+   "subtitle": "Stirling, Scotland",
+   "credit": "Photo: Watty62, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Stirling_Castle_by_night.jpg"
+  }
+ ]
+}

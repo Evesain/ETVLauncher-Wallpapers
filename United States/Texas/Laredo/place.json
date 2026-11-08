@@ -1,0 +1,26 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Laredo",
+ "lat": 27.5306,
+ "lon": -99.4803,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Fraccionamiento Vista Hermosa en Nuevo",
+   "subtitle": "Laredo, Texas",
+   "credit": "Photo: Miguel Angel Omaña Rojas, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fraccionamiento_Vista_Hermosa_en_Nuevo_Laredo.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "El Laguito, Nuevo Laredo",
+   "subtitle": "Laredo, Texas",
+   "credit": "Photo: Miguel Angel Omaña Rojas, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:El_Laguito,_Nuevo_Laredo.jpg"
+  }
+ ]
+}

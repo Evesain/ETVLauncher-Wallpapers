@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Kirkwall",
+ "lat": 58.981,
+ "lon": -2.96,
+ "radius_km": 40,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "On Stronsay - St Catherine's Bay ^ Gricey",
+   "subtitle": "Kirkwall, Scotland",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:On_Stronsay_-_St_Catherine%27s_Bay_%5E_Gricey_Water_-_geograph.org.uk_-_6331213.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "On Stronsay - view towards Whitehall Farm",
+   "subtitle": "Kirkwall, Scotland",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:On_Stronsay_-_view_towards_Whitehall_Farm_%5E_Whitehall_-_geograph.org.uk_-_6331369.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "A966 Abune-the-Hill near Bea farm",
+   "subtitle": "Kirkwall, Scotland",
+   "credit": "Photo: Jo and Steve Turner, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A966_Abune-the-Hill_near_Bea_farm_-_geograph.org.uk_-_4057601.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Coastline, Linga Sound, Stronsay, Orkney",
+   "subtitle": "Kirkwall, Scotland",
+   "credit": "Photo: Claire Pegrum, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Coastline,_Linga_Sound,_Stronsay,_Orkney_-_geograph.org.uk_-_3994518.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Merry Dancers over Holm",
+   "subtitle": "Kirkwall, Scotland",
+   "credit": "Photo: C1614, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Merry_Dancers_over_Holm.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Sunset in Kirkwall (1) (Kenny McFly)",
+   "subtitle": "Kirkwall, Scotland",
+   "credit": "Photo: Kenny McFly, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_in_Kirkwall_(1)_(Kenny_McFly).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunset at Castle o' Burrian on Westray -",
+   "subtitle": "Kirkwall, Scotland",
+   "credit": "Photo: Phillyacct, CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_at_Castle_o%27_Burrian_on_Westray_-_panoramio.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "On Stronsay - Treig point on John's Hill",
+   "subtitle": "Kirkwall, Scotland",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:On_Stronsay_-_Treig_point_on_John%27s_Hill_-_geograph.org.uk_-_6331382.jpg"
+  }
+ ]
+}

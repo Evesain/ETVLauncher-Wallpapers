@@ -1,0 +1,58 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Harrogate",
+ "lat": 53.9921,
+ "lon": -1.5418,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Prospect Gardens, Harrogate",
+   "subtitle": "Harrogate, England",
+   "credit": "Photo: Chris Morgan, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Prospect_Gardens,_Harrogate_-_geograph.org.uk_-_6933750.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Spur in Haverah Park",
+   "subtitle": "Harrogate, England",
+   "credit": "Photo: Matthew Hatton, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Spur_in_Haverah_Park_-_geograph.org.uk_-_2518751.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "View towards Beaver Dyke Reservoir",
+   "subtitle": "Harrogate, England",
+   "credit": "Photo: Chris Heaton, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_towards_Beaver_Dyke_Reservoir_-_geograph.org.uk_-_7531071.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Harrogate Dales Way Link above Beaver",
+   "subtitle": "Harrogate, England",
+   "credit": "Photo: Chris Heaton, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Harrogate_Dales_Way_Link_above_Beaver_Dyke_Reservoir_-_geograph.org.uk_-_7531075.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Sunrise, Harrogate",
+   "subtitle": "Harrogate, England",
+   "credit": "Photo: Derek Harper, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise,_Harrogate_-_geograph.org.uk_-_5635361.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Sunset, Harrogate",
+   "subtitle": "Harrogate, England",
+   "credit": "Photo: Derek Harper, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset,_Harrogate_-_geograph.org.uk_-_6011857.jpg"
+  }
+ ]
+}

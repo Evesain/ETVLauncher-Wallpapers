@@ -1,0 +1,26 @@
+{
+ "country": "United Kingdom",
+ "region": "Wales",
+ "city": "Llangefni",
+ "lat": 53.257,
+ "lon": -4.315,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Sunset over the Sea from Llanddwyn",
+   "subtitle": "Llangefni, Wales",
+   "credit": "Photo: TXGemGem, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_the_Sea_from_Llanddwyn_Island,_Anglesey_%E2%80%93_July_2025.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Tŵr Bach Beacon and Anchored Boats off",
+   "subtitle": "Llangefni, Wales",
+   "credit": "Photo: TXGemGem, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:T%C5%B5r_Bach_Beacon_and_Anchored_Boats_off_Llanddwyn_Island,_Anglesey_%E2%80%93_July_2025.jpg"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Terlingua",
+ "lat": 29.32,
+ "lon": -103.62,
+ "radius_km": 60,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Remnants of a Volcano",
+   "subtitle": "Terlingua, Texas",
+   "credit": "Photo: Jonathan Cutrer, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Remnants_of_a_Volcano.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Big-Bend-NP",
+   "subtitle": "Terlingua, Texas",
+   "credit": "Photo: Martin D. Adamiker, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Big-Bend-NP.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Santa Elena Canyon BIBE",
+   "subtitle": "Terlingua, Texas",
+   "credit": "Photo: R Hensley from US, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Santa_Elena_Canyon_BIBE.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Mule Ears Peaks in Big Bend National Park",
+   "subtitle": "Terlingua, Texas",
+   "credit": "Photo: lns1122, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mule_Ears_Peaks_in_Big_Bend_National_Park.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Flickr - ggallice - Sunset",
+   "subtitle": "Terlingua, Texas",
+   "credit": "Photo: Geoff Gallice from Gainesville, FL, USA, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Sunset.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Big Bend National Park, United States",
+   "subtitle": "Terlingua, Texas",
+   "credit": "Photo: Jesse Sewell jessesewell, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Big_Bend_National_Park,_United_States_(Unsplash_7V78KRaWMKQ).jpg"
+  }
+ ]
+}

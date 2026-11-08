@@ -1,0 +1,26 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Port Aransas",
+ "lat": 27.8339,
+ "lon": -97.0611,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Port Aransas, Texas",
+   "subtitle": "Port Aransas, Texas",
+   "credit": "Photo: Quintin Soloviev, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Port_Aransas,_Texas.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Texas Sunset at Port Aransas",
+   "subtitle": "Port Aransas, Texas",
+   "credit": "Photo: Shiva Shenoy from Flower Mound, United States, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Texas_Sunset_at_Port_Aransas_-_Flickr_-_Shiva_Shenoy.jpg"
+  }
+ ]
+}

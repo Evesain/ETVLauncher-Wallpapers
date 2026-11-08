@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Middlesbrough",
+ "lat": 54.5742,
+ "lon": -1.235,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Staithes MMB 46 Whitby, Redcar and",
+   "subtitle": "Middlesbrough, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Staithes_MMB_46_Whitby,_Redcar_and_Middlesbrough_Union_Railway.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Middlesbrough town hall and fountains",
+   "subtitle": "Middlesbrough, England",
+   "credit": "Photo: Robert Eva, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Middlesbrough_town_hall_and_fountains_-_geograph.org.uk_-_5469169.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Entrance to Wilton Castle",
+   "subtitle": "Middlesbrough, England",
+   "credit": "Photo: Philip Barker, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Entrance_to_Wilton_Castle_-_geograph.org.uk_-_2015764.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Public footpath to Wilton Wood",
+   "subtitle": "Middlesbrough, England",
+   "credit": "Photo: Philip Barker, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Public_footpath_to_Wilton_Wood_-_geograph.org.uk_-_1782850.jpg"
+  }
+ ]
+}

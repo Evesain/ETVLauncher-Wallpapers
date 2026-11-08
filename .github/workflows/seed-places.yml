@@ -67,7 +67,7 @@ jobs:
           exit 1
 
   index:
-    name: Rebuild places.json
+    name: Fill packs and rebuild places.json
     needs: seed
     if: always()
     runs-on: ubuntu-latest
@@ -80,14 +80,14 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install pillow
-      - name: Rebuild and commit places.json
+      - name: Fill thin packs from their neighbours, rebuild places.json and commit
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git pull -q --ff-only
-          python tools/wallpaper_tool.py index
-          if git diff --quiet -- places.json; then echo "places.json is up to date."; exit 0; fi
-          git add places.json
-          git commit -q -m "Rebuild places.json"
+          python tools/wallpaper_tool.py fill
+          git add -A
+          if git diff --cached --quiet; then echo "Nothing to fill."; exit 0; fi
+          git commit -q -m "Fill thin packs from their neighbours and rebuild places.json"
           git push -q origin main

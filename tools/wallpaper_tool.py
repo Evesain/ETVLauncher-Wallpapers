@@ -5,6 +5,7 @@ Photos come from Wikimedia Commons, which gives the licence and the photographer
 reuse with credit are used (CC0, public domain, CC BY, CC BY-SA). The credit goes into the text next to the photo. Nothing is
 drawn on the picture.
 
+  fill   Top every pack up from its neighbours.  remove  Delete photos from a pack.
   seed   Run auto for every place of a seed list (tools/seed/*.json).
   auto   Find and add a pack for one point without help (the new-places workflow uses this; a person reviews the pull request).
   find   Search Commons near a place and write candidate pictures and contact sheets to a work folder, for a person to look at.
@@ -174,9 +175,10 @@ def gather(centres, radius, queries, maxdist=35000):
             if src == "text" and term.lower() not in c["blob"]:
                 continue
             # A file with its own coordinates must lie within 35 km (or the place's radius) of a centre (so "Whitby" is not Whitby in Canada). Larger places allow more.
-            if c["lat"] is not None and min(metres(c["lat"], c["lon"], la, lo) for la, lo in centres) > maxdist:
+            # A picture without coordinates cannot be placed, so it is not used (this drops other towns of the same name).
+            if c["lat"] is None or min(metres(c["lat"], c["lon"], la, lo) for la, lo in centres) > maxdist:
                 continue
-            c["from"] = src if c["lat"] is not None or src == "geo" else "text"
+            c["from"] = src
             cands.append(c)
     print("%d pass the size and licence checks" % len(cands))
     return cands
@@ -225,7 +227,10 @@ POOR = re.compile(r"interior|inside|church|cathedral|chapel|\bpub\b|\binn\b|hote
                   r"\bshed\b|barn|pylon|\bbin\b|recycling|warehouse|office|club|society|centre\b|"
                   r"\bhen\b|\bstag\b|party|wedding|birthday|selfie|friends|family|\bgirls?\b|\bboys?\b|\bwoman|\bman\b|\blady\b|"
                   r"kids?\b|child|people|portrait|\bme\b|\bmy\b|"
-                  r"tourists?|posing|ruined|outbuilding|farmland|panosphere|panorama|moss\b|graffiti|\bcctv\b|scaffold", re.I)
+                  r"tourists?|posing|ruined|outbuilding|farmland|panosphere|panorama|moss\b|graffiti|\bcctv\b|scaffold|"
+                  r"\biss\d|view of earth|satellite|\bnasa\b|landsat|sentinel|\bzoo\b|concert|singer|musician|violin|\bband\b|book ?store|"
+                  r"\bblocks?\b|footbridge|\bbrook\b|\bditch|\bpath\b|\btrack\b|\bgate\b|\bwall\b|\bfence|\bbench|litter|"
+                  r"unsplash\)?$|\bwreck|lorry|aircraft|airport|\bplane\b|\bbus\b|supermarket|\bmall\b|parking", re.I)
 GOOD = re.compile(r"park|lake|reservoir|hill|castle|view|sunrise|sunset|valley|river|canal|beach|harbou?r|skyline|panorama|forest|"
                   r"bridge|tower|abbey|cliff|mountain|moor|peak|cathedral|hall\b|palace|pier|lighthouse|waterfall|ridge|coast|"
                   r"bay\b|island|woods?\b|common|gardens?|aurora|night|dusk|twilight|illuminat", re.I)
@@ -265,9 +270,16 @@ def score(c, night):
     return sc
 
 
+def scenic(c):
+    """A quality / featured / valued picture, or one whose title or description names a view or landmark."""
+    return c.get("quality") or GOOD.search(c["name"]) or GOOD.search(c.get("desc", "")[:120])
+
+
 def pick(items, night, n):
     chosen, stems, authors = [], set(), {}
     for c in sorted(items, key=lambda c: -score(c, night)):
+        if not scenic(c):
+            continue
         if POOR.search(c["name"]) or POOR.search(c.get("desc", "")[:80]):
             continue                                            # never pick indoors, streets, signs or people
         if score(c, night) < (1 if night else 0):
@@ -344,25 +356,17 @@ def auto(lat, lon, place, work, n=4, explicit=None):
     # Dusk, sunset and blue-hour pictures count as night photos when their own words say so.
     dusk = [c for c in day if c["brightness"] < 110 and c["hint_night"] and c["id"] not in used]
     ni = pick(night + dusk, True, n)
-    if len(d) < 3:
-        return "none", "%s, %s, %s: only %d day photos fit" % (town, region, country, len(d))
+    if len(d) + len(ni) < 2:
+        return "none", "%s, %s, %s: only %d day and %d night photos fit" % (town, region, country, len(d), len(ni))
     sub = town + ", " + region
     folder = add_photos(work, country, region, town, round(lat, 4), round(lon, 4), radius_km,
                         ["%d=%s|%s" % (c["id"], nice_title(c["name"]), sub) for c in d],
                         ["%d=%s|%s" % (c["id"], nice_title(c["name"]), sub) for c in ni])
-    if len(ni) < 3:
-        # Too few night photos here: take some from the nearest packs. Their captions keep the real place name.
-        got = borrow_night(folder, lat, lon, 4 - len(ni))
-        if len(ni) + got < 3:
-            import shutil
-            shutil.rmtree(os.path.join(ROOT, folder), ignore_errors=True)
-            return "none", "%s, %s, %s: only %d day and %d night photos fit" % (town, region, country, len(d), len(ni) + got)
-        return "done", folder + " (%d night photos borrowed)" % got
-    return "done", folder
+    return "done", folder + " (%d day, %d night; the rest is filled in later)" % (len(d), len(ni))
 
 
-def borrow_night(folder, lat, lon, need):
-    """Copies up to {need} night photos from the nearest other packs (within 250 km) into this pack. Returns how many."""
+def borrow(folder, lat, lon, mode, need):
+    """Copies up to {need} photos of {mode} from the nearest other packs (within 250 km) into this pack. Returns how many."""
     import shutil
     base = os.path.join(ROOT, folder)
     pj = os.path.join(base, "place.json")
@@ -373,7 +377,7 @@ def borrow_night(folder, lat, lon, need):
             continue
         q = json.load(open(os.path.join(dirpath, "place.json"), encoding="utf-8"))
         km = metres(lat, lon, q["lat"], q["lon"]) / 1000
-        if km <= 250 and any(x["mode"] == "night" for x in q["photos"]):
+        if km <= 250 and any(x["mode"] == mode for x in q["photos"]):
             near.append((km, dirpath, q))
     near.sort(key=lambda t: t[0])
     taken = 0
@@ -381,11 +385,11 @@ def borrow_night(folder, lat, lon, need):
         for ph in q["photos"]:
             if taken >= need:
                 break
-            if ph["mode"] != "night" or any(x["source"] == ph["source"] for x in place["photos"]):
+            if ph["mode"] != mode or any(x["source"] == ph["source"] for x in place["photos"]):
                 continue
-            n = 1 + sum(1 for x in place["photos"] if x["mode"] == "night")
-            fname = "night/%02d.jpg" % n
-            os.makedirs(os.path.join(base, "night"), exist_ok=True)
+            n = 1 + sum(1 for x in place["photos"] if x["mode"] == mode)
+            fname = "%s/%02d.jpg" % (mode, n)
+            os.makedirs(os.path.join(base, mode), exist_ok=True)
             shutil.copyfile(os.path.join(dirpath, ph["file"]), os.path.join(base, fname))
             entry = dict(ph)
             entry["file"] = fname
@@ -395,6 +399,53 @@ def borrow_night(folder, lat, lon, need):
             break
     json.dump(place, open(pj, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
     return taken
+
+
+def all_packs():
+    """(folder relative to the repository, place.json content) for every pack."""
+    out = []
+    for dirpath, _, files in os.walk(ROOT):
+        if "place.json" in files and ".git" not in dirpath:
+            out.append((os.path.relpath(dirpath, ROOT).replace("\\", "/"), json.load(open(os.path.join(dirpath, "place.json"), encoding="utf-8"))))
+    return sorted(out)
+
+
+def cmd_fill(a):
+    """Tops every pack up to {min} photos of each mode, borrowing from the nearest packs. The caption keeps the real place name."""
+    for folder, p in all_packs():
+        for mode in ("day", "night"):
+            have = sum(1 for x in p["photos"] if x["mode"] == mode)
+            if have < a.min:
+                got = borrow(folder, p["lat"], p["lon"], mode, a.min - have)
+                print("%s: %s %d -> %d" % (folder, mode, have, have + got))
+    build_index()
+
+
+def cmd_remove(a):
+    """Deletes photos (day/02.jpg ...) from a pack, closes the numbering gap and rebuilds places.json."""
+    folder = next((f for f, p in all_packs() if f == a.pack or p["city"] == a.pack), None)
+    if folder is None:
+        raise SystemExit("no pack " + a.pack)
+    base = os.path.join(ROOT, folder)
+    pj = os.path.join(base, "place.json")
+    place = json.load(open(pj, encoding="utf-8"))
+    drop = set(a.files)
+    keep_photos = [x for x in place["photos"] if x["file"] not in drop]
+    for x in place["photos"]:
+        if x["file"] in drop:
+            os.remove(os.path.join(base, x["file"]))
+    # renumber each mode 01, 02 ... through temporary names, so nothing is overwritten
+    for mode in ("day", "night"):
+        mine = [x for x in keep_photos if x["mode"] == mode]
+        for i, x in enumerate(mine):
+            os.rename(os.path.join(base, x["file"]), os.path.join(base, "%s/tmp%02d.jpg" % (mode, i + 1)))
+        for i, x in enumerate(mine):
+            new = "%s/%02d.jpg" % (mode, i + 1)
+            os.rename(os.path.join(base, "%s/tmp%02d.jpg" % (mode, i + 1)), os.path.join(base, new))
+            x["file"] = new
+    place["photos"] = keep_photos
+    json.dump(place, open(pj, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
+    print("%s: %d day, %d night left" % (folder, sum(x["mode"] == "day" for x in keep_photos), sum(x["mode"] == "night" for x in keep_photos)))
 
 
 def cmd_auto(a):
@@ -523,6 +574,13 @@ def main():
     u.add_argument("--place", default="")
     u.add_argument("--work", required=True)
     u.set_defaults(fn=cmd_auto)
+    fl = sub.add_parser("fill", help="top every pack up to --min photos of each mode from its neighbours")
+    fl.add_argument("--min", type=int, default=3)
+    fl.set_defaults(fn=cmd_fill)
+    rm = sub.add_parser("remove", help="delete photos from a pack")
+    rm.add_argument("pack", help="the city or the folder")
+    rm.add_argument("files", nargs="+", help="such as day/02.jpg night/01.jpg")
+    rm.set_defaults(fn=cmd_remove)
     sd = sub.add_parser("seed", help="run auto for every place of a seed list (tools/seed/*.json) that has no folder yet")
     sd.add_argument("list", nargs="+", help="one or more seed lists")
     sd.add_argument("--shard", default="0/1", help="K/N: take every N-th place, starting at K")

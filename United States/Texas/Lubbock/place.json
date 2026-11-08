@@ -1,0 +1,42 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Lubbock",
+ "lat": 33.5779,
+ "lon": -101.8552,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Downtown Lubbock from east",
+   "subtitle": "Lubbock, Texas",
+   "credit": "Photo: Fredlyfish4, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Downtown_Lubbock_from_east_2.JPG"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Brown ICM",
+   "subtitle": "Lubbock, Texas",
+   "credit": "Photo: Sclemmons, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Brown_ICM_(3).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Lubbock April 2022 39 (Midnight Shift",
+   "subtitle": "Lubbock, Texas",
+   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lubbock_April_2022_39_(Midnight_Shift_Restaurant_%26_Bar).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "MacKenzie Park lake",
+   "subtitle": "Lubbock, Texas",
+   "credit": "Photo: Fredlyfish4, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:MacKenzie_Park_lake.JPG"
+  }
+ ]
+}

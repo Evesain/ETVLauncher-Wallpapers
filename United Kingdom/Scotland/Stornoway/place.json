@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Stornoway",
+ "lat": 58.209,
+ "lon": -6.387,
+ "radius_km": 45,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Traigh Mhor, North Tolsta - view from",
+   "subtitle": "Stornoway, Scotland",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Traigh_Mhor,_North_Tolsta_-_view_from_cliffs_above_Gob_an_t-Seabhaig_-_geograph.org.uk_-_7668877.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Cliffs at Tolsta Head - view to Eilean a",
+   "subtitle": "Stornoway, Scotland",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cliffs_at_Tolsta_Head_-_view_to_Eilean_a_Muigh_Heisgeir_-_geograph.org.uk_-_7668880.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Stornoway Town Hall South Beach",
+   "subtitle": "Stornoway, Scotland",
+   "credit": "Photo: Jo and Steve Turner, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Stornoway_Town_Hall_South_Beach_-_geograph.org.uk_-_4842372.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "06162 UK - Outer Hebrides - Stornoway -",
+   "subtitle": "Stornoway, Scotland",
+   "credit": "Photo: Virtual-Pano, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:06162_UK_-_Outer_Hebrides_-_Stornoway_-_Matheson_Hall_-_V-P.jpg"
+  }
+ ]
+}

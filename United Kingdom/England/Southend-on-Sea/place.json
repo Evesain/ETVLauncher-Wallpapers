@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Southend-on-Sea",
+ "lat": 51.5459,
+ "lon": 0.7077,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Southend-on-Sea MMB",
+   "subtitle": "Southend-on-Sea, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Southend-on-Sea_MMB_06.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Hills in Hadleigh Country Park",
+   "subtitle": "Southend-on-Sea, England",
+   "credit": "Photo: Roger Jones, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hills_in_Hadleigh_Country_Park_-_geograph.org.uk_-_3793851.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Foreshore, Isle of Grain Coastal Park",
+   "subtitle": "Southend-on-Sea, England",
+   "credit": "Photo: Roger Jones, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Foreshore,_Isle_of_Grain_Coastal_Park_-_geograph.org.uk_-_8190548.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Beach and esplanade at Grain",
+   "subtitle": "Southend-on-Sea, England",
+   "credit": "Photo: Oast House Archive, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Beach_and_esplanade_at_Grain_-_geograph.org.uk_-_5451653.jpg"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Grassington",
+ "lat": 54.038,
+ "lon": -2.01,
+ "radius_km": 40,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "2013 Cogden Bridge",
+   "subtitle": "Grassington, England",
+   "credit": "Photo: Kreuzschnabel, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2013_Cogden_Bridge.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "2015 Swaledale from Kisdon Hill",
+   "subtitle": "Grassington, England",
+   "credit": "Photo: Kreuzschnabel, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Low Birkwith Moor",
+   "subtitle": "Grassington, England",
+   "credit": "Photo: Peter McDermott, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Low_Birkwith_Moor_-_geograph.org.uk_-_7595955.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "View West from Lord's Seat",
+   "subtitle": "Grassington, England",
+   "credit": "Photo: Chris Heaton, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_West_from_Lord%27s_Seat_-_geograph.org.uk_-_4122972.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Sunset as the Romans might have seen it",
+   "subtitle": "Grassington, England",
+   "credit": "Photo: Ian Greig, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_as_the_Romans_might_have_seen_it_-_geograph.org.uk_-_2071980.jpg"
+  }
+ ]
+}

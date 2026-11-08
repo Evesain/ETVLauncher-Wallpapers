@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Cambridge",
+ "lat": 52.2053,
+ "lon": 0.1218,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "20130808 Kings College Entrance Hi-res",
+   "subtitle": "Cambridge, England",
+   "credit": "Photo: Dmitry Tonkonog, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:20130808_Kings_College_Entrance_Hi-res.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "20130808 Kings College Front Court",
+   "subtitle": "Cambridge, England",
+   "credit": "Photo: Dmitry Tonkonog, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:20130808_Kings_College_Front_Court_Fountain_Crop_01.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Sunrise in a wheat field near Cambridge,",
+   "subtitle": "Cambridge, England",
+   "credit": "Photo: sagesolar, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_in_a_wheat_field_near_Cambridge,_UK.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Dusk over Christ's Pieces",
+   "subtitle": "Cambridge, England",
+   "credit": "Photo: Bob Harvey, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dusk_over_Christ%27s_Pieces_-_geograph.org.uk_-_5970634.jpg"
+  }
+ ]
+}

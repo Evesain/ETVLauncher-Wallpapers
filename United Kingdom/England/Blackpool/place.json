@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Blackpool",
+ "lat": 53.8175,
+ "lon": -3.0357,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Woodcock Wood",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Ian Greig, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Woodcock_Wood_-_geograph.org.uk_-_5852757.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Blackpool Beach Sunset",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Michael D Beckwith, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Blackpool_Beach_Sunset.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Calm Bliss",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Michael D Beckwith, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Calm_Bliss_(31709727123).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Queen's Promenade at Dusk",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Steve Barnes, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Queen%27s_Promenade_at_Dusk_-_geograph.org.uk_-_6565822.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Golden Red",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Michael D Beckwith, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Golden_Red_(25171978236).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Blackpool North Pier Sunset",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Michael Beckwith, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Blackpool_North_Pier_Sunset_(7169117726).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Blackpool Promenade Sunset",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Michael Beckwith, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Blackpool_Promenade_Sunset_(7169103702).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Blackpool Promenade Sunset - panoramio",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Michael D Beckwith, CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Blackpool_Promenade_Sunset_-_panoramio.jpg"
+  }
+ ]
+}

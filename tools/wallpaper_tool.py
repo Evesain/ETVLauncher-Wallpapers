@@ -339,14 +339,62 @@ def auto(lat, lon, place, work, n=4, explicit=None):
     # Download only the most promising ones, so the run stays quick.
     cands.sort(key=lambda c: -(score(c, False) + (2 if c["hint_night"] else 0)))
     day, night = download(cands[:100], work)
-    d, ni = pick(day, False, n), pick(night, True, n)
-    if len(d) < 3 or len(ni) < 3:
-        return "none", "%s, %s, %s: only %d day and %d night photos fit" % (town, region, country, len(d), len(ni))
+    d = pick(day, False, n)
+    used = set(c["id"] for c in d)
+    # Dusk, sunset and blue-hour pictures count as night photos when their own words say so.
+    dusk = [c for c in day if c["brightness"] < 110 and c["hint_night"] and c["id"] not in used]
+    ni = pick(night + dusk, True, n)
+    if len(d) < 3:
+        return "none", "%s, %s, %s: only %d day photos fit" % (town, region, country, len(d))
     sub = town + ", " + region
     folder = add_photos(work, country, region, town, round(lat, 4), round(lon, 4), radius_km,
                         ["%d=%s|%s" % (c["id"], nice_title(c["name"]), sub) for c in d],
                         ["%d=%s|%s" % (c["id"], nice_title(c["name"]), sub) for c in ni])
+    if len(ni) < 3:
+        # Too few night photos here: take some from the nearest packs. Their captions keep the real place name.
+        got = borrow_night(folder, lat, lon, 4 - len(ni))
+        if len(ni) + got < 3:
+            import shutil
+            shutil.rmtree(os.path.join(ROOT, folder), ignore_errors=True)
+            return "none", "%s, %s, %s: only %d day and %d night photos fit" % (town, region, country, len(d), len(ni) + got)
+        return "done", folder + " (%d night photos borrowed)" % got
     return "done", folder
+
+
+def borrow_night(folder, lat, lon, need):
+    """Copies up to {need} night photos from the nearest other packs (within 250 km) into this pack. Returns how many."""
+    import shutil
+    base = os.path.join(ROOT, folder)
+    pj = os.path.join(base, "place.json")
+    place = json.load(open(pj, encoding="utf-8"))
+    near = []
+    for dirpath, _, files in os.walk(ROOT):
+        if "place.json" not in files or ".git" in dirpath or os.path.abspath(dirpath) == os.path.abspath(base):
+            continue
+        q = json.load(open(os.path.join(dirpath, "place.json"), encoding="utf-8"))
+        km = metres(lat, lon, q["lat"], q["lon"]) / 1000
+        if km <= 250 and any(x["mode"] == "night" for x in q["photos"]):
+            near.append((km, dirpath, q))
+    near.sort(key=lambda t: t[0])
+    taken = 0
+    for km, dirpath, q in near:
+        for ph in q["photos"]:
+            if taken >= need:
+                break
+            if ph["mode"] != "night" or any(x["source"] == ph["source"] for x in place["photos"]):
+                continue
+            n = 1 + sum(1 for x in place["photos"] if x["mode"] == "night")
+            fname = "night/%02d.jpg" % n
+            os.makedirs(os.path.join(base, "night"), exist_ok=True)
+            shutil.copyfile(os.path.join(dirpath, ph["file"]), os.path.join(base, fname))
+            entry = dict(ph)
+            entry["file"] = fname
+            place["photos"].append(entry)
+            taken += 1
+        if taken >= need:
+            break
+    json.dump(place, open(pj, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
+    return taken
 
 
 def cmd_auto(a):

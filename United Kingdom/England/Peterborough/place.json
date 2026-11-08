@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Peterborough",
+ "lat": 52.5695,
+ "lon": -0.2405,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "River Nene at Peterborough",
+   "subtitle": "Peterborough, England",
+   "credit": "Photo: Bill Boaden, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:River_Nene_at_Peterborough_-_geograph.org.uk_-_6874733.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Peterborough Lido",
+   "subtitle": "Peterborough, England",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Peterborough_Lido_-_geograph.org.uk_-_7379970.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "A truckstop",
+   "subtitle": "Peterborough, England",
+   "credit": "Photo: Bob Harvey, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A_truckstop_-_geograph.org.uk_-_7584985.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Convolvulus arvensis",
+   "subtitle": "Peterborough, England",
+   "credit": "Photo: Bob Harvey, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Convolvulus_arvensis_-_geograph.org.uk_-_5856317.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Peterborough sunset",
+   "subtitle": "Peterborough, England",
+   "credit": "Photo: Nikk, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Peterborough_sunset.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "City Fox 2 - The Return",
+   "subtitle": "Peterborough, England",
+   "credit": "Photo: Huw from UK, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:City_Fox_2_-_The_Return_(5711481662).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "City Foxes - Cambridgeshire - New Arrival!",
+   "subtitle": "Peterborough, England",
+   "credit": "Photo: Huw from UK, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:City_Foxes_-_Cambridgeshire_-_New_Arrival!_(5892057793).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Red Dawn",
+   "subtitle": "Peterborough, England",
+   "credit": "Photo: Nikk, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Red_Dawn.jpg"
+  }
+ ]
+}

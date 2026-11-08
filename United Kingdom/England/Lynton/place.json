@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Lynton",
+ "lat": 51.23,
+ "lon": -3.835,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Ilfracombe (Devon, UK), Promenade -- 2013",
+   "subtitle": "Lynton, England",
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ilfracombe_(Devon,_UK),_Promenade_--_2013_--_1747.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Ilfracombe (Devon, UK), Capstone Hill --",
+   "subtitle": "Lynton, England",
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ilfracombe_(Devon,_UK),_Capstone_Hill_--_2013_--_1801.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Entrance to Lynton and Lymouth Cliff",
+   "subtitle": "Lynton, England",
+   "credit": "Photo: Tim Sheerman-Chase, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Entrance_to_Lynton_and_Lymouth_Cliff_Railway_-_55457571536.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "The South West Coast Path near Culbone",
+   "subtitle": "Lynton, England",
+   "credit": "Photo: Bill Boaden, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_South_West_Coast_Path_near_Culbone_-_geograph.org.uk_-_5844418.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "North Devon , Exmoor Sunset",
+   "subtitle": "Lynton, England",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:North_Devon_,_Exmoor_Sunset_-_geograph.org.uk_-_3981413.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Lodges by Night",
+   "subtitle": "Lynton, England",
+   "credit": "Photo: William Warby, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lodges_by_Night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Mid Devon , Countryside Scenery at Sunset",
+   "subtitle": "Lynton, England",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mid_Devon_,_Countryside_Scenery_at_Sunset_-_geograph.org.uk_-_3394242.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Devon sunset",
+   "subtitle": "Lynton, England",
+   "credit": "Photo: Stephen Steven Hodge, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Devon_sunset_(27026425581).jpg"
+  }
+ ]
+}

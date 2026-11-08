@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Coventry",
+ "lat": 52.4068,
+ "lon": -1.5197,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Woodhill Farm",
+   "subtitle": "Coventry, England",
+   "credit": "Photo: Stephen McKay, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Woodhill_Farm_-_geograph.org.uk_-_7947645.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Coventry , Coventry Canal",
+   "subtitle": "Coventry, England",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Coventry_,_Coventry_Canal_-_geograph.org.uk_-_6974102.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Coventry , Coventry Canal Basin",
+   "subtitle": "Coventry, England",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Coventry_,_Coventry_Canal_Basin_-_geograph.org.uk_-_6974233.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Warwick Castle, viewed from Castle",
+   "subtitle": "Coventry, England",
+   "credit": "Photo: Vauxford, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Warwick_Castle,_viewed_from_Castle_Bridge,_Warwick.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Warwick Castle at sunset",
+   "subtitle": "Coventry, England",
+   "credit": "Photo: Liam Nicholls, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Warwick_Castle_at_sunset.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "G-ANAF at Coventry",
+   "subtitle": "Coventry, England",
+   "credit": "Photo: Colin Cooke Photo, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:G-ANAF_at_Coventry_(51159817711).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Warwick Castle by night",
+   "subtitle": "Coventry, England",
+   "credit": "Photo: Rick marin at English Wikipedia, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Warwick_Castle_by_night.JPG"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "I-95+295 Split Over Warwick and Cranston",
+   "subtitle": "Coventry, England",
+   "credit": "Photo: formulanone from Huntsville, United States, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:I-95%2B295_Split_Over_Warwick_and_Cranston_Night_-_December_2016_(43272189000).jpg"
+  }
+ ]
+}

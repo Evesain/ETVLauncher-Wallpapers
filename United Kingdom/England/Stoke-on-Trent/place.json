@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Stoke-on-Trent",
+ "lat": 53.0027,
+ "lon": -2.1794,
+ "radius_km": 20,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Entrance to former boatyard, Trent and",
+   "subtitle": "Stoke-on-Trent, England",
+   "credit": "Photo: Richard Rogerson, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Entrance_to_former_boatyard,_Trent_and_Mersey_Canal_-_geograph.org.uk_-_7665594.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Trent ^ Mersey canal towards bridge ^112",
+   "subtitle": "Stoke-on-Trent, England",
+   "credit": "Photo: Ian S, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Trent_%5E_Mersey_canal_towards_bridge_%5E112_-_geograph.org.uk_-_7098605.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "The Boat Yard near bridge ^103, Trent ^",
+   "subtitle": "Stoke-on-Trent, England",
+   "credit": "Photo: Ian S, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Boat_Yard_near_bridge_%5E103,_Trent_%5E_Mersey_Canal_-_geograph.org.uk_-_7097031.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Cyclists on towpath, Trent ^ Mersey",
+   "subtitle": "Stoke-on-Trent, England",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cyclists_on_towpath,_Trent_%5E_Mersey_Canal,_Mount_Pleasant,_Stoke-on-Trent_-_geograph.org.uk_-_7382582.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Stoke-on-Trent Winter Wonderland at night",
+   "subtitle": "Stoke-on-Trent, England",
+   "credit": "Photo: Gkbediako, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Stoke-on-Trent_Winter_Wonderland_at_night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Gladstone sanitary ware night soil",
+   "subtitle": "Stoke-on-Trent, England",
+   "credit": "Photo: Clem Rutter, Rochester, Kent, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gladstone_sanitary_ware_night_soil_containers_3928.JPG"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Mow Cop Castle",
+   "subtitle": "Mow Cop, Cheshire",
+   "credit": "Photo: Jowitacichocka, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mow_Cop_Castle_is_a_folly_at_Mow_Cop_in_the_civil_parish_of_Odd_Rode,_Cheshire,_England._img443.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Ridgegate Reservoir",
+   "subtitle": "Macclesfield Forest, Cheshire",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dusk_at_Ridgegate_Reservoir,_Macclesfield_Forest_-_geograph.org.uk_-_6338864.jpg"
+  }
+ ]
+}

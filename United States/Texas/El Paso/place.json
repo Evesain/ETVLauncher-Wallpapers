@@ -1,0 +1,74 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "El Paso",
+ "lat": 31.7619,
+ "lon": -106.485,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "U.S. Customs and Border Protection",
+   "subtitle": "El Paso, Texas",
+   "credit": "Photo: Dugan Meyer, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:U.S._Customs_and_Border_Protection_Autonomous_Surveillance_Tower_(AST)_on_Mount_Cristo_Rey_in_Sunland_Park,_New_Mexico_2.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Texas DPS Helicopter Flies over a CBP",
+   "subtitle": "El Paso, Texas",
+   "credit": "Photo: Dugan Meyer, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Texas_DPS_Helicopter_Flies_over_a_CBP_Autonomous_Surveillance_Tower_on_Mount_Cristo_Rey_in_Sunland_Park,_New_Mexico.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "ISS065-E-213529 - View of Earth",
+   "subtitle": "El Paso, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS065-E-213529_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "ISS065-E-213530 - View of Earth",
+   "subtitle": "El Paso, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS065-E-213530_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Aurora - ISS - August 30",
+   "subtitle": "El Paso, Texas",
+   "credit": "Photo: Kevin M. Gill, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aurora_-_ISS_-_August_30_2026_(55501158967).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Earth's Troposphere to Mesosphere in",
+   "subtitle": "El Paso, Texas",
+   "credit": "Photo: Kevin M. Gill, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Earth%27s_Troposphere_to_Mesosphere_in_Orbital_Sunrise_-_ISS_-_June_16_2026_(55353399645).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "El Paso in night",
+   "subtitle": "El Paso, Texas",
+   "credit": "Photo: Marco Nürnberger, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:El_Paso_in_night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "ISS053-E-61415 - View of Earth",
+   "subtitle": "El Paso, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS053-E-61415_-_View_of_Earth.jpg"
+  }
+ ]
+}

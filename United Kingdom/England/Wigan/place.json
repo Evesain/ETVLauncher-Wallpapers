@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Wigan",
+ "lat": 53.545,
+ "lon": -2.6325,
+ "radius_km": 20,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Coppull Hall",
+   "subtitle": "Wigan, England",
+   "credit": "Photo: Peter McDermott, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Coppull_Hall_-_geograph.org.uk_-_7535210.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Distant view of the DW",
+   "subtitle": "Wigan, England",
+   "credit": "Photo: Chris Denny, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Distant_view_of_the_DW_-_geograph.org.uk_-_3741130.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Haydock Park Racecourse Pavilion",
+   "subtitle": "Wigan, England",
+   "credit": "Photo: Anthony Parkes, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Haydock_Park_Racecourse_Pavilion_-_geograph.org.uk_-_3846876.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Parish Hall, St Thomas,",
+   "subtitle": "Wigan, England",
+   "credit": "Photo: David Long, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Parish_Hall,_St_Thomas,_Ashton-in-Makerfield_-_geograph.org.uk_-_1740815.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Sunset from the Beacon Country Park",
+   "subtitle": "Wigan, England",
+   "credit": "Photo: Ian Greig, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_from_the_Beacon_Country_Park_-_geograph.org.uk_-_2177455.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Horse rider silhouette at sunset",
+   "subtitle": "Wigan, England",
+   "credit": "Photo: Alex Wigan alwig64, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Horse_rider_silhouette_at_sunset_(Unsplash).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunrise seagull silhouette (Unsplash)",
+   "subtitle": "Wigan, England",
+   "credit": "Photo: Alex Wigan alwig64, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_seagull_silhouette_(Unsplash).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "66727 at Euston",
+   "subtitle": "Wigan, England",
+   "credit": "Photo: Train Photos, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:66727_at_Euston_(20511970760).jpg"
+  }
+ ]
+}

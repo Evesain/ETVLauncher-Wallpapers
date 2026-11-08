@@ -1,0 +1,66 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Lancaster",
+ "lat": 54.0466,
+ "lon": -2.8007,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Approaching Heysham Harbour",
+   "subtitle": "Lancaster, England",
+   "credit": "Photo: Robert Eva, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Approaching_Heysham_Harbour_-_geograph.org.uk_-_6188175.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Heysham Harbour south jetty",
+   "subtitle": "Lancaster, England",
+   "credit": "Photo: Robert Eva, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Heysham_Harbour_south_jetty_-_geograph.org.uk_-_6188176.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Lancaster Canal by Beaumont Hall Bridge,",
+   "subtitle": "Lancaster, England",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lancaster_Canal_by_Beaumont_Hall_Bridge,_Lancaster_-_geograph.org.uk_-_6326338.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Morecambe - Eric Morecambe Statue ^",
+   "subtitle": "Lancaster, England",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Morecambe_-_Eric_Morecambe_Statue_%5E_flower_gardens_-_geograph.org.uk_-_5245440.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Midsummer Aurora (Overhead 3) 2015 06",
+   "subtitle": "Lancaster, England",
+   "credit": "Photo: john.purvis, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Midsummer_Aurora_(Overhead_3)_2015_06_23_(19088179525).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "An Avro Lancaster silhouetted over the",
+   "subtitle": "Lancaster, England",
+   "credit": "Photo: Royal Air Force official photographer, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:An_Avro_Lancaster_silhouetted_over_the_Italian_port_of_La_Spezia_on_the_night_of_13-14_April_1943._C3697.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "66727 at Euston",
+   "subtitle": "Lancaster, England",
+   "credit": "Photo: Train Photos, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:66727_at_Euston_(20511970760).jpg"
+  }
+ ]
+}

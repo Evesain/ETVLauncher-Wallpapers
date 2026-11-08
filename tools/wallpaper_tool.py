@@ -43,16 +43,22 @@ MAX_RATIO = 2.0       # not a panorama strip: a 16:9 screen would show only a sl
 
 
 def call(**params):
+    """One Commons API call, with patience: waits longer after each failure. Raises RuntimeError (not SystemExit) when it gives up,
+    so one bad call loses one place and not a whole run."""
     params["format"] = "json"
     url = API + "?" + urllib.parse.urlencode(params)
-    for attempt in range(4):
+    last = None
+    for attempt in range(6):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=60) as r:
-                return json.load(r)
-        except Exception:
-            time.sleep(2 * (attempt + 1))
-    raise SystemExit("Commons did not answer: " + url)
+                data = json.load(r)
+            time.sleep(0.25)  # be gentle: several runs may be asking at once
+            return data
+        except Exception as e:
+            last = e
+            time.sleep(3 * (attempt + 1) ** 2)
+    raise RuntimeError("Commons did not answer (%s): %s" % (last, url[:120]))
 
 
 def strip_html(s):

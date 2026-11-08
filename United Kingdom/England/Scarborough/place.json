@@ -1,0 +1,58 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Scarborough",
+ "lat": 54.28,
+ "lon": -0.4,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Scarborough MMB",
+   "subtitle": "Scarborough, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Scarborough_MMB_19.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Whitby MMB 43 Larpool Viaduct",
+   "subtitle": "Scarborough, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Whitby_MMB_43_Larpool_Viaduct.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Scarborough, North Sands from the castle",
+   "subtitle": "Scarborough, England",
+   "credit": "Photo: Michael Garlick, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Scarborough,_North_Sands_from_the_castle_-_geograph.org.uk_-_6662475.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Scarborough North Bay",
+   "subtitle": "Scarborough, England",
+   "credit": "Photo: Robert Eva, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Scarborough_North_Bay_-_geograph.org.uk_-_6154975.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Stephen Joseph Theatre by night",
+   "subtitle": "Scarborough, England",
+   "credit": "Photo: JThomas, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Stephen_Joseph_Theatre_by_night_-_geograph.org.uk_-_6366955.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Scarborough MMB 18 Harbour",
+   "subtitle": "Scarborough, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Scarborough_MMB_18_Harbour.jpg"
+  }
+ ]
+}

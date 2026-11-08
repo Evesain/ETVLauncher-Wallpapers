@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Aberdeen",
+ "lat": 57.1497,
+ "lon": -2.0943,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "View over the fields north of Potterton",
+   "subtitle": "Aberdeen, Scotland",
+   "credit": "Photo: Bill Harrison, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_over_the_fields_north_of_Potterton_-_geograph.org.uk_-_6459625.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "View over Findon Moor",
+   "subtitle": "Aberdeen, Scotland",
+   "credit": "Photo: Bill Harrison, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_over_Findon_Moor_-_geograph.org.uk_-_7247663.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Arnhall Court at Lawsondale Avenue,",
+   "subtitle": "Aberdeen, Scotland",
+   "credit": "Photo: Ian S, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Arnhall_Court_at_Lawsondale_Avenue,_Westhill_-_geograph.org.uk_-_7312135.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Turf Zone \"HilltopMains\"",
+   "subtitle": "Aberdeen, Scotland",
+   "credit": "Photo: Ian S, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Turf_Zone_%22HilltopMains%22_-_geograph.org.uk_-_7312139.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Dunnottar Castle Sunrise",
+   "subtitle": "Aberdeen, Scotland",
+   "credit": "Photo: Eric Kilby, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dunnottar_Castle_Sunrise.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Dunnottar Castle Cliffs",
+   "subtitle": "Aberdeen, Scotland",
+   "credit": "Photo: Eric Kilby, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dunnottar_Castle_Cliffs.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Cairncry Sunset - panoramio",
+   "subtitle": "Aberdeen, Scotland",
+   "credit": "Photo: Alan Jamieson, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cairncry_Sunset_-_panoramio.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Normand Aurora",
+   "subtitle": "Aberdeen, Scotland",
+   "credit": "Photo: Alan Jamieson from Aberdeen, Scotland, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Normand_Aurora_(16903172380).jpg"
+  }
+ ]
+}

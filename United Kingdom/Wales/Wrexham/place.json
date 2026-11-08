@@ -1,0 +1,50 @@
+{
+ "country": "United Kingdom",
+ "region": "Wales",
+ "city": "Wrexham",
+ "lat": 53.046,
+ "lon": -2.993,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Esclusham Mountain",
+   "subtitle": "Wrexham, Wales",
+   "credit": "Photo: Peter McDermott, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Esclusham_Mountain_-_geograph.org.uk_-_7845613.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Sodylt Old Hall near Sodylt Bank",
+   "subtitle": "Wrexham, Wales",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sodylt_Old_Hall_near_Sodylt_Bank_-_geograph.org.uk_-_6010703.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Park Farm",
+   "subtitle": "Wrexham, Wales",
+   "credit": "Photo: Peter McDermott, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Park_Farm_-_geograph.org.uk_-_7845647.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "River Dee Flood Plain near Shocklach",
+   "subtitle": "Wrexham, Wales",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:River_Dee_Flood_Plain_near_Shocklach_-_geograph.org.uk_-_3723637.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Evening on Minera mountain",
+   "subtitle": "Wrexham, Wales",
+   "credit": "Photo: Geraint Roberts, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Evening_on_Minera_mountain_-_geograph.org.uk_-_5091710.jpg"
+  }
+ ]
+}

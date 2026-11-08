@@ -1,0 +1,58 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Isle of Wight",
+ "lat": 50.7,
+ "lon": -1.29,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Sandown MMB",
+   "subtitle": "Isle of Wight, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sandown_MMB_09.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Sandown MMB 14 Pier",
+   "subtitle": "Isle of Wight, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sandown_MMB_14_Pier.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Newport Coppins Bridge Wight Dragon",
+   "subtitle": "Isle of Wight, England",
+   "credit": "Photo: Arriva436, CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Newport_Coppins_Bridge_Wight_Dragon_3.JPG"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Newport , County Hall",
+   "subtitle": "Isle of Wight, England",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Newport_,_County_Hall_-_geograph.org.uk_-_6867182.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Appley Tower on the Isle of Wight taken",
+   "subtitle": "Isle of Wight, England",
+   "credit": "Photo: Photographer Dave Faulkner, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Appley_Tower_on_the_Isle_of_Wight_taken_at_sunrise.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Birth of a new day",
+   "subtitle": "Isle of Wight, England",
+   "credit": "Photo: Nick Fewings 5 Million views, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Birth_of_a_new_day.jpg"
+  }
+ ]
+}

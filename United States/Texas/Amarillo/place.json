@@ -1,0 +1,26 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Amarillo",
+ "lat": 35.222,
+ "lon": -101.8313,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Hornet, Wonderland Park, Amarillo, TX",
+   "subtitle": "Amarillo, Texas",
+   "credit": "Photo: Xnatedawgx, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hornet,_Wonderland_Park,_Amarillo,_TX_2024-03-16.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Cadillac Ranch, Amarillo, TX l2005",
+   "subtitle": "Amarillo, Texas",
+   "credit": "Photo: inkknife_2000 (7.5 million views +), CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cadillac_Ranch,_Amarillo,_TX_l2005_(17127936017).jpg"
+  }
+ ]
+}

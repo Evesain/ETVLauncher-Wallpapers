@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Shrewsbury",
+ "lat": 52.7073,
+ "lon": -2.7541,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Bridgnorth MMB 03 Castle Hill Railway",
+   "subtitle": "Shrewsbury, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bridgnorth_MMB_03_Castle_Hill_Railway.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Hand pump and stone trough in the walled",
+   "subtitle": "Shrewsbury, England",
+   "credit": "Photo: Christian David, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hand_pump_and_stone_trough_in_the_walled_garden,_Attingham_Park,_Shropshire.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Dipping pool and railing, walled garden,",
+   "subtitle": "Shrewsbury, England",
+   "credit": "Photo: Christian David, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dipping_pool_and_railing,_walled_garden,_Attingham_Park,_Shropshire.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Sunset at Richard's Castle",
+   "subtitle": "Shrewsbury, England",
+   "credit": "Photo: Fabian Musto, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_at_Richard%27s_Castle_-_geograph.org.uk_-_7943064.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Beefeater Restaurant Taken at 7pm night",
+   "subtitle": "Shrewsbury, England",
+   "credit": "Photo: malcolm rayment, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Beefeater_Restaurant_Taken_at_7pm_night_-_geograph.org.uk_-_5252035.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Crop spraying at Sunset",
+   "subtitle": "Shrewsbury, England",
+   "credit": "Photo: TCExplorer, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Crop_spraying_at_Sunset_-_geograph.org.uk_-_7460607.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunset over the Shropshire Hills",
+   "subtitle": "Shrewsbury, England",
+   "credit": "Photo: TCExplorer, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_the_Shropshire_Hills_-_geograph.org.uk_-_7989237.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Sunset at Mitchell's Fold Stone Circle",
+   "subtitle": "Shrewsbury, England",
+   "credit": "Photo: Lukas Large from Stourbridge, United Kingdom, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_at_Mitchell%27s_Fold_Stone_Circle_(5481837352).jpg"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "country": "United Kingdom",
+ "region": "Northern Ireland",
+ "city": "Newcastle",
+ "lat": 54.216,
+ "lon": -5.887,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "View of the Mournes from Minerstown",
+   "subtitle": "Newcastle, Northern Ireland",
+   "credit": "Photo: Conall from Downpatrick, Northern Ireland, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_of_the_Mournes_from_Minerstown_(25892206135).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "The Mourne Plain enclosed by the Mourne",
+   "subtitle": "Newcastle, Northern Ireland",
+   "credit": "Photo: Eric Jones, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Mourne_Plain_enclosed_by_the_Mourne_Mountain_-_geograph.org.uk_-_5204231.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Mourne Mountains",
+   "subtitle": "Newcastle, Northern Ireland",
+   "credit": "Photo: Dieglop, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mourne_Mountains_0006.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Slieve Donard - the highest of the Mourne",
+   "subtitle": "Newcastle, Northern Ireland",
+   "credit": "Photo: Conall, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Slieve_Donard_-_the_highest_of_the_Mourne_Mountains_visable_just_to_the_left_of_the_telegraph_pole.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Aurora over Northern Ireland",
+   "subtitle": "Newcastle, Northern Ireland",
+   "credit": "Photo: David Kernan, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aurora_over_Northern_Ireland.jpg"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Bristol",
+ "lat": 51.4545,
+ "lon": -2.5879,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Bristol MMB «J0 Bristol to Exeter Line",
+   "subtitle": "Bristol, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bristol_MMB_%C2%ABJ0_Bristol_to_Exeter_Line.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Bristol's floating harbour, near Castle",
+   "subtitle": "Bristol, England",
+   "credit": "Photo: Gareth James, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bristol%27s_floating_harbour,_near_Castle_Bridge_-_geograph.org.uk_-_7553716.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Vestigial moat - River Avon",
+   "subtitle": "Bristol, England",
+   "credit": "Photo: Anthony O'Neil, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Vestigial_moat_-_River_Avon_-_geograph.org.uk_-_6739863.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "2012 , South south-east across the Chew",
+   "subtitle": "Bristol, England",
+   "credit": "Photo: Maurice Pullin, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2012_,_South_south-east_across_the_Chew_Valley_-_geograph.org.uk_-_3225892.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Sunrise on the Downs - 49182727973",
+   "subtitle": "Bristol, England",
+   "credit": "Photo: Graeme Churchard, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_on_the_Downs_-_49182727973.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Bristol Hippodrome, at night - PXL",
+   "subtitle": "Bristol, England",
+   "credit": "Photo: Tadeusz Hare, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bristol_Hippodrome,_at_night_-_PXL_20260417_192527921.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Night shot of the Bristol Bridge at night",
+   "subtitle": "Bristol, England",
+   "credit": "Photo: MARTIN BUTLER, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Night_shot_of_the_Bristol_Bridge_at_night_-_September_2018.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Sunset over Bristol Harbour",
+   "subtitle": "Bristol, England",
+   "credit": "Photo: Anthony O'Neil, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_Bristol_Harbour_-_geograph.org.uk_-_7726613.jpg"
+  }
+ ]
+}

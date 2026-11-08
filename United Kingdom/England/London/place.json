@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "London",
+ "lat": 51.5074,
+ "lon": -0.1278,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Brompton Oratory 360x180, London, UK -",
+   "subtitle": "London, England",
+   "credit": "Photo: Diliff, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Brompton_Oratory_360x180,_London,_UK_-_Diliff.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "City of London skyline from London City",
+   "subtitle": "London, England",
+   "credit": "Photo: User:Colin and Kim Hansen, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:City_of_London_skyline_from_London_City_Hall_-_Sept_2015_-_Crop_Aligned.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "City of London skyline from London City",
+   "subtitle": "London, England",
+   "credit": "Photo: Diliff, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:City_of_London_skyline_from_London_City_Hall_-_Oct_2008.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "London, Tower of London -- 2016",
+   "subtitle": "London, England",
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:London,_Tower_of_London_--_2016_--_4689.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Tower Bridge London Feb",
+   "subtitle": "London, England",
+   "credit": "Photo: Diliff, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_London_Feb_2006.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "London, Southwark Bridge -- 2016",
+   "subtitle": "London, England",
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:London,_Southwark_Bridge_--_2016_--_4632.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "London MMB »0E9 River Thames",
+   "subtitle": "London, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:London_MMB_%C2%BB0E9_River_Thames.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "London MMB »031 Waterloo Millennium Pier,",
+   "subtitle": "London, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:London_MMB_%C2%BB031_Waterloo_Millennium_Pier,_Palace_of_Westminster_and_Thames_Embankment.jpg"
+  }
+ ]
+}

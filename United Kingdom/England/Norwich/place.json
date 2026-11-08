@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Norwich",
+ "lat": 52.6309,
+ "lon": 1.2974,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Norwich - Park ^ Ride",
+   "subtitle": "Norwich, England",
+   "credit": "Photo: Colin Smith, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Norwich_-_Park_%5E_Ride_-_geograph.org.uk_-_6705932.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Swainsthorpe, Harvested biofuel crop and",
+   "subtitle": "Norwich, England",
+   "credit": "Photo: Michael Garlick, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Swainsthorpe,_Harvested_biofuel_crop_and_oil_seed_rape_crop_-_geograph.org.uk_-_7146509.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Elm Hill, Norwich",
+   "subtitle": "Norwich, England",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Elm_Hill,_Norwich_-_geograph.org.uk_-_5256961.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Sunset - Mousehold Heath - 2017",
+   "subtitle": "Norwich, England",
+   "credit": "Photo: Michael John Button, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_-_Mousehold_Heath_-_2017_1.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Sunset - Norwich",
+   "subtitle": "Norwich, England",
+   "credit": "Photo: Michael John Button, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_-_Norwich_03.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Sunset - Mousehold Heath - 2017",
+   "subtitle": "Norwich, England",
+   "credit": "Photo: Michael John Button, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_-_Mousehold_Heath_-_2017_2.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "St Andrew's Hall, Norwich at night",
+   "subtitle": "Norwich, England",
+   "credit": "Photo: Amitchell125, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:St_Andrew%27s_Hall,_Norwich_at_night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Mystery live at Epic Studios, Norwich,",
+   "subtitle": "Norwich, England",
+   "credit": "Photo: kitmasterbloke, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mystery_live_at_Epic_Studios,_Norwich,_UK,_17th_October_2019_-_48949289857.jpg"
+  }
+ ]
+}

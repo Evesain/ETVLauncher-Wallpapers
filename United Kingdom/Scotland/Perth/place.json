@@ -1,0 +1,34 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Perth",
+ "lat": 56.395,
+ "lon": -3.437,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Foggy Reflections - Loch Tummel",
+   "subtitle": "Perth, Scotland",
+   "credit": "Photo: Eric Kilby, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Foggy_Reflections_-_Loch_Tummel.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Birks of Aberfeldy",
+   "subtitle": "Perth, Scotland",
+   "credit": "Photo: Eric Kilby from Somerville, MA, USA, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Birks_of_Aberfeldy_(55085667062).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "River Tay - Perth",
+   "subtitle": "Perth, Scotland",
+   "credit": "Photo: Ian Medcalf, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:River_Tay_-_Perth_-_geograph.org.uk_-_4146474.jpg"
+  }
+ ]
+}

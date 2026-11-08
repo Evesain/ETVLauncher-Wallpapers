@@ -1,0 +1,50 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Hull",
+ "lat": 53.7457,
+ "lon": -0.3367,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Butterswood level crossing",
+   "subtitle": "Hull, England",
+   "credit": "Photo: Chris Morgan, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Butterswood_level_crossing_-_geograph.org.uk_-_5915251.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Old Harbour, River Hull, Kingston upon",
+   "subtitle": "Hull, England",
+   "credit": "Photo: Bernard Sharp, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Old_Harbour,_River_Hull,_Kingston_upon_Hull_-_geograph.org.uk_-_3774216.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Hull City Hall, Victoria Square, Hull",
+   "subtitle": "Hull, England",
+   "credit": "Photo: Ian S, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hull_City_Hall,_Victoria_Square,_Hull_-_geograph.org.uk_-_6475351.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "The Minerva by night",
+   "subtitle": "Hull, England",
+   "credit": "Photo: Chris Morgan, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Minerva_by_night_-_geograph.org.uk_-_5244542.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "City Hall, Hull",
+   "subtitle": "Hull, England",
+   "credit": "Photo: Ian S, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:City_Hall,_Hull_-_geograph.org.uk_-_6341139.jpg"
+  }
+ ]
+}

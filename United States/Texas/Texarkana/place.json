@@ -1,0 +1,34 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Texarkana",
+ "lat": 33.4251,
+ "lon": -94.0477,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Texarkana, Texas City Hall Building",
+   "subtitle": "Texarkana, Texas",
+   "credit": "Photo: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Texarkana,_Texas_City_Hall_Building_(47446700862).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Texarkana April 2016 001 (Texarkana Texas",
+   "subtitle": "Texarkana, Texas",
+   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Texarkana_April_2016_001_(Texarkana_Texas_City_Hall).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Texarkana April 2016 002 (Texarkana Texas",
+   "subtitle": "Texarkana, Texas",
+   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Texarkana_April_2016_002_(Texarkana_Texas_City_Hall).jpg"
+  }
+ ]
+}

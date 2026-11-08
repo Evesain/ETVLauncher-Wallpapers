@@ -1,0 +1,66 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Gloucester",
+ "lat": 51.8642,
+ "lon": -2.238,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Birdwood - Henry Hook (VC) Close",
+   "subtitle": "Gloucester, England",
+   "credit": "Photo: Peter Whatley, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Birdwood_-_Henry_Hook_(VC)_Close_-_geograph.org.uk_-_7851226.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "The Cotswold Way in Cliff Wood",
+   "subtitle": "Gloucester, England",
+   "credit": "Photo: Bill Boaden, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Cotswold_Way_in_Cliff_Wood_-_geograph.org.uk_-_5052979.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Chepstow MMB 11 Gloucester to Newport Line",
+   "subtitle": "Gloucester, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chepstow_MMB_11_Gloucester_to_Newport_Line.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Chepstow MMB 15 Gloucester to Newport Line",
+   "subtitle": "Gloucester, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chepstow_MMB_15_Gloucester_to_Newport_Line.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Berkeley Place By Night",
+   "subtitle": "Gloucester, England",
+   "credit": "Photo: LukesCreativeHouse, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Berkeley_Place_By_Night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Berkeley Place Transitions Between Night",
+   "subtitle": "Gloucester, England",
+   "credit": "Photo: LukesCreativeHouse, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Berkeley_Place_Transitions_Between_Night_and_Day.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Gloucester Christmas Illuminations",
+   "subtitle": "Gloucester, England",
+   "credit": "Photo: Antony Stanley from Gloucester, UK, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gloucester_Christmas_Illuminations_(4211299632).jpg"
+  }
+ ]
+}

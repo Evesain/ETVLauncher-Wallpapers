@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Salisbury",
+ "lat": 51.0688,
+ "lon": -1.7945,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Stonehenge at sunset",
+   "subtitle": "Salisbury, England",
+   "credit": "Photo: Fanfwah, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Stonehenge_at_sunset_03.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Salisbury District , The A303 ^ Sunrise",
+   "subtitle": "Salisbury, England",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Salisbury_District_,_The_A303_%5E_Sunrise_-_geograph.org.uk_-_3105117.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Stonehenge at sunset",
+   "subtitle": "Salisbury, England",
+   "credit": "Photo: Fanfwah, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Stonehenge_at_sunset_05.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Salisbury Sunset",
+   "subtitle": "Salisbury, England",
+   "credit": "Photo: Peter Trimming, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Salisbury_Sunset_-_geograph.org.uk_-_5631548.jpg"
+  }
+ ]
+}

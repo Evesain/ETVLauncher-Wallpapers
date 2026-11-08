@@ -1,0 +1,50 @@
+{
+ "country": "United Kingdom",
+ "region": "Wales",
+ "city": "St Davids",
+ "lat": 51.881,
+ "lon": -5.265,
+ "radius_km": 40,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Puffin (Fratercula arctica) with lesser",
+   "subtitle": "St Davids, Wales",
+   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica)_with_lesser_sand_eels_(Ammodytes_tobianus).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Three Islands",
+   "subtitle": "St Davids, Wales",
+   "credit": "Photo: Gordon Hatton, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Three_Islands_-_geograph.org.uk_-_6133783.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Cliffs in Ogof Colomennod",
+   "subtitle": "St Davids, Wales",
+   "credit": "Photo: Bill Boaden, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cliffs_in_Ogof_Colomennod_-_geograph.org.uk_-_4609445.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Wooltack Bay (MGK28474)",
+   "subtitle": "St Davids, Wales",
+   "credit": "Photo: Markus G. Klötzer, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Wooltack_Bay_(MGK28474).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Sunset from St Davids City Golf Course",
+   "subtitle": "St Davids, Wales",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_from_St_Davids_City_Golf_Course_-_geograph.org.uk_-_7381476.jpg"
+  }
+ ]
+}

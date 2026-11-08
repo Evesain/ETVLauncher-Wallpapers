@@ -11,6 +11,17 @@
    "path": "United Kingdom/England/Congleton",
    "day": 4,
    "night": 4
+  },
+  {
+   "country": "United Kingdom",
+   "region": "England",
+   "city": "Whitby",
+   "lat": 54.49,
+   "lon": -0.62,
+   "radius_km": 25,
+   "path": "United Kingdom/England/Whitby",
+   "day": 4,
+   "night": 3
   }
  ]
 }

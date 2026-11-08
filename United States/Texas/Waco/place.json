@@ -45,6 +45,22 @@
    "subtitle": "Waco, Texas",
    "credit": "Photo: Michael Barera, CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Waco_June_2016_07_(Indian_Spring_Park).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Sunset over San Antonio",
+   "subtitle": "San Antonio, Texas",
+   "credit": "Photo: Corey Leopold, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_San_Antonio.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Pagoda at Night - Japanese tea gardens,",
+   "subtitle": "San Antonio, Texas",
+   "credit": "Photo: Corey Leopold, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pagoda_at_Night_-_Japanese_tea_gardens,_San_Antonio.jpg"
   }
  ]
 }

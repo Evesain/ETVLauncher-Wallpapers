@@ -45,6 +45,22 @@
    "subtitle": "Wigan, England",
    "credit": "Photo: Ian Greig, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Sunset_from_the_Beacon_Country_Park_-_geograph.org.uk_-_2177455.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Meteorite",
+   "subtitle": "Preston, England",
+   "credit": "Photo: Michael Elleray from England, United Kingdom, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Meteorite_(6319435539).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Bonfire Silouette",
+   "subtitle": "Preston, England",
+   "credit": "Photo: Michael Elleray from England, United Kingdom, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bonfire_Silouette_(6319344331).jpg"
   }
  ]
 }

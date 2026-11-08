@@ -45,6 +45,22 @@
    "subtitle": "Swansea, Wales",
    "credit": "Photo: kitmasterbloke, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:70_803_Baglan.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "North Devon , Exmoor Sunset",
+   "subtitle": "Lynton, England",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:North_Devon_,_Exmoor_Sunset_-_geograph.org.uk_-_3981413.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Lodges by Night",
+   "subtitle": "Lynton, England",
+   "credit": "Photo: William Warby, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lodges_by_Night.jpg"
   }
  ]
 }

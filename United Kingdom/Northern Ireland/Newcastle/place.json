@@ -45,6 +45,22 @@
    "subtitle": "Newcastle, Northern Ireland",
    "credit": "Photo: David Kernan, CC BY 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Aurora_over_Northern_Ireland.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Dusk, Belfast",
+   "subtitle": "Belfast, Northern Ireland",
+   "credit": "Photo: Rossographer, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dusk,_Belfast_-_geograph.org.uk_-_7013249.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Dusk with glowing edges",
+   "subtitle": "Belfast, Northern Ireland",
+   "credit": "Photo: Conall from Downpatrick, Northern Ireland, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dusk_with_glowing_edges_(49443541072).jpg"
   }
  ]
 }

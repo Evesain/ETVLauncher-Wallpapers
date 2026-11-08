@@ -45,6 +45,22 @@
    "subtitle": "Lyndhurst, England",
    "credit": "Photo: Peter Trimming, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:New_Forest,_Hampshire_-_geograph.org.uk_-_4094911.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Southampton Guildhall - Night",
+   "subtitle": "Southampton, England",
+   "credit": "Photo: Michael, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Southampton_Guildhall_-_Night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "One Hot Sunset",
+   "subtitle": "Southampton, England",
+   "credit": "Photo: JackPeasePhotography, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:One_Hot_Sunset_(34592189604).jpg"
   }
  ]
 }

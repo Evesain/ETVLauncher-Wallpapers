@@ -37,6 +37,30 @@
    "subtitle": "Princetown, England",
    "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:West_Devon_,_Dartmoor_Scenery_-_Fur_Tor_-_geograph.org.uk_-_4630247.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Sunset near Plymouth",
+   "subtitle": "Plymouth, England",
+   "credit": "Photo: Stephen Steven Hodge, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_near_Plymouth_(30968730914).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Plymouth - Royal William Yard at dusk",
+   "subtitle": "Plymouth, England",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Plymouth_-_Royal_William_Yard_at_dusk_-_geograph.org.uk_-_7678617.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Carnewas Sunset - Replaced",
+   "subtitle": "Tintagel, England",
+   "credit": "Photo: Darren Shilson from St Stephen, UK, United Kingdom, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Carnewas_Sunset_-_Replaced_(4532811548).jpg"
   }
  ]
 }

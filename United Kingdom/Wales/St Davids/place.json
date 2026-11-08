@@ -45,6 +45,22 @@
    "subtitle": "St Davids, Wales",
    "credit": "Photo: Colin Park, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Sunset_from_St_Davids_City_Golf_Course_-_geograph.org.uk_-_7381476.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "70 803 Baglan",
+   "subtitle": "Swansea, Wales",
+   "credit": "Photo: kitmasterbloke, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:70_803_Baglan.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Herring Fishing",
+   "subtitle": "Aberystwyth, Wales",
+   "credit": "Photo: Alfred Worthington, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Ceredigion_Museum_2018_02.jpg"
   }
  ]
 }

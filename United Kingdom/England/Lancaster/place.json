@@ -37,6 +37,30 @@
    "subtitle": "Lancaster, England",
    "credit": "Photo: Colin Park, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Morecambe_-_Eric_Morecambe_Statue_%5E_flower_gardens_-_geograph.org.uk_-_5245440.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Golden Red",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Michael D Beckwith, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Golden_Red_(25171978236).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Blackpool North Pier Sunset",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Michael Beckwith, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Blackpool_North_Pier_Sunset_(7169117726).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Blackpool Promenade Sunset",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Michael Beckwith, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Blackpool_Promenade_Sunset_(7169103702).jpg"
   }
  ]
 }

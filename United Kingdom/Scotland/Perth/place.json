@@ -29,6 +29,30 @@
    "subtitle": "Perth, Scotland",
    "credit": "Photo: Ian Medcalf, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:River_Tay_-_Perth_-_geograph.org.uk_-_4146474.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Sunset over the Firth of Tay from",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_the_Firth_of_Tay_from_Broughty_Ferry_-_geograph.org.uk_-_7938929.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Twilight Stillness",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Trinity0009, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Twilight_Stillness.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "South East Dundee at Sunrise from the Law",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Laerol, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:South_East_Dundee_at_Sunrise_from_the_Law_(autumn_1998).jpg"
   }
  ]
 }

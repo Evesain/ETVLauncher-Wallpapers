@@ -37,6 +37,30 @@
    "subtitle": "Milton Keynes, England",
    "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
    "source": "https://commons.wikimedia.org/wiki/File:Open_University_MMB_07.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "View of sunset sky over Hitchin Lavender",
+   "subtitle": "Luton, England",
+   "credit": "Photo: Robert Lamb, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_of_sunset_sky_over_Hitchin_Lavender_%5E2_-_geograph.org.uk_-_5863993.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Luton Hoo in",
+   "subtitle": "Luton, England",
+   "credit": "Photo: Greg Knapp from Hitchin, United Kingdom, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Luton_Hoo_in_2009.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "St. Albans Dusk",
+   "subtitle": "Luton, England",
+   "credit": "Photo: Greg Knapp from St Albans, United Kingdom, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:St._Albans_Dusk_(4558504257).jpg"
   }
  ]
 }

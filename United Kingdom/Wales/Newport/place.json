@@ -37,6 +37,22 @@
    "subtitle": "Newport, Wales",
    "credit": "Photo: Dave Roberts, CC0",
    "source": "https://commons.wikimedia.org/wiki/File:Belle_Vue_Pavilion_Sunrise.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Box CF5 412 LWB 3426 Castle Green St",
+   "subtitle": "Cardiff, Wales",
+   "credit": "Photo: kitmasterbloke, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Box_CF5_412_LWB_3426_Castle_Green_St_Georges_Glam.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Cardiff Pierhead Building at Night",
+   "subtitle": "Cardiff, Wales",
+   "credit": "Photo: Michael, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Cardiff_Pierhead_Building_at_Night.jpg"
   }
  ]
 }

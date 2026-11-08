@@ -37,6 +37,30 @@
    "subtitle": "Galveston, Texas",
    "credit": "Photo: Farragutful, CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Galveston_City_Hall_01.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Ron Paul, Carol Paul & Debra Medina",
+   "subtitle": "Houston, Texas",
+   "credit": "Photo: Gage Skidmore from Peoria, AZ, United States of America, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ron_Paul,_Carol_Paul_%26_Debra_Medina_(11762887255).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Ron & Carol Paul with supporters",
+   "subtitle": "Houston, Texas",
+   "credit": "Photo: Gage Skidmore from Peoria, AZ, United States of America, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ron_%26_Carol_Paul_with_supporters_(11762891555).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunset over San Antonio",
+   "subtitle": "San Antonio, Texas",
+   "credit": "Photo: Corey Leopold, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_San_Antonio.jpg"
   }
  ]
 }

@@ -21,6 +21,38 @@
    "subtitle": "Brecon, Wales",
    "credit": "Photo: M J Roscoe, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:View_towards_Brecon_Beacons_across_River_Usk_-_geograph.org.uk_-_6812818.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Chepstow MMB 11 Gloucester to Newport Line",
+   "subtitle": "Hereford, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chepstow_MMB_11_Gloucester_to_Newport_Line.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Richard's Castle (Keep)",
+   "subtitle": "Hereford, England",
+   "credit": "Photo: Fabian Musto, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Richard%27s_Castle_(Keep)_-_geograph.org.uk_-_6395568.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Moon at Richards Castle",
+   "subtitle": "Hereford, England",
+   "credit": "Photo: Fabian Musto, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Moon_at_Richards_Castle_-_geograph.org.uk_-_6394946.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunset over Herefordshire",
+   "subtitle": "Hereford, England",
+   "credit": "Photo: Roger Davies, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_Herefordshire_-_geograph.org.uk_-_4413760.jpg"
   }
  ]
 }

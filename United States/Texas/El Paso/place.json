@@ -37,6 +37,30 @@
    "subtitle": "El Paso, Texas",
    "credit": "Photo: Rogelio Rivero Cagigas, CC BY-SA 3.0",
    "source": "https://commons.wikimedia.org/wiki/File:Sunset_Heights_El_Paso_TX_General_view_02.JPG"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Guadalupe Peak at sunset",
+   "subtitle": "Guadalupe Mountains, Texas",
+   "credit": "Photo: Leaflet, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Guadalupe_Peak_at_sunset_2006.JPG"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Pine Springs Sunrise",
+   "subtitle": "Guadalupe Mountains, Texas",
+   "credit": "Photo: Fredlyfish4, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pine_Springs_Sunrise.JPG"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Dermatophyllum guadalupense",
+   "subtitle": "Guadalupe Mountains, Texas",
+   "credit": "Photo: Patrick Alexander from Las Cruces, NM, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dermatophyllum_guadalupense_-_Flickr_-_aspidoscelis_(1).jpg"
   }
  ]
 }

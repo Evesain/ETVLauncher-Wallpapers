@@ -45,6 +45,22 @@
    "subtitle": "Canterbury, England",
    "credit": "Photo: Acabashi, CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Buenos_Ayres_caf%C3%A9_Margate_Kent_England.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Sunrise In Dover port",
+   "subtitle": "Dover, England",
+   "credit": "Photo: Alexey Komarov, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_In_Dover_port.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "View of 'The Bridge Chamber' at Castle",
+   "subtitle": "Maidstone, England",
+   "credit": "Photo: OathOn, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_of_%27The_Bridge_Chamber%27_at_Castle_Hill,_Rochester,_Kent,_England,_at_night_(2).jpg"
   }
  ]
 }

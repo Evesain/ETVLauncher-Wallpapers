@@ -21,6 +21,22 @@
    "subtitle": "Amarillo, Texas",
    "credit": "Photo: inkknife_2000 (7.5 million views +), CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Cadillac_Ranch,_Amarillo,_TX_l2005_(17127936017).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Vehicle Outside 1920 Motel",
+   "subtitle": "Palo Duro Canyon, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Vehicle_Outside_1920_Motel_2024.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Campground2 Palo Duro Canyon State Park",
+   "subtitle": "Palo Duro Canyon, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Campground2_Palo_Duro_Canyon_State_Park_Texas_2024.jpg"
   }
  ]
 }

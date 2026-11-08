@@ -21,6 +21,38 @@
    "subtitle": "Laredo, Texas",
    "credit": "Photo: Miguel Angel Omaña Rojas, CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:El_Laguito,_Nuevo_Laredo.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Skyline of McAllen",
+   "subtitle": "McAllen, Texas",
+   "credit": "Photo: Theunderratedtaco, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Skyline_of_McAllen.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Starship SN9 Sunset",
+   "subtitle": "South Padre Island, Texas",
+   "credit": "Photo: Jared Krahn, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Starship_SN9_Sunset.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Texas Sunset at Port Aransas",
+   "subtitle": "Port Aransas, Texas",
+   "credit": "Photo: Shiva Shenoy from Flower Mound, United States, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Texas_Sunset_at_Port_Aransas_-_Flickr_-_Shiva_Shenoy.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Bird Island Basin Campground at Padre",
+   "subtitle": "Corpus Christi, Texas",
+   "credit": "Photo: Jennifer Rangubphai, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bird_Island_Basin_Campground_at_Padre_Island_National_Seashore_at_dawn.jpg"
   }
  ]
 }

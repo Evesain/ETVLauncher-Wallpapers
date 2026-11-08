@@ -45,6 +45,22 @@
    "subtitle": "Wrexham, Wales",
    "credit": "Photo: Geraint Roberts, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Evening_on_Minera_mountain_-_geograph.org.uk_-_5091710.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Suburban Sunset, Hoole, Chester",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Suburban_Sunset,_Hoole,_Chester_-_geograph.org.uk_-_7417385.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Chester HQ at Night",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chester_HQ_at_Night_-_geograph.org.uk_-_3784442.jpg"
   }
  ]
 }

@@ -37,6 +37,22 @@
    "subtitle": "Salisbury, England",
    "credit": "Photo: Peter Trimming, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Salisbury_Sunset_-_geograph.org.uk_-_5631548.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "New Forest , The A35",
+   "subtitle": "Lyndhurst, England",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:New_Forest_,_The_A35_-_geograph.org.uk_-_5738786.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "New Forest, Hampshire",
+   "subtitle": "Lyndhurst, England",
+   "credit": "Photo: Peter Trimming, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:New_Forest,_Hampshire_-_geograph.org.uk_-_4094911.jpg"
   }
  ]
 }

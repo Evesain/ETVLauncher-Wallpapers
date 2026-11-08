@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "The Olive Garden, Tintagel",
-   "subtitle": "Tintagel, England",
-   "credit": "Photo: Des Blenkinsopp, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:The_Olive_Garden,_Tintagel_-_geograph.org.uk_-_6860818.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "High Cliff, Cornwall",
    "subtitle": "Tintagel, England",
    "credit": "Photo: Nilfanion, CC BY-SA 3.0",
@@ -24,7 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
+   "file": "day/02.jpg",
    "title": "Sunset at Wilsey Woods",
    "subtitle": "Tintagel, England",
    "credit": "Photo: Paul Loft, CC BY-SA 2.0",
@@ -32,7 +24,7 @@
   },
   {
    "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/03.jpg",
    "title": "Tintagel Sunset",
    "subtitle": "Tintagel, England",
    "credit": "Photo: Tony Hisgett from Birmingham, UK, CC BY 2.0",
@@ -57,10 +49,10 @@
   {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Tintagel castle",
-   "subtitle": "Tintagel, England",
-   "credit": "Photo: Robert Ashby, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Tintagel_castle_-_geograph.org.uk_-_4193101.jpg"
+   "title": "Sunset near Plymouth",
+   "subtitle": "Plymouth, England",
+   "credit": "Photo: Stephen Steven Hodge, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_near_Plymouth_(30968730914).jpg"
   }
  ]
 }

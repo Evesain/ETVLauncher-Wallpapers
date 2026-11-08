@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Pond near Kelling Heath Park Halt",
-   "subtitle": "Cromer, England",
-   "credit": "Photo: Hugh Venables, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Pond_near_Kelling_Heath_Park_Halt_-_geograph.org.uk_-_7394443.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Beach, East Runton Gap",
    "subtitle": "Cromer, England",
    "credit": "Photo: Julian Dowse, CC BY-SA 2.0",
@@ -24,7 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
+   "file": "day/02.jpg",
    "title": "Cromer, The Pier",
    "subtitle": "Cromer, England",
    "credit": "Photo: Michael Garlick, CC BY-SA 2.0",
@@ -32,7 +24,7 @@
   },
   {
    "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/03.jpg",
    "title": "Cromer Pier",
    "subtitle": "Cromer, England",
    "credit": "Photo: Michael Garlick, CC BY-SA 2.0",
@@ -57,10 +49,10 @@
   {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Karnataka live at HRH Prog XI in Great",
+   "title": "Sunrise at Rudram's Gap",
    "subtitle": "Great Yarmouth, England",
-   "credit": "Photo: Steve Knight from Halstead, United Kingdom, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Karnataka_live_at_HRH_Prog_XI_in_Great_Yarmouth_(53350959874).jpg"
+   "credit": "Photo: Stephen McKay, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_at_Rudram%27s_Gap_-_geograph.org.uk_-_7597561.jpg"
   }
  ]
 }

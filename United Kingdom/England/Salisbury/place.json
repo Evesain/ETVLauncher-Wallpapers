@@ -15,14 +15,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Stonehenge_at_sunset_03.jpg"
   },
   {
-   "mode": "day",
-   "file": "day/02.jpg",
-   "title": "Salisbury District , The A303 ^ Sunrise",
-   "subtitle": "Salisbury, England",
-   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Salisbury_District_,_The_A303_%5E_Sunrise_-_geograph.org.uk_-_3105117.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/01.jpg",
    "title": "Stonehenge at sunset",
@@ -40,11 +32,19 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
-   "title": "New Forest , The A35",
+   "file": "day/02.jpg",
+   "title": "Fog forest",
    "subtitle": "Lyndhurst, England",
-   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:New_Forest_,_The_A35_-_geograph.org.uk_-_5738786.jpg"
+   "credit": "Photo: Joana Kruse joanaimages.com, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fog_forest_0077.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "New Forest, Hampshire",
+   "subtitle": "Lyndhurst, England",
+   "credit": "Photo: Robert Linsdell from St. Andrews, Canada, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:New_Forest,_Hampshire_(260175)_(9453477899).jpg"
   },
   {
    "mode": "night",

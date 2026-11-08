@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Newcastle upon Tyne (2022-03-28)",
-   "subtitle": "Newcastle upon Tyne, England",
-   "credit": "Photo: Simon Cobb, CC0",
-   "source": "https://commons.wikimedia.org/wiki/File:Newcastle_upon_Tyne_(2022-03-28)_102.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Sunset above the River Tyne",
    "subtitle": "Newcastle upon Tyne, England",
    "credit": "Photo: Les Hull, CC BY-SA 2.0",
@@ -24,19 +16,11 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
+   "file": "day/02.jpg",
    "title": "Sunset over Hebburn",
    "subtitle": "Newcastle upon Tyne, England",
    "credit": "Photo: Les Hull, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_Hebburn_-_geograph.org.uk_-_7431790.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Gallowgate, Newcastle upon Tyne",
-   "subtitle": "Newcastle upon Tyne, England",
-   "credit": "Photo: Anthony Foster, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Gallowgate,_Newcastle_upon_Tyne_-_geograph.org.uk_-_4277614.jpg"
   },
   {
    "mode": "night",
@@ -57,18 +41,18 @@
   {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Suburban Trees at Night",
-   "subtitle": "Newcastle upon Tyne, England",
-   "credit": "Photo: Andrew Tryon, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Suburban_Trees_at_Night_-_geograph.org.uk_-_3948516.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/04.jpg",
    "title": "Millennium bridge and Baltic building at",
    "subtitle": "Newcastle upon Tyne, England",
    "credit": "Photo: Tony Hisgett from Birmingham, UK, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Millennium_bridge_and_Baltic_building_at_night_(1160142349).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "The Keep and Clock of Durham Castle",
+   "subtitle": "Sunderland, England",
+   "credit": "Photo: Matthew Hoser, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Keep_and_Clock_of_Durham_Castle.jpg"
   }
  ]
 }

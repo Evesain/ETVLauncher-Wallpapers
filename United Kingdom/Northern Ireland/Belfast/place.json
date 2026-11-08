@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Belfast Pride Parade",
-   "subtitle": "Belfast, Northern Ireland",
-   "credit": "Photo: Connor Fleming, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Belfast_Pride_Parade.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Belfast City",
    "subtitle": "Belfast, Northern Ireland",
    "credit": "Photo: Ashlu1504, CC BY-SA 4.0",
@@ -24,15 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Belfast (06), October",
-   "subtitle": "Belfast, Northern Ireland",
-   "credit": "Photo: Ardfern, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Belfast_(06),_October_2009.JPG"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/02.jpg",
    "title": "Views of Belfast by night",
    "subtitle": "Belfast, Northern Ireland",
    "credit": "Photo: thejackrustles, CC BY-SA 2.0",
@@ -47,20 +31,28 @@
    "source": "https://commons.wikimedia.org/wiki/File:Dusk,_Belfast_-_geograph.org.uk_-_7013249.jpg"
   },
   {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "View of the Mournes from Minerstown",
+   "subtitle": "Newcastle, Northern Ireland",
+   "credit": "Photo: Conall from Downpatrick, Northern Ireland, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_of_the_Mournes_from_Minerstown_(25892206135).jpg"
+  },
+  {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "Dusk with glowing edges",
-   "subtitle": "Belfast, Northern Ireland",
-   "credit": "Photo: Conall from Downpatrick, Northern Ireland, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Dusk_with_glowing_edges_(49443541072).jpg"
+   "title": "Aurora over Northern Ireland",
+   "subtitle": "Newcastle, Northern Ireland",
+   "credit": "Photo: David Kernan, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aurora_over_Northern_Ireland.jpg"
   },
   {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Gardens at the back of City Hall , Belfast",
-   "subtitle": "Belfast, Northern Ireland",
-   "credit": "Photo: Robert Eva, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Gardens_at_the_back_of_City_Hall_,_Belfast_-_geograph.org.uk_-_5493389.jpg"
+   "title": "Hill, Giants Causeway",
+   "subtitle": "Bushmills, Northern Ireland",
+   "credit": "Photo: Darren Shilson from St Stephen, UK, United Kingdom, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hill,_Giants_Causeway_(49723230973).jpg"
   }
  ]
 }

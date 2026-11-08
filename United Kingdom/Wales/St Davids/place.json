@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Puffin (Fratercula arctica) with lesser",
-   "subtitle": "St Davids, Wales",
-   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica)_with_lesser_sand_eels_(Ammodytes_tobianus).jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Three Islands",
    "subtitle": "St Davids, Wales",
    "credit": "Photo: Gordon Hatton, CC BY-SA 2.0",
@@ -24,7 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
+   "file": "day/02.jpg",
    "title": "Cliffs in Ogof Colomennod",
    "subtitle": "St Davids, Wales",
    "credit": "Photo: Bill Boaden, CC BY-SA 2.0",
@@ -32,7 +24,7 @@
   },
   {
    "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/03.jpg",
    "title": "Wooltack Bay (MGK28474)",
    "subtitle": "St Davids, Wales",
    "credit": "Photo: Markus G. Klötzer, CC BY-SA 4.0",
@@ -49,18 +41,18 @@
   {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "70 803 Baglan",
-   "subtitle": "Swansea, Wales",
-   "credit": "Photo: kitmasterbloke, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:70_803_Baglan.jpg"
+   "title": "North Devon , Exmoor Sunset",
+   "subtitle": "Lynton, England",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:North_Devon_,_Exmoor_Sunset_-_geograph.org.uk_-_3981413.jpg"
   },
   {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Herring Fishing",
-   "subtitle": "Aberystwyth, Wales",
-   "credit": "Photo: Alfred Worthington, Public domain",
-   "source": "https://commons.wikimedia.org/wiki/File:Ceredigion_Museum_2018_02.jpg"
+   "title": "Lodges by Night",
+   "subtitle": "Lynton, England",
+   "credit": "Photo: William Warby, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lodges_by_Night.jpg"
   }
  ]
 }

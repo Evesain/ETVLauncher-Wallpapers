@@ -23,22 +23,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Spur_in_Haverah_Park_-_geograph.org.uk_-_2518751.jpg"
   },
   {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "View towards Beaver Dyke Reservoir",
-   "subtitle": "Harrogate, England",
-   "credit": "Photo: Chris Heaton, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:View_towards_Beaver_Dyke_Reservoir_-_geograph.org.uk_-_7531071.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Harrogate Dales Way Link above Beaver",
-   "subtitle": "Harrogate, England",
-   "credit": "Photo: Chris Heaton, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Harrogate_Dales_Way_Link_above_Beaver_Dyke_Reservoir_-_geograph.org.uk_-_7531075.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/01.jpg",
    "title": "Sunrise, Harrogate",
@@ -55,12 +39,20 @@
    "source": "https://commons.wikimedia.org/wiki/File:Sunset,_Harrogate_-_geograph.org.uk_-_6011857.jpg"
   },
   {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "River Aire, Saltaire",
+   "subtitle": "Bradford, England",
+   "credit": "Photo: Tim Green, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:River_Aire,_Saltaire.jpg"
+  },
+  {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "9.10.15 Leeds Night Light",
-   "subtitle": "Leeds, England",
-   "credit": "Photo: donald judge, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:9.10.15_Leeds_Night_Light_040_(21441471463).jpg"
+   "title": "Sunset as the Romans might have seen it",
+   "subtitle": "Grassington, England",
+   "credit": "Photo: Ian Greig, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_as_the_Romans_might_have_seen_it_-_geograph.org.uk_-_2071980.jpg"
   }
  ]
 }

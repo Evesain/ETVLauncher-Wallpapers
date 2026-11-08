@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Butterswood level crossing",
-   "subtitle": "Hull, England",
-   "credit": "Photo: Chris Morgan, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Butterswood_level_crossing_-_geograph.org.uk_-_5915251.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Old Harbour, River Hull, Kingston upon",
    "subtitle": "Hull, England",
    "credit": "Photo: Bernard Sharp, CC BY-SA 2.0",
@@ -24,7 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
+   "file": "day/02.jpg",
    "title": "Hull City Hall, Victoria Square, Hull",
    "subtitle": "Hull, England",
    "credit": "Photo: Ian S, CC BY-SA 2.0",
@@ -33,26 +25,34 @@
   {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "The Minerva by night",
-   "subtitle": "Hull, England",
-   "credit": "Photo: Chris Morgan, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:The_Minerva_by_night_-_geograph.org.uk_-_5244542.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/02.jpg",
    "title": "City Hall, Hull",
    "subtitle": "Hull, England",
    "credit": "Photo: Ian S, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:City_Hall,_Hull_-_geograph.org.uk_-_6341139.jpg"
   },
   {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "River Ouse",
+   "subtitle": "York, England",
+   "credit": "Photo: Tim Green from Bradford, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:River_Ouse_(26549642683).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Sunset as the Romans might have seen it",
+   "subtitle": "Grassington, England",
+   "credit": "Photo: Ian Greig, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_as_the_Romans_might_have_seen_it_-_geograph.org.uk_-_2071980.jpg"
+  },
+  {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "York MMB 39 River Ouse",
-   "subtitle": "York, England",
-   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:York_MMB_39_River_Ouse.jpg"
+   "title": "Lincoln skyline",
+   "subtitle": "Lincoln, England",
+   "credit": "Photo: Bob Harvey, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lincoln_skyline_-_geograph.org.uk_-_5701238.jpg"
   }
  ]
 }

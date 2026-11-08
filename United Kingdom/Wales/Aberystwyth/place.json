@@ -41,14 +41,6 @@
   {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "Herring Fishing",
-   "subtitle": "Aberystwyth, Wales",
-   "credit": "Photo: Alfred Worthington, Public domain",
-   "source": "https://commons.wikimedia.org/wiki/File:Ceredigion_Museum_2018_02.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/02.jpg",
    "title": "Sunset in Cardigan Bay - Machlud yr Haul",
    "subtitle": "Aberystwyth, Wales",
    "credit": "Photo: Jeremy Segrott from Cardiff, Wales, UK, CC BY 2.0",
@@ -56,11 +48,19 @@
   },
   {
    "mode": "night",
-   "file": "night/03.jpg",
+   "file": "night/02.jpg",
    "title": "Sunset over Cardigan Bay",
    "subtitle": "Aberystwyth, Wales",
    "credit": "Photo: Peter Jeffery, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_Cardigan_Bay_-_geograph.org.uk_-_5960240.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Bwlch Llanberis yn y cyfnos, gaeaf 2022 -",
+   "subtitle": "Barmouth, Wales",
+   "credit": "Photo: Llywelyn2000, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bwlch_Llanberis_yn_y_cyfnos,_gaeaf_2022_-_Llanberis_pass_at_dusk,_Dec_2022,_Gwynedd_Cymru_(Wales)_20.jpg"
   }
  ]
 }

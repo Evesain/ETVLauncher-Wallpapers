@@ -23,22 +23,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Sandown_MMB_14_Pier.jpg"
   },
   {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Newport Coppins Bridge Wight Dragon",
-   "subtitle": "Isle of Wight, England",
-   "credit": "Photo: Arriva436, CC BY 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Newport_Coppins_Bridge_Wight_Dragon_3.JPG"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Newport , County Hall",
-   "subtitle": "Isle of Wight, England",
-   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Newport_,_County_Hall_-_geograph.org.uk_-_6867182.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/01.jpg",
    "title": "Appley Tower on the Isle of Wight taken",
@@ -55,12 +39,20 @@
    "source": "https://commons.wikimedia.org/wiki/File:Birth_of_a_new_day.jpg"
   },
   {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Portsmouth MMB 88 Martello Tower",
+   "subtitle": "Portsmouth, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Portsmouth_MMB_88_Martello_Tower.jpg"
+  },
+  {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Victoria of Wight at Night",
+   "title": "Portsmouth Harbour Sunset",
    "subtitle": "Portsmouth, England",
-   "credit": "Photo: Tim Sheerman-Chase, CC BY 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Victoria_of_Wight_at_Night.jpg"
+   "credit": "Photo: Greg Clarke, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Portsmouth_Harbour_Sunset.jpg"
   }
  ]
 }

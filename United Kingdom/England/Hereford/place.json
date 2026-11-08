@@ -9,22 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Chepstow MMB 11 Gloucester to Newport Line",
-   "subtitle": "Hereford, England",
-   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Chepstow_MMB_11_Gloucester_to_Newport_Line.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
-   "title": "Chepstow MMB 15 Gloucester to Newport Line",
-   "subtitle": "Hereford, England",
-   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Chepstow_MMB_15_Gloucester_to_Newport_Line.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
    "title": "At Berrington Hall 2022",
    "subtitle": "Hereford, England",
    "credit": "Photo: Mike Peel, CC BY-SA 4.0",
@@ -32,7 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/02.jpg",
    "title": "Fog below Gatley Park",
    "subtitle": "Hereford, England",
    "credit": "Photo: Howard Kirby, CC BY-SA 2.0",
@@ -41,14 +25,6 @@
   {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "Richard's Castle (Keep)",
-   "subtitle": "Hereford, England",
-   "credit": "Photo: Fabian Musto, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Richard%27s_Castle_(Keep)_-_geograph.org.uk_-_6395568.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/02.jpg",
    "title": "Moon at Richards Castle",
    "subtitle": "Hereford, England",
    "credit": "Photo: Fabian Musto, CC BY-SA 2.0",
@@ -56,7 +32,7 @@
   },
   {
    "mode": "night",
-   "file": "night/03.jpg",
+   "file": "night/02.jpg",
    "title": "Sunset over Herefordshire",
    "subtitle": "Hereford, England",
    "credit": "Photo: Roger Davies, CC BY-SA 2.0",
@@ -64,11 +40,19 @@
   },
   {
    "mode": "night",
-   "file": "night/04.jpg",
+   "file": "night/03.jpg",
    "title": "December sunrise, Ledgemoor",
    "subtitle": "Hereford, England",
    "credit": "Photo: Philip Pankhurst, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:December_sunrise,_Ledgemoor_-_geograph.org.uk_-_4283404.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "The Town of Ludlow at Sunrise",
+   "subtitle": "Ludlow, England",
+   "credit": "Photo: Fabian Musto, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Town_of_Ludlow_at_Sunrise_-_geograph.org.uk_-_6120637.jpg"
   }
  ]
 }

@@ -9,26 +9,10 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Western entrance to Castle Eaton",
-   "subtitle": "Swindon, England",
-   "credit": "Photo: Vieve Forward, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Western_entrance_to_Castle_Eaton_-_geograph.org.uk_-_3779058.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "View from Lus Hill",
    "subtitle": "Swindon, England",
    "credit": "Photo: Des Blenkinsopp, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:View_from_Lus_Hill_-_geograph.org.uk_-_7211076.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "At Swindon Steam Railway Museum 2024",
-   "subtitle": "Swindon, England",
-   "credit": "Photo: Mike Peel, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:At_Swindon_Steam_Railway_Museum_2024_042.jpg"
   },
   {
    "mode": "night",
@@ -39,20 +23,36 @@
    "source": "https://commons.wikimedia.org/wiki/File:Avebury_2022_August_1.jpg"
   },
   {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Broadway Tower",
+   "subtitle": "Cirencester, England",
+   "credit": "Photo: Saffron Blaze, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Broadway_Tower_2012.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Bath MMB 11 River Avon",
+   "subtitle": "Bath, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bath_MMB_11_River_Avon.jpg"
+  },
+  {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "Magpie moth (Abraxas grossulariata)",
-   "subtitle": "Oxford, England",
-   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Magpie_moth_(Abraxas_grossulariata).jpg"
+   "title": "Gloucester Christmas Illuminations",
+   "subtitle": "Gloucester, England",
+   "credit": "Photo: Antony Stanley from Gloucester, UK, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gloucester_Christmas_Illuminations_(4211299632).jpg"
   },
   {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Mute swans (Cygnus olor) and cygnets",
-   "subtitle": "Oxford, England",
-   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Mute_swans_(Cygnus_olor)_and_cygnets.jpg"
+   "title": "Bath monuments 2016 Bath Abbey at night",
+   "subtitle": "Bath, England",
+   "credit": "Photo: Jwslubbock, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bath_monuments_2016_Bath_Abbey_at_night.jpg"
   }
  ]
 }

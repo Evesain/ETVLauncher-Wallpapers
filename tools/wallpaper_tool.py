@@ -165,8 +165,17 @@ def sheet(items, path, work):
     img.save(path, quality=80)
 
 
+def blocked():
+    f = os.path.join(ROOT, "tools", "blocklist.txt")
+    return set(l.strip() for l in open(f, encoding="utf-8")) if os.path.exists(f) else set()
+
+
+BLOCK = set()
+
+
 def gather(centres, radius, queries, maxdist=35000):
     """Candidate pictures (size, licence and place checked) near the centres or named by the queries. No pictures are downloaded yet."""
+    BLOCK.update(blocked())
     ids = find_ids(centres, radius, queries, queries)
     print("%d files found; checking size and licence ..." % len(ids))
     cands = []
@@ -183,6 +192,8 @@ def gather(centres, radius, queries, maxdist=35000):
             # A file with its own coordinates must lie within 35 km (or the place's radius) of a centre (so "Whitby" is not Whitby in Canada). Larger places allow more.
             # A picture without coordinates cannot be placed, so it is not used (this drops other towns of the same name).
             if c["lat"] is None or min(metres(c["lat"], c["lon"], la, lo) for la, lo in centres) > maxdist:
+                continue
+            if c["page"] in BLOCK:
                 continue
             c["from"] = src
             cands.append(c)
@@ -236,7 +247,7 @@ POOR = re.compile(r"interior|inside|church|cathedral|chapel|\bpub\b|\binn\b|hote
                   r"tourists?|posing|ruined|outbuilding|farmland|panosphere|panorama|moss\b|graffiti|\bcctv\b|scaffold|"
                   r"\biss\d|view of earth|satellite|\bnasa\b|landsat|sentinel|\bzoo\b|concert|singer|musician|violin|\bband\b|book ?store|"
                   r"\bblocks?\b|footbridge|\bbrook\b|\bditch|\bpath\b|\btrack\b|\bgate\b|\bwall\b|\bfence|\bbench|litter|"
-                  r"unsplash\)?$|\bwreck|lorry|aircraft|airport|\bplane\b|\bbus\b|supermarket|\bmall\b|parking", re.I)
+                  r"panoramio|unsplash\)?$|\bwreck|lorry|aircraft|airport|\bplane\b|\bbus\b|supermarket|\bmall\b|parking", re.I)
 GOOD = re.compile(r"park|lake|reservoir|hill|castle|view|sunrise|sunset|valley|river|canal|beach|harbou?r|skyline|panorama|forest|"
                   r"bridge|tower|abbey|cliff|mountain|moor|peak|cathedral|hall\b|palace|pier|lighthouse|waterfall|ridge|coast|"
                   r"bay\b|island|woods?\b|common|gardens?|aurora|night|dusk|twilight|illuminat", re.I)
@@ -372,7 +383,7 @@ def auto(lat, lon, place, work, n=4, explicit=None):
 
 
 def borrow(folder, lat, lon, mode, need):
-    """Copies up to {need} photos of {mode} from the nearest other packs (within 250 km) into this pack. Returns how many."""
+    """Copies up to {need} photos of {mode} from the nearest other packs (within 150 km) into this pack. Returns how many."""
     import shutil
     base = os.path.join(ROOT, folder)
     pj = os.path.join(base, "place.json")
@@ -383,7 +394,7 @@ def borrow(folder, lat, lon, mode, need):
             continue
         q = json.load(open(os.path.join(dirpath, "place.json"), encoding="utf-8"))
         km = metres(lat, lon, q["lat"], q["lon"]) / 1000
-        if km <= 250 and any(x["mode"] == mode for x in q["photos"]):
+        if km <= 150 and any(x["mode"] == mode for x in q["photos"]):
             near.append((km, dirpath, q))
     near.sort(key=lambda t: t[0])
     taken = 0

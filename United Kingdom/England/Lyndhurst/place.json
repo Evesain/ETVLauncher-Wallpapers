@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "New Forest , The A35",
-   "subtitle": "Lyndhurst, England",
-   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:New_Forest_,_The_A35_-_geograph.org.uk_-_5738786.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Fog forest",
    "subtitle": "Lyndhurst, England",
    "credit": "Photo: Joana Kruse joanaimages.com, CC BY-SA 4.0",
@@ -24,19 +16,11 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
+   "file": "day/02.jpg",
    "title": "New Forest, Hampshire",
    "subtitle": "Lyndhurst, England",
    "credit": "Photo: Robert Linsdell from St. Andrews, Canada, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:New_Forest,_Hampshire_(260175)_(9453477899).jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Southern damselfly (Coenagrion",
-   "subtitle": "Lyndhurst, England",
-   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Southern_damselfly_(Coenagrion_mercuriale)_male_Crockford_Stream.jpg"
   },
   {
    "mode": "night",
@@ -61,6 +45,14 @@
    "subtitle": "Southampton, England",
    "credit": "Photo: JackPeasePhotography, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:One_Hot_Sunset_(34592189604).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Southampton Guildhall",
+   "subtitle": "Southampton, England",
+   "credit": "Photo: Michael, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Southampton_Guildhall.jpg"
   }
  ]
 }

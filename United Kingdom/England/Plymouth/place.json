@@ -7,38 +7,6 @@
  "radius_km": 25,
  "photos": [
   {
-   "mode": "day",
-   "file": "day/01.jpg",
-   "title": "English Channel , Armorique ^ Coastline",
-   "subtitle": "Plymouth, England",
-   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:English_Channel_,_Armorique_%5E_Coastline_-_geograph.org.uk_-_3484352.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
-   "title": "English Channel , Coastal Scenery",
-   "subtitle": "Plymouth, England",
-   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:English_Channel_,_Coastal_Scenery_-_geograph.org.uk_-_3484366.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Hedge by St Germans River",
-   "subtitle": "Plymouth, England",
-   "credit": "Photo: Derek Harper, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Hedge_by_St_Germans_River_-_geograph.org.uk_-_6110932.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Field by the St Germans River",
-   "subtitle": "Plymouth, England",
-   "credit": "Photo: Derek Harper, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Field_by_the_St_Germans_River_-_geograph.org.uk_-_5782884.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/01.jpg",
    "title": "Sunset near Plymouth",
@@ -61,6 +29,30 @@
    "subtitle": "Tintagel, England",
    "credit": "Photo: Darren Shilson from St Stephen, UK, United Kingdom, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Carnewas_Sunset_-_Replaced_(4532811548).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "From O Pupers last light-3 crop",
+   "subtitle": "Princetown, England",
+   "credit": "Photo: Herbythyme, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:From_O_Pupers_last_light-3_crop.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Mil tor",
+   "subtitle": "Princetown, England",
+   "credit": "Photo: Herbythyme, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mil_tor.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "West Devon , Dartmoor Scenery",
+   "subtitle": "Princetown, England",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:West_Devon_,_Dartmoor_Scenery_-_geograph.org.uk_-_4630236.jpg"
   }
  ]
 }

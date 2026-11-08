@@ -9,26 +9,10 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "A69 near Lipwood",
-   "subtitle": "Hexham, England",
-   "credit": "Photo: wfmillar, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:A69_near_Lipwood_-_geograph.org.uk_-_3882243.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Hexham Park",
    "subtitle": "Hexham, England",
    "credit": "Photo: Bill Boaden, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Hexham_Park_-_geograph.org.uk_-_5375651.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Newcastle upon Tyne (2022-03-28)",
-   "subtitle": "Newcastle upon Tyne, England",
-   "credit": "Photo: Simon Cobb, CC0",
-   "source": "https://commons.wikimedia.org/wiki/File:Newcastle_upon_Tyne_(2022-03-28)_102.jpg"
   },
   {
    "mode": "night",
@@ -47,12 +31,28 @@
    "source": "https://commons.wikimedia.org/wiki/File:Night_Lights_-_geograph.org.uk_-_4270232.jpg"
   },
   {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Sunset above the River Tyne",
+   "subtitle": "Newcastle upon Tyne, England",
+   "credit": "Photo: Les Hull, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_above_the_River_Tyne_-_geograph.org.uk_-_7431794.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Sunset over Hebburn",
+   "subtitle": "Newcastle upon Tyne, England",
+   "credit": "Photo: Les Hull, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_Hebburn_-_geograph.org.uk_-_7431790.jpg"
+  },
+  {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Suburban Trees at Night",
+   "title": "Millennium bridge and Baltic building at",
    "subtitle": "Newcastle upon Tyne, England",
-   "credit": "Photo: Andrew Tryon, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Suburban_Trees_at_Night_-_geograph.org.uk_-_3948516.jpg"
+   "credit": "Photo: Tony Hisgett from Birmingham, UK, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Millennium_bridge_and_Baltic_building_at_night_(1160142349).jpg"
   }
  ]
 }

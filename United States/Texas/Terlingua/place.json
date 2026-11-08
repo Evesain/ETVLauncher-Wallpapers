@@ -17,14 +17,6 @@
   {
    "mode": "day",
    "file": "day/02.jpg",
-   "title": "Big-Bend-NP",
-   "subtitle": "Terlingua, Texas",
-   "credit": "Photo: Martin D. Adamiker, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Big-Bend-NP.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
    "title": "Santa Elena Canyon BIBE",
    "subtitle": "Terlingua, Texas",
    "credit": "Photo: R Hensley from US, CC BY 2.0",
@@ -32,7 +24,7 @@
   },
   {
    "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/03.jpg",
    "title": "Mule Ears Peaks in Big Bend National Park",
    "subtitle": "Terlingua, Texas",
    "credit": "Photo: lns1122, CC BY 2.0",
@@ -49,14 +41,6 @@
   {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "Big Bend National Park, United States",
-   "subtitle": "Terlingua, Texas",
-   "credit": "Photo: Jesse Sewell jessesewell, CC0",
-   "source": "https://commons.wikimedia.org/wiki/File:Big_Bend_National_Park,_United_States_(Unsplash_7V78KRaWMKQ).jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
    "title": "Guadalupe Peak at sunset",
    "subtitle": "Guadalupe Mountains, Texas",
    "credit": "Photo: Leaflet, CC BY-SA 3.0",

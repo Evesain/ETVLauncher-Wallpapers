@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Southend-on-Sea MMB",
-   "subtitle": "Southend-on-Sea, England",
-   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Southend-on-Sea_MMB_06.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Hills in Hadleigh Country Park",
    "subtitle": "Southend-on-Sea, England",
    "credit": "Photo: Roger Jones, CC BY-SA 2.0",
@@ -24,7 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
+   "file": "day/02.jpg",
    "title": "Foreshore, Isle of Grain Coastal Park",
    "subtitle": "Southend-on-Sea, England",
    "credit": "Photo: Roger Jones, CC BY-SA 2.0",
@@ -32,7 +24,7 @@
   },
   {
    "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/03.jpg",
    "title": "Beach and esplanade at Grain",
    "subtitle": "Southend-on-Sea, England",
    "credit": "Photo: Oast House Archive, CC BY-SA 2.0",
@@ -41,14 +33,6 @@
   {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "View of 'The Bridge Chamber' at Castle",
-   "subtitle": "Maidstone, England",
-   "credit": "Photo: OathOn, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:View_of_%27The_Bridge_Chamber%27_at_Castle_Hill,_Rochester,_Kent,_England,_at_night_(2).jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/02.jpg",
    "title": "Sunset",
    "subtitle": "Maidstone, England",
    "credit": "Photo: Tony Hisgett from Birmingham, UK, CC BY 2.0",
@@ -56,11 +40,19 @@
   },
   {
    "mode": "night",
-   "file": "night/03.jpg",
+   "file": "night/02.jpg",
    "title": "View of Rochester Bridge & the River",
    "subtitle": "Maidstone, England",
    "credit": "Photo: OathOn, CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:View_of_Rochester_Bridge_%26_the_River_Medway_in_Rochester,_Kent,_England,_at_night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunrise In Dover port",
+   "subtitle": "Dover, England",
+   "credit": "Photo: Alexey Komarov, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_In_Dover_port.jpg"
   }
  ]
 }

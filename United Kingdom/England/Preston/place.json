@@ -25,14 +25,6 @@
   {
    "mode": "day",
    "file": "day/03.jpg",
-   "title": "Farmyard at Park Head",
-   "subtitle": "Preston, England",
-   "credit": "Photo: Chris Heaton, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Farmyard_at_Park_Head_-_geograph.org.uk_-_7401690.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
    "title": "Footpath to Park Head",
    "subtitle": "Preston, England",
    "credit": "Photo: Ian Greig, CC BY-SA 2.0",
@@ -49,18 +41,18 @@
   {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "Bonfire Silouette",
-   "subtitle": "Preston, England",
-   "credit": "Photo: Michael Elleray from England, United Kingdom, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Bonfire_Silouette_(6319344331).jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
    "title": "In Lodge Wood",
    "subtitle": "Preston, England",
    "credit": "Photo: Chris Heaton, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:In_Lodge_Wood_-_geograph.org.uk_-_7332312.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Golden Red",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Michael D Beckwith, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Golden_Red_(25171978236).jpg"
   }
  ]
 }

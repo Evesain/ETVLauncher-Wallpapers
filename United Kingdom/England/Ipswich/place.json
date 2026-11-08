@@ -17,22 +17,6 @@
   {
    "mode": "day",
    "file": "day/02.jpg",
-   "title": "View of the curved AXA Insurance building",
-   "subtitle": "Ipswich, England",
-   "credit": "Photo: Robert Lamb, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:View_of_the_curved_AXA_Insurance_building_on_Civic_Drive_-_geograph.org.uk_-_7012157.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Simple Minds - Live in Ipswich Regent",
-   "subtitle": "Ipswich, England",
-   "credit": "Photo: kitmasterbloke, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Simple_Minds_-_Live_in_Ipswich_Regent_Theatre_4th_May_2015_-_17382059822.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
    "title": "Triangle with daffodils at dusk",
    "subtitle": "Ipswich, England",
    "credit": "Photo: Bill Boaden, CC BY-SA 2.0",
@@ -41,34 +25,34 @@
   {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "SSimple Minds - Live in Ipswich Regent",
-   "subtitle": "Ipswich, England",
-   "credit": "Photo: kitmasterbloke, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:SSimple_Minds_-_Live_in_Ipswich_Regent_Theatre_4th_May_2015_-_17382050452.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/02.jpg",
-   "title": "View of The Shamrock lighting up at dusk",
-   "subtitle": "Ipswich, England",
-   "credit": "Photo: Robert Lamb, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:View_of_The_Shamrock_lighting_up_at_dusk_-_geograph.org.uk_-_7012167.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
    "title": "View of masts against the sunset from",
    "subtitle": "Ipswich, England",
    "credit": "Photo: Robert Lamb, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:View_of_masts_against_the_sunset_from_Common_Quay_-_geograph.org.uk_-_7012172.jpg"
   },
   {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Borrow dyke at sunset, Tollesbury Wick",
+   "subtitle": "Colchester, England",
+   "credit": "Photo: Roger Jones, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Borrow_dyke_at_sunset,_Tollesbury_Wick_Marshes_-_geograph.org.uk_-_3819029.jpg"
+  },
+  {
    "mode": "night",
-   "file": "night/04.jpg",
-   "title": "Simple Minds - Live in Ipswich Regent",
-   "subtitle": "Ipswich, England",
-   "credit": "Photo: kitmasterbloke, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Simple_Minds_-_Live_in_Ipswich_Regent_Theatre_4th_May_2015_-_16763671993.jpg"
+   "file": "night/02.jpg",
+   "title": "Sunset",
+   "subtitle": "Maidstone, England",
+   "credit": "Photo: Tony Hisgett from Birmingham, UK, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_(4910706364).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "View of Rochester Bridge & the River",
+   "subtitle": "Maidstone, England",
+   "credit": "Photo: OathOn, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_of_Rochester_Bridge_%26_the_River_Medway_in_Rochester,_Kent,_England,_at_night.jpg"
   }
  ]
 }

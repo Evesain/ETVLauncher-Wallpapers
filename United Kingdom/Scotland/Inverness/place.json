@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Inverness Crematorium at dusk",
-   "subtitle": "Inverness, Scotland",
-   "credit": "Photo: wfmillar, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Inverness_Crematorium_at_dusk_-_geograph.org.uk_-_2148736.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Inverness , River Ness",
    "subtitle": "Inverness, Scotland",
    "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
@@ -24,7 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
+   "file": "day/02.jpg",
    "title": "Inverness Beauly Firth and Craigphadrig",
    "subtitle": "Inverness, Scotland",
    "credit": "Photo: Ymblanter, CC BY-SA 4.0",
@@ -32,7 +24,7 @@
   },
   {
    "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/03.jpg",
    "title": "Highland , Hillside",
    "subtitle": "Inverness, Scotland",
    "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
@@ -57,14 +49,6 @@
   {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Two Towers1",
-   "subtitle": "Inverness, Scotland",
-   "credit": "Photo: miketnorton, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Two_Towers1.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/04.jpg",
    "title": "Sunrise over the Beauly Firth, Phopachy",
    "subtitle": "Inverness, Scotland",
    "credit": "Photo: Craig Wallace, CC BY-SA 2.0",

@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Common seal (Phoca vitulina)",
-   "subtitle": "Oban, Scotland",
-   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Common_seal_(Phoca_vitulina)_2.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Inveraray Castle, Argyll and Bute,",
    "subtitle": "Oban, Scotland",
    "credit": "Photo: Son of Groucho from Scotland, CC BY 2.0",
@@ -24,7 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
+   "file": "day/02.jpg",
    "title": "Oban bay",
    "subtitle": "Oban, Scotland",
    "credit": "Photo: Peter Mackenzie, CC BY-SA 2.0",
@@ -32,7 +24,7 @@
   },
   {
    "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/03.jpg",
    "title": "Tirefour Castle was a strategic viewpoint",
    "subtitle": "Oban, Scotland",
    "credit": "Photo: David Medcalf, CC BY-SA 2.0",
@@ -61,14 +53,6 @@
    "subtitle": "Oban, Scotland",
    "credit": "Photo: Forbes Johnston, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_the_Sound_of_Jura,_Carsaig_Bay,_Argyll,_Scotland.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/04.jpg",
-   "title": "Carsaig Bay, Argyll, Scotland",
-   "subtitle": "Oban, Scotland",
-   "credit": "Photo: Forbes Johnston, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Carsaig_Bay,_Argyll,_Scotland.jpg"
   }
  ]
 }

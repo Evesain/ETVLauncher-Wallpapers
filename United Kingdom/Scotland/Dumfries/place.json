@@ -49,14 +49,6 @@
   {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "Sunset On The Solway Firth - panoramio",
-   "subtitle": "Dumfries, Scotland",
-   "credit": "Photo: dan kearney, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Sunset_On_The_Solway_Firth_-_panoramio.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
    "title": "Easterbrook hall at night",
    "subtitle": "Dumfries, Scotland",
    "credit": "Photo: Grant McIntosh Photography, CC BY-SA 4.0",
@@ -64,7 +56,7 @@
   },
   {
    "mode": "night",
-   "file": "night/04.jpg",
+   "file": "night/03.jpg",
    "title": "Front Bay - Monreith",
    "subtitle": "Dumfries, Scotland",
    "credit": "Photo: James Johnstone from Ecclefechan, Scotland, CC BY 2.0",

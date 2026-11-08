@@ -31,14 +31,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Antrim_Coast_-_Giant%27s_Causeway_-_View_towards_Grand_Causeway_-_geograph.org.uk_-_3719488.jpg"
   },
   {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Antrim Coast - Giant's Causeway - Highest",
-   "subtitle": "Bushmills, Northern Ireland",
-   "credit": "Photo: Joseph Mischyshyn, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Antrim_Coast_-_Giant%27s_Causeway_-_Highest_Portion_of_the_Grand_Causeway_-_geograph.org.uk_-_3719451.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/01.jpg",
    "title": "Hill, Giants Causeway",
@@ -49,18 +41,18 @@
   {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "Sunset Isle of Cumbrae - panoramio",
-   "subtitle": "Ayr, Scotland",
-   "credit": "Photo: dan kearney, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Sunset_Isle_of_Cumbrae_-_panoramio.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
    "title": "Sunset, Ayr",
    "subtitle": "Ayr, Scotland",
    "credit": "Photo: Billy McCrorie, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Sunset,_Ayr_-_geograph.org.uk_-_6321604.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Dusk, Belfast",
+   "subtitle": "Belfast, Northern Ireland",
+   "credit": "Photo: Rossographer, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dusk,_Belfast_-_geograph.org.uk_-_7013249.jpg"
   }
  ]
 }

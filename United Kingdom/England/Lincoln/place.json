@@ -9,26 +9,10 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Flooded Branston Island, aerial March 2026",
-   "subtitle": "Lincoln, England",
-   "credit": "Photo: Chris, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Flooded_Branston_Island,_aerial_March_2026_(3)_-_geograph.org.uk_-_8272743.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Lincoln City Skyline in",
    "subtitle": "Lincoln, England",
    "credit": "Photo: DragonofBatley, CC0",
    "source": "https://commons.wikimedia.org/wiki/File:Lincoln_City_Skyline_in_2024.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Lincoln City - Overview",
-   "subtitle": "Lincoln, England",
-   "credit": "Photo: John Myers, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Lincoln_City_-_Overview_-_geograph.org.uk_-_4233762.jpg"
   },
   {
    "mode": "night",
@@ -39,20 +23,36 @@
    "source": "https://commons.wikimedia.org/wiki/File:Lincoln_skyline_-_geograph.org.uk_-_5701238.jpg"
   },
   {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Radcliffe-on-Trent, Notts",
+   "subtitle": "Nottingham, England",
+   "credit": "Photo: David Hallam-Jones, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Radcliffe-on-Trent,_Notts._-_geograph.org.uk_-_3563855.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Old Harbour, River Hull, Kingston upon",
+   "subtitle": "Hull, England",
+   "credit": "Photo: Bernard Sharp, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Old_Harbour,_River_Hull,_Kingston_upon_Hull_-_geograph.org.uk_-_3774216.jpg"
+  },
+  {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "University Park MMB «48 Portland Building",
-   "subtitle": "Nottingham, England",
-   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:University_Park_MMB_%C2%AB48_Portland_Building.jpg"
+   "title": "City Hall, Hull",
+   "subtitle": "Hull, England",
+   "credit": "Photo: Ian S, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:City_Hall,_Hull_-_geograph.org.uk_-_6341139.jpg"
   },
   {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Jubilee Campus MMB I1 Melton Hall",
-   "subtitle": "Nottingham, England",
-   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Jubilee_Campus_MMB_I1_Melton_Hall.jpg"
+   "title": "Sunset as the Romans might have seen it",
+   "subtitle": "Grassington, England",
+   "credit": "Photo: Ian Greig, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_as_the_Romans_might_have_seen_it_-_geograph.org.uk_-_2071980.jpg"
   }
  ]
 }

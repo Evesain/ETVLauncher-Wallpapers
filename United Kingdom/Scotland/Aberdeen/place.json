@@ -23,22 +23,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:View_over_Findon_Moor_-_geograph.org.uk_-_7247663.jpg"
   },
   {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Arnhall Court at Lawsondale Avenue,",
-   "subtitle": "Aberdeen, Scotland",
-   "credit": "Photo: Ian S, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Arnhall_Court_at_Lawsondale_Avenue,_Westhill_-_geograph.org.uk_-_7312135.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Turf Zone \"HilltopMains\"",
-   "subtitle": "Aberdeen, Scotland",
-   "credit": "Photo: Ian S, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Turf_Zone_%22HilltopMains%22_-_geograph.org.uk_-_7312139.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/01.jpg",
    "title": "Dunnottar Castle Sunrise",
@@ -55,20 +39,20 @@
    "source": "https://commons.wikimedia.org/wiki/File:Dunnottar_Castle_Cliffs.jpg"
   },
   {
-   "mode": "night",
-   "file": "night/03.jpg",
-   "title": "Cairncry Sunset - panoramio",
-   "subtitle": "Aberdeen, Scotland",
-   "credit": "Photo: Alan Jamieson, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Cairncry_Sunset_-_panoramio.jpg"
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Bow Fiddle Rock East",
+   "subtitle": "Elgin, Scotland",
+   "credit": "Photo: Lucas Kendall, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bow_Fiddle_Rock_East.jpg"
   },
   {
    "mode": "night",
-   "file": "night/04.jpg",
-   "title": "Normand Aurora",
-   "subtitle": "Aberdeen, Scotland",
-   "credit": "Photo: Alan Jamieson from Aberdeen, Scotland, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Normand_Aurora_(16903172380).jpg"
+   "file": "night/03.jpg",
+   "title": "On the Shores of the Caledonian Canal at",
+   "subtitle": "Inverness, Scotland",
+   "credit": "Photo: Lukas von Daeniken from Schweiz, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:On_the_Shores_of_the_Caledonian_Canal_at_Inverness_(23590691825).jpg"
   }
  ]
 }

@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Chrysler 200S",
-   "subtitle": "Dallas, Texas",
-   "credit": "Photo: Wissembourg, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Chrysler_200S.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "University Park July 2016 15 (Caruth Park)",
    "subtitle": "Dallas, Texas",
    "credit": "Photo: Michael Barera, CC BY-SA 4.0",
@@ -24,15 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
-   "title": "University Park July 2016 16 (Caruth Park)",
-   "subtitle": "Dallas, Texas",
-   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:University_Park_July_2016_16_(Caruth_Park).jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/02.jpg",
    "title": "Dallas - The West End and Uptown",
    "subtitle": "Dallas, Texas",
    "credit": "Photo: IcedCowboyCoffee, CC0",
@@ -69,6 +53,14 @@
    "subtitle": "Dallas, Texas",
    "credit": "Photo: Gattacal, CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Dallas_Skyline_with_Arts_District_at_night.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Fort Worth June 2016 49 (Bass Performance",
+   "subtitle": "Fort Worth, Texas",
+   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fort_Worth_June_2016_49_(Bass_Performance_Hall).jpg"
   }
  ]
 }

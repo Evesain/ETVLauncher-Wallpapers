@@ -41,14 +41,6 @@
   {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "When the going gets tough",
-   "subtitle": "Bournemouth, England",
-   "credit": "Photo: Ian Kirk from Broadstone, Dorset, UK, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:When_the_going_gets_tough..._(8392600756).jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/02.jpg",
    "title": "Sunset at Sandbanks",
    "subtitle": "Bournemouth, England",
    "credit": "Photo: Ian Kirk from Broadstone, Dorset, UK, CC BY 2.0",
@@ -56,11 +48,19 @@
   },
   {
    "mode": "night",
-   "file": "night/03.jpg",
+   "file": "night/02.jpg",
    "title": "Heading towards Weymouth from Overcombe",
    "subtitle": "Lulworth Cove, England",
    "credit": "Photo: Colin Park, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Heading_towards_Weymouth_from_Overcombe_at_dusk_-_geograph.org.uk_-_7034599.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "New Forest, Hampshire",
+   "subtitle": "Lyndhurst, England",
+   "credit": "Photo: Peter Trimming, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:New_Forest,_Hampshire_-_geograph.org.uk_-_4094911.jpg"
   }
  ]
 }

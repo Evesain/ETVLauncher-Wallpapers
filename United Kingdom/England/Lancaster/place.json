@@ -9,34 +9,10 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Approaching Heysham Harbour",
-   "subtitle": "Lancaster, England",
-   "credit": "Photo: Robert Eva, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Approaching_Heysham_Harbour_-_geograph.org.uk_-_6188175.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
-   "title": "Heysham Harbour south jetty",
-   "subtitle": "Lancaster, England",
-   "credit": "Photo: Robert Eva, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Heysham_Harbour_south_jetty_-_geograph.org.uk_-_6188176.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
    "title": "Lancaster Canal by Beaumont Hall Bridge,",
    "subtitle": "Lancaster, England",
    "credit": "Photo: Colin Park, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Lancaster_Canal_by_Beaumont_Hall_Bridge,_Lancaster_-_geograph.org.uk_-_6326338.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Morecambe - Eric Morecambe Statue ^",
-   "subtitle": "Lancaster, England",
-   "credit": "Photo: Colin Park, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Morecambe_-_Eric_Morecambe_Statue_%5E_flower_gardens_-_geograph.org.uk_-_5245440.jpg"
   },
   {
    "mode": "night",
@@ -61,6 +37,22 @@
    "subtitle": "Blackpool, England",
    "credit": "Photo: Michael Beckwith, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Blackpool_Promenade_Sunset_(7169103702).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Blackpool Beach Sunset",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Michael D Beckwith, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Blackpool_Beach_Sunset.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Calm Bliss",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Michael D Beckwith, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Calm_Bliss_(31709727123).jpg"
   }
  ]
 }

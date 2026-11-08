@@ -9,30 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Tempest Hey, Liverpool July 1016",
-   "subtitle": "Liverpool, England",
-   "credit": "Photo: John Bradley, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Tempest_Hey,_Liverpool_July_1016_(1).jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
-   "title": "River Dibbin at Bowdens Hey bridge",
-   "subtitle": "Liverpool, England",
-   "credit": "Photo: Rodhullandemu, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:River_Dibbin_at_Bowdens_Hey_bridge_3.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "View from above Otter Bridge tunnel",
-   "subtitle": "Liverpool, England",
-   "credit": "Photo: Rodhullandemu, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:View_from_above_Otter_Bridge_tunnel.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
    "title": "Liverpool Skyline",
    "subtitle": "Liverpool, England",
    "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
@@ -49,14 +25,6 @@
   {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "Sunset in Princes Gardens in Liverpool",
-   "subtitle": "Liverpool, England",
-   "credit": "Photo: TudorTulok, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Sunset_in_Princes_Gardens_in_Liverpool_United_Kingdom_in_2015.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
    "title": "St George's Hall, Liverpool at night",
    "subtitle": "Liverpool, England",
    "credit": "Photo: Matt Harrop, CC BY-SA 2.0",
@@ -64,11 +32,27 @@
   },
   {
    "mode": "night",
-   "file": "night/04.jpg",
+   "file": "night/03.jpg",
    "title": "Liverpool Everyman Theatre at dusk",
    "subtitle": "Liverpool, England",
    "credit": "Photo: Unknown, CC BY-SA 2.5",
    "source": "https://commons.wikimedia.org/wiki/File:Liverpool_Everyman_Theatre_at_dusk.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "The River Dee near Aldford",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_River_Dee_near_Aldford_-_geograph.org.uk_-_2440836.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Fallen Tree in the River Dee",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fallen_Tree_in_the_River_Dee_-_geograph.org.uk_-_5871051.jpg"
   }
  ]
 }

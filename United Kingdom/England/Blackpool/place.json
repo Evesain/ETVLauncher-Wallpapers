@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Woodcock Wood",
-   "subtitle": "Blackpool, England",
-   "credit": "Photo: Ian Greig, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Woodcock_Wood_-_geograph.org.uk_-_5852757.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Blackpool Beach Sunset",
    "subtitle": "Blackpool, England",
    "credit": "Photo: Michael D Beckwith, CC0",
@@ -24,7 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
+   "file": "day/02.jpg",
    "title": "Calm Bliss",
    "subtitle": "Blackpool, England",
    "credit": "Photo: Michael D Beckwith, CC0",
@@ -32,7 +24,7 @@
   },
   {
    "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/03.jpg",
    "title": "Queen's Promenade at Dusk",
    "subtitle": "Blackpool, England",
    "credit": "Photo: Steve Barnes, CC BY-SA 2.0",
@@ -61,14 +53,6 @@
    "subtitle": "Blackpool, England",
    "credit": "Photo: Michael Beckwith, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Blackpool_Promenade_Sunset_(7169103702).jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/04.jpg",
-   "title": "Blackpool Promenade Sunset - panoramio",
-   "subtitle": "Blackpool, England",
-   "credit": "Photo: Michael D Beckwith, CC BY 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Blackpool_Promenade_Sunset_-_panoramio.jpg"
   }
  ]
 }

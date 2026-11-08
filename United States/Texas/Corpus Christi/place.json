@@ -17,22 +17,6 @@
   {
    "mode": "day",
    "file": "day/02.jpg",
-   "title": "New Harbor Bridge under construction",
-   "subtitle": "Corpus Christi, Texas",
-   "credit": "Photo: SCTraveller, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:New_Harbor_Bridge_under_construction.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Bay Area, Corpus Christi, TX, USA -",
-   "subtitle": "Corpus Christi, Texas",
-   "credit": "Photo: KenB, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Bay_Area,_Corpus_Christi,_TX,_USA_-_panoramio.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
    "title": "Corpus Christi, TX",
    "subtitle": "Corpus Christi, Texas",
    "credit": "Photo: Quintin Soloviev, CC BY 4.0",
@@ -61,6 +45,14 @@
    "subtitle": "South Padre Island, Texas",
    "credit": "Photo: Jared Krahn, CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Starship_SN9_Sunset.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Port Aransas, Texas",
+   "subtitle": "Port Aransas, Texas",
+   "credit": "Photo: Quintin Soloviev, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Port_Aransas,_Texas.jpg"
   }
  ]
 }

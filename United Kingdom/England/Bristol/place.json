@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Bristol MMB «J0 Bristol to Exeter Line",
-   "subtitle": "Bristol, England",
-   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Bristol_MMB_%C2%ABJ0_Bristol_to_Exeter_Line.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Bristol's floating harbour, near Castle",
    "subtitle": "Bristol, England",
    "credit": "Photo: Gareth James, CC BY-SA 2.0",
@@ -24,15 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Vestigial moat - River Avon",
-   "subtitle": "Bristol, England",
-   "credit": "Photo: Anthony O'Neil, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Vestigial_moat_-_River_Avon_-_geograph.org.uk_-_6739863.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/02.jpg",
    "title": "2012 , South south-east across the Chew",
    "subtitle": "Bristol, England",
    "credit": "Photo: Maurice Pullin, CC BY-SA 2.0",
@@ -49,14 +33,6 @@
   {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "Bristol Hippodrome, at night - PXL",
-   "subtitle": "Bristol, England",
-   "credit": "Photo: Tadeusz Hare, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Bristol_Hippodrome,_at_night_-_PXL_20260417_192527921.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
    "title": "Night shot of the Bristol Bridge at night",
    "subtitle": "Bristol, England",
    "credit": "Photo: MARTIN BUTLER, CC BY 2.0",
@@ -64,11 +40,19 @@
   },
   {
    "mode": "night",
-   "file": "night/04.jpg",
+   "file": "night/03.jpg",
    "title": "Sunset over Bristol Harbour",
    "subtitle": "Bristol, England",
    "credit": "Photo: Anthony O'Neil, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_Bristol_Harbour_-_geograph.org.uk_-_7726613.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Bath MMB 11 River Avon",
+   "subtitle": "Bath, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bath_MMB_11_River_Avon.jpg"
   }
  ]
 }

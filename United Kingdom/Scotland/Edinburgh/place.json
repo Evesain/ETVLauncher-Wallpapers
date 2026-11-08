@@ -23,22 +23,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Silhouettes_at_sunset_-_geograph.org.uk_-_4858063.jpg"
   },
   {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Dusk 1 - panoramio",
-   "subtitle": "Edinburgh, Scotland",
-   "credit": "Photo: HunTeR, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Dusk_1_-_panoramio.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Dusk 2 - panoramio",
-   "subtitle": "Edinburgh, Scotland",
-   "credit": "Photo: HunTeR, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Dusk_2_-_panoramio.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/01.jpg",
    "title": "Sunrise over Duddingston Loch",
@@ -69,6 +53,14 @@
    "subtitle": "Edinburgh, Scotland",
    "credit": "Photo: Andrew Curtis, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_night_view_-_geograph.org.uk_-_2699586.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Burnmouth MMB",
+   "subtitle": "Melrose, Scotland",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Burnmouth_MMB_06.jpg"
   }
  ]
 }

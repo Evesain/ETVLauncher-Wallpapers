@@ -17,26 +17,10 @@
   {
    "mode": "day",
    "file": "day/02.jpg",
-   "title": "Dunsford Hill near Yellowford",
-   "subtitle": "Exeter, England",
-   "credit": "Photo: Derek Harper, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Dunsford_Hill_near_Yellowford_-_geograph.org.uk_-_7292767.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
    "title": "Rosepark Cottage",
    "subtitle": "Exeter, England",
    "credit": "Photo: Derek Harper, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Rosepark_Cottage_-_geograph.org.uk_-_7292947.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Exeter , St James' Park",
-   "subtitle": "Exeter, England",
-   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Exeter_,_St_James%27_Park_-_geograph.org.uk_-_7413636.jpg"
   },
   {
    "mode": "night",
@@ -61,6 +45,14 @@
    "subtitle": "Lynton, England",
    "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:North_Devon_,_Exmoor_Sunset_-_geograph.org.uk_-_3981413.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "From O Pupers last light-3 crop",
+   "subtitle": "Princetown, England",
+   "credit": "Photo: Herbythyme, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:From_O_Pupers_last_light-3_crop.jpg"
   }
  ]
 }

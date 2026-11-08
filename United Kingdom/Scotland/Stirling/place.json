@@ -31,14 +31,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Stirling_Castle_by_night.jpg"
   },
   {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Gatepiers To Queen's Park, Glasgow,",
-   "subtitle": "Glasgow, Scotland",
-   "credit": "Photo: Michal Klajban, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Gatepiers_To_Queen%27s_Park,_Glasgow,_Scotland.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/02.jpg",
    "title": "Winter sunrise in Glasgow2",
@@ -47,12 +39,20 @@
    "source": "https://commons.wikimedia.org/wiki/File:Winter_sunrise_in_Glasgow2.jpg"
   },
   {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "180111 Gourock Ropeworks, Newark Castle,",
+   "subtitle": "Glasgow, Scotland",
+   "credit": "Photo: dave souza, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:180111_Gourock_Ropeworks,_Newark_Castle,_Ferguson_Marine,_MV_Glen_Sannox.jpg"
+  },
+  {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Brian capturing the sunset",
+   "title": "Another day dies - Sunset seen from",
    "subtitle": "Glasgow, Scotland",
-   "credit": "Photo: Ronnie Macdonald from Chelmsford and Largs, United Kingdom, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Brian_capturing_the_sunset_(11537940546).jpg"
+   "credit": "Photo: Alf Melin, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Another_day_dies_-_Sunset_seen_from_Kelvingrove_Park.jpg"
   }
  ]
 }

@@ -17,22 +17,6 @@
   {
    "mode": "day",
    "file": "day/02.jpg",
-   "title": "Portsmouth MMB 23 Harbour - Cumbrian",
-   "subtitle": "Portsmouth, England",
-   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Portsmouth_MMB_23_Harbour_-_Cumbrian_Fisher.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Antrim militia artillery, 1897",
-   "subtitle": "Portsmouth, England",
-   "credit": "Photo: HantsAV, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Antrim_militia_artillery,_1897_01.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
    "title": "Spit of land in Langstone Harbour at high",
    "subtitle": "Portsmouth, England",
    "credit": "Photo: Robert Eva, CC BY-SA 2.0",
@@ -41,14 +25,6 @@
   {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "Victoria of Wight at Night",
-   "subtitle": "Portsmouth, England",
-   "credit": "Photo: Tim Sheerman-Chase, CC BY 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Victoria_of_Wight_at_Night.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/02.jpg",
    "title": "Portsmouth Harbour Sunset",
    "subtitle": "Portsmouth, England",
    "credit": "Photo: Greg Clarke, CC BY 2.0",
@@ -56,19 +32,27 @@
   },
   {
    "mode": "night",
-   "file": "night/03.jpg",
+   "file": "night/02.jpg",
    "title": "Aurora Borealis Over Portsmouth",
    "subtitle": "Portsmouth, England",
    "credit": "Photo: Tim Sheerman-Chase, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Aurora_Borealis_Over_Portsmouth_6.jpg"
   },
   {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Sandown MMB",
+   "subtitle": "Isle of Wight, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sandown_MMB_09.jpg"
+  },
+  {
    "mode": "night",
-   "file": "night/04.jpg",
-   "title": "Night Grass",
-   "subtitle": "Portsmouth, England",
-   "credit": "Photo: Tony Hisgett from Birmingham, UK, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Night_Grass_(5693827721).jpg"
+   "file": "night/03.jpg",
+   "title": "Appley Tower on the Isle of Wight taken",
+   "subtitle": "Isle of Wight, England",
+   "credit": "Photo: Photographer Dave Faulkner, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Appley_Tower_on_the_Isle_of_Wight_taken_at_sunrise.jpg"
   }
  ]
 }

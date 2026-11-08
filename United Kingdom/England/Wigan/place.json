@@ -23,22 +23,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Distant_view_of_the_DW_-_geograph.org.uk_-_3741130.jpg"
   },
   {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Haydock Park Racecourse Pavilion",
-   "subtitle": "Wigan, England",
-   "credit": "Photo: Anthony Parkes, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Haydock_Park_Racecourse_Pavilion_-_geograph.org.uk_-_3846876.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Parish Hall, St Thomas,",
-   "subtitle": "Wigan, England",
-   "credit": "Photo: David Long, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Parish_Hall,_St_Thomas,_Ashton-in-Makerfield_-_geograph.org.uk_-_1740815.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/01.jpg",
    "title": "Sunset from the Beacon Country Park",
@@ -55,12 +39,20 @@
    "source": "https://commons.wikimedia.org/wiki/File:Meteorite_(6319435539).jpg"
   },
   {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Frosty Morning",
+   "subtitle": "Preston, England",
+   "credit": "Photo: Tim Watts, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Frosty_Morning_(16129307762).jpg"
+  },
+  {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Bonfire Silouette",
+   "title": "In Lodge Wood",
    "subtitle": "Preston, England",
-   "credit": "Photo: Michael Elleray from England, United Kingdom, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Bonfire_Silouette_(6319344331).jpg"
+   "credit": "Photo: Chris Heaton, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:In_Lodge_Wood_-_geograph.org.uk_-_7332312.jpg"
   }
  ]
 }

@@ -17,22 +17,6 @@
   {
    "mode": "day",
    "file": "day/02.jpg",
-   "title": "Royal Exchange Manchester central hall",
-   "subtitle": "Manchester, England",
-   "credit": "Photo: University of Salford Press Office, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Royal_Exchange_Manchester_central_hall.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Radcliffe tower hdr",
-   "subtitle": "Manchester, England",
-   "credit": "Photo: Parrot of Doom, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Radcliffe_tower_hdr.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
    "title": "Manchester at dusk",
    "subtitle": "Manchester, England",
    "credit": "Photo: Benjamin Shaw, CC BY-SA 2.0",
@@ -69,6 +53,14 @@
    "subtitle": "Manchester, England",
    "credit": "Photo: Bob Harvey, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Weird_sunset_in_Stevenson_Square_-_geograph.org.uk_-_5582556.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Coppull Hall",
+   "subtitle": "Wigan, England",
+   "credit": "Photo: Peter McDermott, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Coppull_Hall_-_geograph.org.uk_-_7535210.jpg"
   }
  ]
 }

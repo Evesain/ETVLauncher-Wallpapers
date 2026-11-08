@@ -23,44 +23,36 @@
    "source": "https://commons.wikimedia.org/wiki/File:View_to_Wingham_Green_-_geograph.org.uk_-_2022497.jpg"
   },
   {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Canterbury at Dusk - Aug 2012 - A Stroll",
-   "subtitle": "Canterbury, England",
-   "credit": "Photo: Gareth Williams, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Canterbury_at_Dusk_-_Aug_2012_-_A_Stroll_Down_the_Town.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "375825 at Ashford International",
-   "subtitle": "Canterbury, England",
-   "credit": "Photo: TheJRB, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:375825_at_Ashford_International.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "Buenos Ayres café Margate Kent England",
-   "subtitle": "Canterbury, England",
-   "credit": "Photo: Acabashi, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Buenos_Ayres_caf%C3%A9_Margate_Kent_England.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/02.jpg",
    "title": "Sunrise In Dover port",
    "subtitle": "Dover, England",
    "credit": "Photo: Alexey Komarov, CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Sunrise_In_Dover_port.jpg"
   },
   {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "The White Cliffs of Dover",
+   "subtitle": "Dover, England",
+   "credit": "Photo: Mustang Joe, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_White_Cliffs_of_Dover_(48789268491).jpg"
+  },
+  {
    "mode": "night",
-   "file": "night/03.jpg",
+   "file": "night/02.jpg",
    "title": "View of 'The Bridge Chamber' at Castle",
    "subtitle": "Maidstone, England",
    "credit": "Photo: OathOn, CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:View_of_%27The_Bridge_Chamber%27_at_Castle_Hill,_Rochester,_Kent,_England,_at_night_(2).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunset",
+   "subtitle": "Maidstone, England",
+   "credit": "Photo: Tony Hisgett from Birmingham, UK, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_(4910706364).jpg"
   }
  ]
 }

@@ -25,14 +25,6 @@
   {
    "mode": "day",
    "file": "day/02.jpg",
-   "title": "Newcastle upon Tyne (2022-03-28)",
-   "subtitle": "Newcastle upon Tyne, England",
-   "credit": "Photo: Simon Cobb, CC0",
-   "source": "https://commons.wikimedia.org/wiki/File:Newcastle_upon_Tyne_(2022-03-28)_102.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
    "title": "Sunset above the River Tyne",
    "subtitle": "Newcastle upon Tyne, England",
    "credit": "Photo: Les Hull, CC BY-SA 2.0",
@@ -53,6 +45,14 @@
    "subtitle": "Newcastle upon Tyne, England",
    "credit": "Photo: Matthew Hatton, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Night_Lights_-_geograph.org.uk_-_4270232.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Sunset over Hebburn",
+   "subtitle": "Newcastle upon Tyne, England",
+   "credit": "Photo: Les Hull, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_Hebburn_-_geograph.org.uk_-_7431790.jpg"
   }
  ]
 }

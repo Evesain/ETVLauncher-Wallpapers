@@ -49,14 +49,6 @@
   {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "Conwy Castle - panoramio",
-   "subtitle": "Llandudno, Wales",
-   "credit": "Photo: Ngphotography, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Conwy_Castle_-_panoramio.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
    "title": "Conwy Castle, N.Wales - 8818190146",
    "subtitle": "Llandudno, Wales",
    "credit": "Photo: Stuart Madden, CC BY 2.0",
@@ -64,7 +56,7 @@
   },
   {
    "mode": "night",
-   "file": "night/04.jpg",
+   "file": "night/03.jpg",
    "title": "Machlud - Sunset",
    "subtitle": "Llandudno, Wales",
    "credit": "Photo: Ceri Thomas, CC BY-SA 2.0",

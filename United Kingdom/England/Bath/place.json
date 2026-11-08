@@ -23,22 +23,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Bath_MMB_14_River_Avon.jpg"
   },
   {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Former occupation bridge at Wellow",
-   "subtitle": "Bath, England",
-   "credit": "Photo: John Winder, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Former_occupation_bridge_at_Wellow_-_geograph.org.uk_-_5214755.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Henley Hill",
-   "subtitle": "Bath, England",
-   "credit": "Photo: Derek Harper, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Henley_Hill_-_geograph.org.uk_-_6344863.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/01.jpg",
    "title": "Bath monuments 2016 Bath Abbey at night",
@@ -63,12 +47,12 @@
    "source": "https://commons.wikimedia.org/wiki/File:Bath_,_Parade_Gardens_-_geograph.org.uk_-_7905076.jpg"
   },
   {
-   "mode": "night",
-   "file": "night/04.jpg",
-   "title": "The King's Bath at Night",
-   "subtitle": "Bath, England",
-   "credit": "Photo: Matthew Hoser, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:The_King%27s_Bath_at_Night_(2).jpg"
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Bristol's floating harbour, near Castle",
+   "subtitle": "Bristol, England",
+   "credit": "Photo: Gareth James, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bristol%27s_floating_harbour,_near_Castle_Bridge_-_geograph.org.uk_-_7553716.jpg"
   }
  ]
 }

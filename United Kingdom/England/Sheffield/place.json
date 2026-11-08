@@ -15,52 +15,44 @@
    "source": "https://commons.wikimedia.org/wiki/File:Sunset_at_Tinsley,_Sheffield_-_geograph.org.uk_-_1927573.jpg"
   },
   {
-   "mode": "day",
-   "file": "day/02.jpg",
-   "title": "Sheffield ^ Tinsley Canal beside",
-   "subtitle": "Sheffield, England",
-   "credit": "Photo: Chris Morgan, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Sheffield_%5E_Tinsley_Canal_beside_Sheffield_Arena_-_geograph.org.uk_-_3840753.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Sheffield ^ Tinsley Canal by Sheffield",
-   "subtitle": "Sheffield, England",
-   "credit": "Photo: Chris Morgan, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Sheffield_%5E_Tinsley_Canal_by_Sheffield_Arena_-_geograph.org.uk_-_3840750.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Sheffield , Sheffield Aerial View",
-   "subtitle": "Sheffield, England",
-   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Sheffield_,_Sheffield_Aerial_View_-_geograph.org.uk_-_5257547.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "The Brothers Arms, Night - panoramio",
-   "subtitle": "Sheffield, England",
-   "credit": "Photo: joeyboy1991, CC BY 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:The_Brothers_Arms,_Night_-_panoramio.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/02.jpg",
-   "title": "Sheffield Fright Night",
-   "subtitle": "Sheffield, England",
-   "credit": "Photo: Bryan Ledgard, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Sheffield_Fright_Night_(6298370455).jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
    "title": "Tudor Square at night",
    "subtitle": "Sheffield, England",
    "credit": "Photo: dave hudson, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Tudor_Square_at_night_-_geograph.org.uk_-_3220372.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Autumn colours",
+   "subtitle": "Buxton, England",
+   "credit": "Photo: Simon Harrod from Uk, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Autumn_colours._(30227544812).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "View across Cressbrook Dale",
+   "subtitle": "Buxton, England",
+   "credit": "Photo: Bill Boaden, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_across_Cressbrook_Dale_-_geograph.org.uk_-_4963783.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Heather and Sunset at Higger Tor",
+   "subtitle": "Buxton, England",
+   "credit": "Photo: Mark Rickaby from Nottingham, United Kingdom, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Heather_and_Sunset_at_Higger_Tor_(26297584408).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Quarry at night",
+   "subtitle": "Buxton, England",
+   "credit": "Photo: Simon Harrod from Uk, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Quarry_at_night._(6669145327).jpg"
   }
  ]
 }

@@ -23,22 +23,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Sunrise_over_Morestead,_Hampshire.jpg"
   },
   {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Clouded yellow (Colias croceus) male",
-   "subtitle": "Winchester, England",
-   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Clouded_yellow_(Colias_croceus)_male_underside_2.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Clouded yellow (Colias croceus) female",
-   "subtitle": "Winchester, England",
-   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Clouded_yellow_(Colias_croceus)_female_underside.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/01.jpg",
    "title": "Southampton Guildhall - Night",
@@ -55,12 +39,20 @@
    "source": "https://commons.wikimedia.org/wiki/File:One_Hot_Sunset_(34592189604).jpg"
   },
   {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Southampton Guildhall",
+   "subtitle": "Southampton, England",
+   "credit": "Photo: Michael, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Southampton_Guildhall.jpg"
+  },
+  {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Victoria of Wight at Night",
-   "subtitle": "Portsmouth, England",
-   "credit": "Photo: Tim Sheerman-Chase, CC BY 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Victoria_of_Wight_at_Night.jpg"
+   "title": "New Forest, Hampshire",
+   "subtitle": "Lyndhurst, England",
+   "credit": "Photo: Peter Trimming, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:New_Forest,_Hampshire_-_geograph.org.uk_-_4094911.jpg"
   }
  ]
 }

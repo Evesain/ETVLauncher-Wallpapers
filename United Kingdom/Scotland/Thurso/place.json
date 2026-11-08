@@ -25,14 +25,6 @@
   {
    "mode": "day",
    "file": "day/03.jpg",
-   "title": "Dounreay Nuclear Power Development",
-   "subtitle": "Thurso, Scotland",
-   "credit": "Photo: Ben Brooksbank, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Dounreay_Nuclear_Power_Development_Establishment_geograph-3484137-by-Ben-Brooksbank.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
    "title": "Cliffs in sea mist at Dunnet Head",
    "subtitle": "Thurso, Scotland",
    "credit": "Photo: Roger Davies, CC BY-SA 2.0",
@@ -57,10 +49,10 @@
   {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Two Towers1",
-   "subtitle": "Inverness, Scotland",
-   "credit": "Photo: miketnorton, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Two_Towers1.jpg"
+   "title": "Merry Dancers over Holm",
+   "subtitle": "Kirkwall, Scotland",
+   "credit": "Photo: C1614, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Merry_Dancers_over_Holm.jpg"
   }
  ]
 }

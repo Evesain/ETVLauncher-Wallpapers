@@ -31,36 +31,28 @@
    "source": "https://commons.wikimedia.org/wiki/File:South_over_the_Quiraing,_Isle_of_Skye_-_2.jpg"
   },
   {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Fungi near the Lealt River - Trotternish,",
-   "subtitle": "Portree, Scotland",
-   "credit": "Photo: Ian Cunliffe, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Fungi_near_the_Lealt_River_-_Trotternish,_Skye_-_geograph.org.uk_-_6379203.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "Sunset Over Skye - panoramio",
-   "subtitle": "Portree, Scotland",
-   "credit": "Photo: Alexander Reuss, CC BY 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Sunset_Over_Skye_-_panoramio.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/02.jpg",
-   "title": "Night lights - panoramio",
-   "subtitle": "Portree, Scotland",
-   "credit": "Photo: Eric Spenle, CC BY 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Night_lights_-_panoramio_(3).jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
    "title": "Sunset over the Sound of Raasay",
    "subtitle": "Portree, Scotland",
    "credit": "Photo: Calum McRoberts, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_the_Sound_of_Raasay_-_geograph.org.uk_-_2113962.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Sunset over Loch Broom, Ullapool",
+   "subtitle": "Ullapool, Scotland",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_Loch_Broom,_Ullapool_-_geograph.org.uk_-_6007647.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunset At Ullapool",
+   "subtitle": "Ullapool, Scotland",
+   "credit": "Photo: Peter Jeffery, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_At_Ullapool_-_geograph.org.uk_-_5399856.jpg"
   }
  ]
 }

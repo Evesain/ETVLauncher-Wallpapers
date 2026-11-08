@@ -23,22 +23,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Texas_Sunset_at_Port_Aransas_-_Flickr_-_Shiva_Shenoy.jpg"
   },
   {
-   "mode": "day",
-   "file": "day/02.jpg",
-   "title": "USA - Texas - Boca Chica - Starbase",
-   "subtitle": "South Padre Island, Texas",
-   "credit": "Photo: Alexander Hatley from Spring, Texas, USA, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:USA_-_Texas_-_Boca_Chica_-_Starbase_(51286772204).jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Starship launch site in construction",
-   "subtitle": "South Padre Island, Texas",
-   "credit": "Photo: Alexander Hatley from Spring, Texas, USA, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Starship_launch_site_in_construction.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/02.jpg",
    "title": "Starship SN9 Sunset",
@@ -53,6 +37,22 @@
    "subtitle": "San Antonio, Texas",
    "credit": "Photo: Corey Leopold, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_San_Antonio.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Corpus Christi skyline",
+   "subtitle": "Corpus Christi, Texas",
+   "credit": "Photo: Quintin Soloviev, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Corpus_Christi_skyline.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Corpus Christi, TX",
+   "subtitle": "Corpus Christi, Texas",
+   "credit": "Photo: Quintin Soloviev, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Corpus_Christi,_TX.jpg"
   }
  ]
 }

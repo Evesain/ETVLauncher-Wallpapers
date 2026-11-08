@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Railway Bridge - Kendal",
-   "subtitle": "Kendal, England",
-   "credit": "Photo: Anthony Parkes, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Railway_Bridge_-_Kendal_-_geograph.org.uk_-_4530380.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "River Kent Kendal",
    "subtitle": "Kendal, England",
    "credit": "Photo: edward mcmaihin, CC BY-SA 2.0",
@@ -24,7 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
+   "file": "day/02.jpg",
    "title": "Wasdale Tree under Kirk Fell Lake",
    "subtitle": "Keswick, England",
    "credit": "Photo: Julian Herzog (Website), CC BY-SA 4.0",
@@ -41,18 +33,26 @@
   {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "Strandshag Bay Derwentwater Lake District",
-   "subtitle": "Keswick, England",
-   "credit": "Photo: Julian Herzog (Website), CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Strandshag_Bay_Derwentwater_Lake_District_2025_01.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
    "title": "Sunset as the Romans might have seen it",
    "subtitle": "Grassington, England",
    "credit": "Photo: Ian Greig, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Sunset_as_the_Romans_might_have_seen_it_-_geograph.org.uk_-_2071980.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Lake Windermere MMB",
+   "subtitle": "Windermere, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lake_Windermere_MMB_52.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Windermere - 29215387702",
+   "subtitle": "Windermere, England",
+   "credit": "Photo: Jorge Franganillo, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Windermere_-_29215387702.jpg"
   }
  ]
 }

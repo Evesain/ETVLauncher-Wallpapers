@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Staithes MMB 46 Whitby, Redcar and",
-   "subtitle": "Middlesbrough, England",
-   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Staithes_MMB_46_Whitby,_Redcar_and_Middlesbrough_Union_Railway.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Middlesbrough town hall and fountains",
    "subtitle": "Middlesbrough, England",
    "credit": "Photo: Robert Eva, CC BY-SA 2.0",
@@ -24,23 +16,31 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Entrance to Wilton Castle",
-   "subtitle": "Middlesbrough, England",
-   "credit": "Photo: Philip Barker, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Entrance_to_Wilton_Castle_-_geograph.org.uk_-_2015764.jpg"
+   "file": "day/02.jpg",
+   "title": "Winter sunlight on the flanks of Penhill",
+   "subtitle": "Helmsley, England",
+   "credit": "Photo: Gordon Hatton, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Winter_sunlight_on_the_flanks_of_Penhill_-_geograph.org.uk_-_6355571.jpg"
   },
   {
    "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Public footpath to Wilton Wood",
-   "subtitle": "Middlesbrough, England",
-   "credit": "Photo: Philip Barker, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Public_footpath_to_Wilton_Wood_-_geograph.org.uk_-_1782850.jpg"
+   "file": "day/03.jpg",
+   "title": "View over Bonfield Gill",
+   "subtitle": "Helmsley, England",
+   "credit": "Photo: Gordon Hatton, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_over_Bonfield_Gill_-_geograph.org.uk_-_2979420.jpg"
   },
   {
    "mode": "night",
    "file": "night/01.jpg",
+   "title": "Sunset as the Romans might have seen it",
+   "subtitle": "Grassington, England",
+   "credit": "Photo: Ian Greig, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_as_the_Romans_might_have_seen_it_-_geograph.org.uk_-_2071980.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
    "title": "Whitby North Shore",
    "subtitle": "Whitby, England",
    "credit": "Photo: Phil Eptlett from North Staffordshire, England, CC BY 4.0",
@@ -48,19 +48,11 @@
   },
   {
    "mode": "night",
-   "file": "night/02.jpg",
+   "file": "night/03.jpg",
    "title": "Whitby Abbey by night",
    "subtitle": "Whitby, England",
    "credit": "Photo: Steveriley39, CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Whitby_Abbey_by_night.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
-   "title": "Whitby, North Yorkshire",
-   "subtitle": "Whitby, England",
-   "credit": "Photo: Ray in Manila, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Whitby,_North_Yorkshire_(52265539077).jpg"
   }
  ]
 }

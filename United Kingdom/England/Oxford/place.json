@@ -25,42 +25,34 @@
   {
    "mode": "day",
    "file": "day/03.jpg",
-   "title": "Mute swan (Cygnus olor) taking off",
-   "subtitle": "Oxford, England",
-   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Mute_swan_(Cygnus_olor)_taking_off.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Large white (Pieris brassicae) underside",
-   "subtitle": "Oxford, England",
-   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Large_white_(Pieris_brassicae)_underside.jpg"
+   "title": "Aurora over Woodley, Reading, UK",
+   "subtitle": "Reading, England",
+   "credit": "Photo: Nigel Hoult, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aurora_over_Woodley,_Reading,_UK_(53920632488).jpg"
   },
   {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "Magpie moth (Abraxas grossulariata)",
-   "subtitle": "Oxford, England",
-   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Magpie_moth_(Abraxas_grossulariata).jpg"
+   "title": "Reading Pedestrian and Cycle Bridge",
+   "subtitle": "Reading, England",
+   "credit": "Photo: Chris j wood, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Reading_Pedestrian_and_Cycle_Bridge_09.jpg"
   },
   {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "Mute swans (Cygnus olor) and cygnets",
-   "subtitle": "Oxford, England",
-   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Mute_swans_(Cygnus_olor)_and_cygnets.jpg"
+   "title": "Aurora near Lavell's Lake, Woodley,",
+   "subtitle": "Reading, England",
+   "credit": "Photo: Nigel Hoult, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aurora_near_Lavell%27s_Lake,_Woodley,_Reading_UK_(54059130211).jpg"
   },
   {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Sunrise on the Downs - 49182727973",
-   "subtitle": "Bristol, England",
-   "credit": "Photo: Graeme Churchard, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_on_the_Downs_-_49182727973.jpg"
+   "title": "Avebury 2022 August",
+   "subtitle": "Swindon, England",
+   "credit": "Photo: Jwslubbock, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Avebury_2022_August_1.jpg"
   }
  ]
 }

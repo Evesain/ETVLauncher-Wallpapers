@@ -9,22 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "70 803 loading straps Baglan",
-   "subtitle": "Swansea, Wales",
-   "credit": "Photo: kitmasterbloke, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:70_803_loading_straps_Baglan.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
-   "title": "70 803 Baglan side",
-   "subtitle": "Swansea, Wales",
-   "credit": "Photo: kitmasterbloke, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:70_803_Baglan_side.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
    "title": "Bracelet Bay, Looking West",
    "subtitle": "Swansea, Wales",
    "credit": "Photo: Dave Roberts, CC BY 2.0",
@@ -32,7 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/02.jpg",
    "title": "Lone cyclist crossing Fairwood Common",
    "subtitle": "Swansea, Wales",
    "credit": "Photo: Simon Mortimer, CC BY-SA 2.0",
@@ -41,14 +25,6 @@
   {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "70 803 Baglan",
-   "subtitle": "Swansea, Wales",
-   "credit": "Photo: kitmasterbloke, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:70_803_Baglan.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/02.jpg",
    "title": "North Devon , Exmoor Sunset",
    "subtitle": "Lynton, England",
    "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
@@ -56,11 +32,27 @@
   },
   {
    "mode": "night",
-   "file": "night/03.jpg",
+   "file": "night/02.jpg",
    "title": "Lodges by Night",
    "subtitle": "Lynton, England",
    "credit": "Photo: William Warby, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Lodges_by_Night.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Ilfracombe (Devon, UK), Promenade -- 2013",
+   "subtitle": "Lynton, England",
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ilfracombe_(Devon,_UK),_Promenade_--_2013_--_1747.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunrise over Lynton",
+   "subtitle": "Lynton, England",
+   "credit": "Photo: Bill Boaden, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_over_Lynton_-_geograph.org.uk_-_5463023.jpg"
   }
  ]
 }

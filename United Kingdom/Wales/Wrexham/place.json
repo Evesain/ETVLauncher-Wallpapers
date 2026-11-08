@@ -17,14 +17,6 @@
   {
    "mode": "day",
    "file": "day/02.jpg",
-   "title": "Sodylt Old Hall near Sodylt Bank",
-   "subtitle": "Wrexham, Wales",
-   "credit": "Photo: Colin Park, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Sodylt_Old_Hall_near_Sodylt_Bank_-_geograph.org.uk_-_6010703.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
    "title": "Park Farm",
    "subtitle": "Wrexham, Wales",
    "credit": "Photo: Peter McDermott, CC BY-SA 2.0",
@@ -32,7 +24,7 @@
   },
   {
    "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/03.jpg",
    "title": "River Dee Flood Plain near Shocklach",
    "subtitle": "Wrexham, Wales",
    "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
@@ -57,10 +49,10 @@
   {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Chester HQ at Night",
-   "subtitle": "Chester, England",
-   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Chester_HQ_at_Night_-_geograph.org.uk_-_3784442.jpg"
+   "title": "Pier Head, Liverpool at night - December",
+   "subtitle": "Liverpool, England",
+   "credit": "Photo: The Carlisle Kid, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pier_Head,_Liverpool_at_night_-_December_2018_(5)_-_geograph.org.uk_-_5997788.jpg"
   }
  ]
 }

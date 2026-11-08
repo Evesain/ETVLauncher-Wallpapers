@@ -41,14 +41,6 @@
   {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "Sunset Isle of Cumbrae - panoramio",
-   "subtitle": "Ayr, Scotland",
-   "credit": "Photo: dan kearney, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Sunset_Isle_of_Cumbrae_-_panoramio.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/02.jpg",
    "title": "Sunset, Ayr",
    "subtitle": "Ayr, Scotland",
    "credit": "Photo: Billy McCrorie, CC BY-SA 2.0",
@@ -56,7 +48,7 @@
   },
   {
    "mode": "night",
-   "file": "night/03.jpg",
+   "file": "night/02.jpg",
    "title": "The Sea at Night",
    "subtitle": "Ayr, Scotland",
    "credit": "Photo: Billy McCrorie, CC BY-SA 2.0",
@@ -64,11 +56,11 @@
   },
   {
    "mode": "night",
-   "file": "night/04.jpg",
-   "title": "Sunset Ridges - panoramio",
-   "subtitle": "Ayr, Scotland",
-   "credit": "Photo: AndrewJGallacher, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Sunset_Ridges_-_panoramio.jpg"
+   "file": "night/03.jpg",
+   "title": "Winter sunrise in Glasgow2",
+   "subtitle": "Glasgow, Scotland",
+   "credit": "Photo: Ian Dick, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Winter_sunrise_in_Glasgow2.jpg"
   }
  ]
 }

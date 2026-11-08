@@ -9,22 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Gruinard island",
-   "subtitle": "Ullapool, Scotland",
-   "credit": "Photo: Mike McBey, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Gruinard_island_(48106907357).jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
-   "title": "Ullapool harbour, NW Scotland. - panoramio",
-   "subtitle": "Ullapool, Scotland",
-   "credit": "Photo: brian gillman, CC BY 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Ullapool_harbour,_NW_Scotland._-_panoramio.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
    "title": "Gruinard Bay",
    "subtitle": "Ullapool, Scotland",
    "credit": "Photo: Mike McBey, CC BY 2.0",
@@ -32,7 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/02.jpg",
    "title": "Ullapool Beach",
    "subtitle": "Ullapool, Scotland",
    "credit": "Photo: J. Drevet, CC BY-SA 3.0",
@@ -55,20 +39,20 @@
    "source": "https://commons.wikimedia.org/wiki/File:Sunset_At_Ullapool_-_geograph.org.uk_-_5399856.jpg"
   },
   {
-   "mode": "night",
-   "file": "night/03.jpg",
-   "title": "Sunset from Ullapool Campsite - panoramio",
-   "subtitle": "Ullapool, Scotland",
-   "credit": "Photo: Neil Aitkenhead, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Sunset_from_Ullapool_Campsite_-_panoramio.jpg"
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Inverness , River Ness",
+   "subtitle": "Inverness, Scotland",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Inverness_,_River_Ness_-_geograph.org.uk_-_5000318.jpg"
   },
   {
    "mode": "night",
-   "file": "night/04.jpg",
-   "title": "Sunset from Ullapool - panoramio",
-   "subtitle": "Ullapool, Scotland",
-   "credit": "Photo: Neil Aitkenhead, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Sunset_from_Ullapool_-_panoramio.jpg"
+   "file": "night/03.jpg",
+   "title": "On the Shores of the Caledonian Canal at",
+   "subtitle": "Inverness, Scotland",
+   "credit": "Photo: Lukas von Daeniken from Schweiz, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:On_the_Shores_of_the_Caledonian_Canal_at_Inverness_(23590691825).jpg"
   }
  ]
 }

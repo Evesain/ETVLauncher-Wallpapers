@@ -23,36 +23,12 @@
    "source": "https://commons.wikimedia.org/wiki/File:Midland,_TX_skyline.jpg"
   },
   {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Campground San Angelo State Park Texas",
-   "subtitle": "San Angelo, Texas",
-   "credit": "Photo: Larry D. Moore, CC BY 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Campground_San_Angelo_State_Park_Texas.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "Campground2 Palo Duro Canyon State Park",
-   "subtitle": "Palo Duro Canyon, Texas",
-   "credit": "Photo: Larry D. Moore, CC BY 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Campground2_Palo_Duro_Canyon_State_Park_Texas_2024.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/02.jpg",
    "title": "Flickr - ggallice - Sunset",
    "subtitle": "Terlingua, Texas",
    "credit": "Photo: Geoff Gallice from Gainesville, FL, USA, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Sunset.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
-   "title": "Big Bend National Park, United States",
-   "subtitle": "Terlingua, Texas",
-   "credit": "Photo: Jesse Sewell jessesewell, CC0",
-   "source": "https://commons.wikimedia.org/wiki/File:Big_Bend_National_Park,_United_States_(Unsplash_7V78KRaWMKQ).jpg"
   }
  ]
 }

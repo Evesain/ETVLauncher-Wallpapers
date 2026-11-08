@@ -9,58 +9,50 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Open University MMB 10 Walton Hall",
-   "subtitle": "Milton Keynes, England",
-   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Open_University_MMB_10_Walton_Hall.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Tyringham",
    "subtitle": "Milton Keynes, England",
    "credit": "Photo: london road, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Tyringham_(52093801823).jpg"
   },
   {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "South Northamptonshire , Mount Mill Solar",
-   "subtitle": "Milton Keynes, England",
-   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:South_Northamptonshire_,_Mount_Mill_Solar_Park_-_geograph.org.uk_-_6113610.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Open University MMB",
-   "subtitle": "Milton Keynes, England",
-   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Open_University_MMB_07.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "View of sunset sky over Hitchin Lavender",
-   "subtitle": "Luton, England",
-   "credit": "Photo: Robert Lamb, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:View_of_sunset_sky_over_Hitchin_Lavender_%5E2_-_geograph.org.uk_-_5863993.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/02.jpg",
-   "title": "Luton Hoo in",
-   "subtitle": "Luton, England",
-   "credit": "Photo: Greg Knapp from Hitchin, United Kingdom, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Luton_Hoo_in_2009.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
    "title": "St. Albans Dusk",
    "subtitle": "Luton, England",
    "credit": "Photo: Greg Knapp from St Albans, United Kingdom, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:St._Albans_Dusk_(4558504257).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Pryor's Wood Bluebells 2017-04-26-4",
+   "subtitle": "Luton, England",
+   "credit": "Photo: Colin, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pryor%27s_Wood_Bluebells_2017-04-26-4.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Autumn Oak - Broadhall Way - Stevenage",
+   "subtitle": "Luton, England",
+   "credit": "Photo: Colin, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Autumn_Oak_-_Broadhall_Way_-_Stevenage.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Tower Bridge London Feb",
+   "subtitle": "London, England",
+   "credit": "Photo: Diliff, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_London_Feb_2006.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "London, Southwark Bridge -- 2016",
+   "subtitle": "London, England",
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:London,_Southwark_Bridge_--_2016_--_4632.jpg"
   }
  ]
 }

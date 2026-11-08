@@ -9,46 +9,14 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Papio papio and juvenile Port Lympne Wild",
-   "subtitle": "Maidstone, England",
-   "credit": "Photo: William Warby, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Papio_papio_and_juvenile_Port_Lympne_Wild_Animal_Park.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Sunset over Sun Pier",
    "subtitle": "Maidstone, England",
    "credit": "Photo: David Anstiss, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_Sun_Pier_-_geograph.org.uk_-_2730216.jpg"
   },
   {
-   "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Maidstone bridge",
-   "subtitle": "Maidstone, England",
-   "credit": "Photo: John Winder, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Maidstone_bridge_-_geograph.org.uk_-_4950518.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Buckland Hill, Maidstone",
-   "subtitle": "Maidstone, England",
-   "credit": "Photo: Chris Whippet, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Buckland_Hill,_Maidstone_-_geograph.org.uk_-_2713134.jpg"
-  },
-  {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "View of 'The Bridge Chamber' at Castle",
-   "subtitle": "Maidstone, England",
-   "credit": "Photo: OathOn, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:View_of_%27The_Bridge_Chamber%27_at_Castle_Hill,_Rochester,_Kent,_England,_at_night_(2).jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/02.jpg",
    "title": "Sunset",
    "subtitle": "Maidstone, England",
    "credit": "Photo: Tony Hisgett from Birmingham, UK, CC BY 2.0",
@@ -56,19 +24,35 @@
   },
   {
    "mode": "night",
-   "file": "night/03.jpg",
+   "file": "night/02.jpg",
    "title": "View of Rochester Bridge & the River",
    "subtitle": "Maidstone, England",
    "credit": "Photo: OathOn, CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:View_of_Rochester_Bridge_%26_the_River_Medway_in_Rochester,_Kent,_England,_at_night.jpg"
   },
   {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Hills in Hadleigh Country Park",
+   "subtitle": "Southend-on-Sea, England",
+   "credit": "Photo: Roger Jones, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hills_in_Hadleigh_Country_Park_-_geograph.org.uk_-_3793851.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Foreshore, Isle of Grain Coastal Park",
+   "subtitle": "Southend-on-Sea, England",
+   "credit": "Photo: Roger Jones, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Foreshore,_Isle_of_Grain_Coastal_Park_-_geograph.org.uk_-_8190548.jpg"
+  },
+  {
    "mode": "night",
-   "file": "night/04.jpg",
-   "title": "Leeds Castle from the west",
-   "subtitle": "Maidstone, England",
-   "credit": "Photo: Barbara van Cleve, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Leeds_Castle_from_the_west.jpg"
+   "file": "night/03.jpg",
+   "title": "Sunrise In Dover port",
+   "subtitle": "Dover, England",
+   "credit": "Photo: Alexey Komarov, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_In_Dover_port.jpg"
   }
  ]
 }

@@ -9,22 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Woodhill Farm",
-   "subtitle": "Coventry, England",
-   "credit": "Photo: Stephen McKay, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Woodhill_Farm_-_geograph.org.uk_-_7947645.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
-   "title": "Coventry , Coventry Canal",
-   "subtitle": "Coventry, England",
-   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Coventry_,_Coventry_Canal_-_geograph.org.uk_-_6974102.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
    "title": "Coventry , Coventry Canal Basin",
    "subtitle": "Coventry, England",
    "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
@@ -32,7 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/02.jpg",
    "title": "Warwick Castle, viewed from Castle",
    "subtitle": "Coventry, England",
    "credit": "Photo: Vauxford, CC BY-SA 4.0",
@@ -41,26 +25,34 @@
   {
    "mode": "night",
    "file": "night/01.jpg",
-   "title": "Canal boat Sunrise, Coventry canal",
-   "subtitle": "Coventry, England",
-   "credit": "Photo: Ian S, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Canal_boat_Sunrise,_Coventry_canal_-_geograph.org.uk_-_7090409.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/02.jpg",
    "title": "Warwick Castle at sunset",
    "subtitle": "Coventry, England",
    "credit": "Photo: Liam Nicholls, CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Warwick_Castle_at_sunset.jpg"
   },
   {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Birmingham MMB 31 University of Birmingham",
+   "subtitle": "Birmingham, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Birmingham_MMB_31_University_of_Birmingham.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Birmingham Town Hall night",
+   "subtitle": "Birmingham, England",
+   "credit": "Photo: Tony Hisgett from Birmingham, UK, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Birmingham_Town_Hall_night_2_(3274548813).jpg"
+  },
+  {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Coventry , Coventry Canal",
-   "subtitle": "Coventry, England",
-   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Coventry_,_Coventry_Canal_-_geograph.org.uk_-_6974193.jpg"
+   "title": "The town of Ludlow at night",
+   "subtitle": "Ludlow, England",
+   "credit": "Photo: Fabian Musto, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_town_of_Ludlow_at_night_-_geograph.org.uk_-_6702010.jpg"
   }
  ]
 }

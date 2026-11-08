@@ -17,14 +17,6 @@
   {
    "mode": "day",
    "file": "day/02.jpg",
-   "title": "Buxton, Spring Gardens",
-   "subtitle": "Buxton, England",
-   "credit": "Photo: Michael Garlick, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Buxton,_Spring_Gardens_-_geograph.org.uk_-_6988641.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
    "title": "View across Cressbrook Dale",
    "subtitle": "Buxton, England",
    "credit": "Photo: Bill Boaden, CC BY-SA 2.0",
@@ -32,7 +24,7 @@
   },
   {
    "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/03.jpg",
    "title": "Entering God's country",
    "subtitle": "Buxton, England",
    "credit": "Photo: Simon Harrod from Uk, CC BY 2.0",
@@ -57,14 +49,6 @@
   {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Shrubland glow at sunset (Explored Nov 28)",
-   "subtitle": "Buxton, England",
-   "credit": "Photo: Dan Cook Archived (dan-scape.co.uk), CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Shrubland_glow_at_sunset_(Explored_Nov_28)_-_Flickr_-_Dan_Cook_Archived_(dan-scape.co.uk).jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/04.jpg",
    "title": "Sunset over the Pennines",
    "subtitle": "Buxton, England",
    "credit": "Photo: Andrew Basterfield, CC BY-SA 2.0",

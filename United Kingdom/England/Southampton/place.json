@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Bridge over Bartley water",
-   "subtitle": "Southampton, England",
-   "credit": "Photo: Sue Turner, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Bridge_over_Bartley_water_-_geograph.org.uk_-_3684631.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Southampton Guildhall",
    "subtitle": "Southampton, England",
    "credit": "Photo: Michael, Public domain",
@@ -24,19 +16,11 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
+   "file": "day/02.jpg",
    "title": "AIDAstella-image01",
    "subtitle": "Southampton, England",
    "credit": "Photo: This image photographed by Brian Burnell with permission was uploaded to Commons by George Hutchinson.To see his entire portfolio, click here.\nPermission to upload photographs by Brian Burnell is archived in the OTRS system as shown below each image.\n\n\n\n\n This image is protected by copyright! If you would like to use it outside Wikipedia, please read THIS first. \n\n\n\n\n\n\n\n\nThe copyright holder of this file allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted.\n\n\n\nAttribution, CC BY-SA 3.0",
    "source": "https://commons.wikimedia.org/wiki/File:AIDAstella-image01.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "AIDAstella-image02-bow art",
-   "subtitle": "Southampton, England",
-   "credit": "Photo: This image photographed by Brian Burnell with permission was uploaded to Commons by George Hutchinson.To see his entire portfolio, click here.\nPermission to upload photographs by Brian Burnell is archived in the OTRS system as shown below each image.\n\n\n\n\n This image is protected by copyright! If you would like to use it outside Wikipedia, please read THIS first. \n\n\n\n\n\n\n\n\nThe copyright holder of this file allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted.\n\n\n\nAttribution, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:AIDAstella-image02-bow_art.JPG"
   },
   {
    "mode": "night",
@@ -55,12 +39,20 @@
    "source": "https://commons.wikimedia.org/wiki/File:One_Hot_Sunset_(34592189604).jpg"
   },
   {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Fog forest",
+   "subtitle": "Lyndhurst, England",
+   "credit": "Photo: Joana Kruse joanaimages.com, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fog_forest_0077.jpg"
+  },
+  {
    "mode": "night",
    "file": "night/03.jpg",
-   "title": "Victoria of Wight at Night",
-   "subtitle": "Portsmouth, England",
-   "credit": "Photo: Tim Sheerman-Chase, CC BY 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Victoria_of_Wight_at_Night.jpg"
+   "title": "New Forest, Hampshire",
+   "subtitle": "Lyndhurst, England",
+   "credit": "Photo: Peter Trimming, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:New_Forest,_Hampshire_-_geograph.org.uk_-_4094911.jpg"
   }
  ]
 }

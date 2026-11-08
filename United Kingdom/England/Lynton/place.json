@@ -25,14 +25,6 @@
   {
    "mode": "day",
    "file": "day/03.jpg",
-   "title": "Entrance to Lynton and Lymouth Cliff",
-   "subtitle": "Lynton, England",
-   "credit": "Photo: Tim Sheerman-Chase, CC BY 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Entrance_to_Lynton_and_Lymouth_Cliff_Railway_-_55457571536.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
    "title": "North Devon , Coastal Scenery",
    "subtitle": "Lynton, England",
    "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
@@ -49,14 +41,6 @@
   {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "Lodges by Night",
-   "subtitle": "Lynton, England",
-   "credit": "Photo: William Warby, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Lodges_by_Night.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
    "title": "Sunrise over Lynton",
    "subtitle": "Lynton, England",
    "credit": "Photo: Bill Boaden, CC BY-SA 2.0",
@@ -64,7 +48,7 @@
   },
   {
    "mode": "night",
-   "file": "night/04.jpg",
+   "file": "night/03.jpg",
    "title": "Sunrise over West Ilkerton Common, Exmoor",
    "subtitle": "Lynton, England",
    "credit": "Photo: Roger A Smith, CC BY-SA 2.0",

@@ -9,34 +9,10 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "River Clun erosion at Jay Bridge near",
-   "subtitle": "Ludlow, England",
-   "credit": "Photo: Peter Evans, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:River_Clun_erosion_at_Jay_Bridge_near_Leintwardine_-_geograph.org.uk_-_3897358.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
-   "title": "Jay Bridge near Leintwardine",
-   "subtitle": "Ludlow, England",
-   "credit": "Photo: Peter Evans, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Jay_Bridge_near_Leintwardine_-_geograph.org.uk_-_4901127.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
    "title": "The Town of Ludlow at Sunrise",
    "subtitle": "Ludlow, England",
    "credit": "Photo: Fabian Musto, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:The_Town_of_Ludlow_at_Sunrise_-_geograph.org.uk_-_6120637.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
-   "title": "Agricultural field looking towards",
-   "subtitle": "Ludlow, England",
-   "credit": "Photo: TCExplorer, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Agricultural_field_looking_towards_Shropshire_Hills_-_geograph.org.uk_-_7319946.jpg"
   },
   {
    "mode": "night",
@@ -49,18 +25,34 @@
   {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "The Town of Ludlow at Sunrise",
-   "subtitle": "Ludlow, England",
-   "credit": "Photo: Fabian Musto, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:The_Town_of_Ludlow_at_Sunrise_-_geograph.org.uk_-_6209932.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
    "title": "Sunset over the Shropshire Hills",
    "subtitle": "Ludlow, England",
    "credit": "Photo: TCExplorer, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_the_Shropshire_Hills_-_geograph.org.uk_-_7989237.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "At Berrington Hall 2022",
+   "subtitle": "Hereford, England",
+   "credit": "Photo: Mike Peel, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:At_Berrington_Hall_2022_150.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Fog below Gatley Park",
+   "subtitle": "Hereford, England",
+   "credit": "Photo: Howard Kirby, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fog_below_Gatley_Park_-_geograph.org.uk_-_5554398.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Moon at Richards Castle",
+   "subtitle": "Hereford, England",
+   "credit": "Photo: Fabian Musto, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Moon_at_Richards_Castle_-_geograph.org.uk_-_6394946.jpg"
   }
  ]
 }

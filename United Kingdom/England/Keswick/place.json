@@ -41,18 +41,18 @@
   {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "Strandshag Bay Derwentwater Lake District",
-   "subtitle": "Keswick, England",
-   "credit": "Photo: Julian Herzog (Website), CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Strandshag_Bay_Derwentwater_Lake_District_2025_01.jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
    "title": "Rockcliffe",
    "subtitle": "Dumfries, Scotland",
    "credit": "Photo: James Johnstone, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Rockcliffe_1.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Windermere - 29215387702",
+   "subtitle": "Windermere, England",
+   "credit": "Photo: Jorge Franganillo, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Windermere_-_29215387702.jpg"
   }
  ]
 }

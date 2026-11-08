@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Brompton Oratory 360x180, London, UK -",
-   "subtitle": "London, England",
-   "credit": "Photo: Diliff, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Brompton_Oratory_360x180,_London,_UK_-_Diliff.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "City of London skyline from London City",
    "subtitle": "London, England",
    "credit": "Photo: User:Colin and Kim Hansen, CC BY-SA 4.0",
@@ -24,15 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
-   "title": "City of London skyline from London City",
-   "subtitle": "London, England",
-   "credit": "Photo: Diliff, CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:City_of_London_skyline_from_London_City_Hall_-_Oct_2008.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/02.jpg",
    "title": "London, Tower of London -- 2016",
    "subtitle": "London, England",
    "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0",
@@ -69,6 +53,14 @@
    "subtitle": "London, England",
    "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:London_MMB_%C2%BB031_Waterloo_Millennium_Pier,_Palace_of_Westminster_and_Thames_Embankment.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Pryor's Wood Bluebells 2017-04-26-4",
+   "subtitle": "Luton, England",
+   "credit": "Photo: Colin, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pryor%27s_Wood_Bluebells_2017-04-26-4.jpg"
   }
  ]
 }

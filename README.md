@@ -15,9 +15,9 @@ A place covers the area around its city (`radius_km`, 25 km by default). Each pl
 
 ## Coverage
 
-One pack per city and one per scenic area, not one per village: the whole United Kingdom (England, Scotland, Wales and Northern Ireland) and Texas. A pack reaches 20 to 60 km around its centre (`radius_km` in `place.json`), wider in empty country. A TV outside every pack falls back to the photos built into the app and asks for a new pack, which arrives as a pull request.
+One pack per city and one per scenic area, not one per village. About 110 places cover the United Kingdom (England, Scotland, Wales and Northern Ireland). Texas has only 9, because Wikimedia Commons has few good photos of most Texas places; the seed list `tools/seed/texas.json` is longer than the packs that were kept. A pack reaches 20 to 60 km around its centre (`radius_km` in `place.json`), wider in empty country. A TV outside every pack falls back to the photos built into the app and asks for a new pack, which arrives as a pull request.
 
-The place lists are in `tools/seed/` (`uk.json`, `texas.json`). Run `python tools/wallpaper_tool.py seed tools/seed/uk.json --shard 0/4` (and shards 1 to 3 in other windows) to fill the missing ones. It skips places that already have a folder. A person should look at every new pack: the tool picks by title and brightness and cannot see the picture.
+The place lists are in `tools/seed/` (`uk.json`, `texas.json`). Run `python tools/wallpaper_tool.py seed tools/seed/uk.json --shard 0/4` (and shards 1 to 3 in other windows) to fill the missing ones. It skips places that already have a folder. A person should look at every new pack: the tool picks by title and brightness and cannot see the picture. Photos that a person removed are listed in `tools/blocklist.txt` (by their Commons page) and are never picked again. Packs with fewer than 3 photos of a mode are topped up from the nearest packs within 150 km (`fill`); the caption of such a photo keeps its real place name. Use `python tools/wallpaper_tool.py remove <city> day/02.jpg night/01.jpg` to delete photos from a pack.
 
 ## Credits and licences
 

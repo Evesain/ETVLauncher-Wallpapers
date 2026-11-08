@@ -9,22 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Reading MMB 28 Great Western Main Line",
-   "subtitle": "Reading, England",
-   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Reading_MMB_28_Great_Western_Main_Line.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
-   "title": "B481 crosses Peppard Common",
-   "subtitle": "Reading, England",
-   "credit": "Photo: Stuart Logan, CC BY-SA 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:B481_crosses_Peppard_Common_-_geograph.org.uk_-_2819942.jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/03.jpg",
    "title": "Aurora over Woodley, Reading, UK",
    "subtitle": "Reading, England",
    "credit": "Photo: Nigel Hoult, CC BY 2.0",
@@ -41,18 +25,34 @@
   {
    "mode": "night",
    "file": "night/02.jpg",
-   "title": "Aurora over Woodley, Reading UK",
-   "subtitle": "Reading, England",
-   "credit": "Photo: Nigel Hoult, CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Aurora_over_Woodley,_Reading_UK_(54058253762).jpg"
-  },
-  {
-   "mode": "night",
-   "file": "night/03.jpg",
    "title": "Aurora near Lavell's Lake, Woodley,",
    "subtitle": "Reading, England",
    "credit": "Photo: Nigel Hoult, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Aurora_near_Lavell%27s_Lake,_Woodley,_Reading_UK_(54059130211).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "UK-2014-Oxford-Pembroke College",
+   "subtitle": "Oxford, England",
+   "credit": "Photo: Godot13, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:UK-2014-Oxford-Pembroke_College_04.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Clarendon Building, Oxford, England - May",
+   "subtitle": "Oxford, England",
+   "credit": "Photo: Diliff, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Clarendon_Building,_Oxford,_England_-_May_2010.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Avebury 2022 August",
+   "subtitle": "Swindon, England",
+   "credit": "Photo: Jwslubbock, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Avebury_2022_August_1.jpg"
   }
  ]
 }

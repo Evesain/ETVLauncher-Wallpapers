@@ -9,14 +9,6 @@
   {
    "mode": "day",
    "file": "day/01.jpg",
-   "title": "Acer buergerianum (Trident Maple)",
-   "subtitle": "Fort Worth, Texas",
-   "credit": "Photo: TejasBeto, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Acer_buergerianum_(Trident_Maple).jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/02.jpg",
    "title": "Fort Worth June 2016 49 (Bass Performance",
    "subtitle": "Fort Worth, Texas",
    "credit": "Photo: Michael Barera, CC BY-SA 4.0",
@@ -24,15 +16,7 @@
   },
   {
    "mode": "day",
-   "file": "day/03.jpg",
-   "title": "Fort Worth Stockyards June 2016 57 (Rodeo",
-   "subtitle": "Fort Worth, Texas",
-   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Fort_Worth_Stockyards_June_2016_57_(Rodeo_Park).jpg"
-  },
-  {
-   "mode": "day",
-   "file": "day/04.jpg",
+   "file": "day/02.jpg",
    "title": "Texas Aurora - November 11",
    "subtitle": "Fort Worth, Texas",
    "credit": "Photo: S.R. Yates, CC BY-SA 4.0",
@@ -61,6 +45,14 @@
    "subtitle": "Dallas, Texas",
    "credit": "Photo: Shiva Shenoy from Flower Mound, United States, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Dallas_Skyline_(52291785505).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "University Park July 2016 15 (Caruth Park)",
+   "subtitle": "Dallas, Texas",
+   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:University_Park_July_2016_15_(Caruth_Park).jpg"
   }
  ]
 }

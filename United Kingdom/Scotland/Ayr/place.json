@@ -1,0 +1,66 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Ayr",
+ "lat": 55.4586,
+ "lon": -4.6292,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Gardens, Burns Statue Square, Ayr",
+   "subtitle": "Ayr, Scotland",
+   "credit": "Photo: Billy McCrorie, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gardens,_Burns_Statue_Square,_Ayr_-_geograph.org.uk_-_5754759.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Trail in Fullarton Woods, Troon",
+   "subtitle": "Ayr, Scotland",
+   "credit": "Photo: Billy McCrorie, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Trail_in_Fullarton_Woods,_Troon_-_geograph.org.uk_-_6862765.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Beach, Millport, Cumbrae, Scotland",
+   "subtitle": "Ayr, Scotland",
+   "credit": "Photo: Michal Klajban, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Beach,_Millport,_Cumbrae,_Scotland.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "On the Ayrshire Coast Path at Irvine -",
+   "subtitle": "Ayr, Scotland",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:On_the_Ayrshire_Coast_Path_at_Irvine_-_Queen%27s_Bridge_over_River_Irvine_-_geograph.org.uk_-_7673985.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Sunset Isle of Cumbrae - panoramio",
+   "subtitle": "Ayr, Scotland",
+   "credit": "Photo: dan kearney, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_Isle_of_Cumbrae_-_panoramio.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Sunset Ridges - panoramio",
+   "subtitle": "Ayr, Scotland",
+   "credit": "Photo: AndrewJGallacher, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_Ridges_-_panoramio.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Reach for the Sky, Fullarton Woods",
+   "subtitle": "Ayr, Scotland",
+   "credit": "Photo: Billy McCrorie, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Reach_for_the_Sky,_Fullarton_Woods_-_geograph.org.uk_-_6862791.jpg"
+  }
+ ]
+}

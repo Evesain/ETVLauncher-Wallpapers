@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Dundee",
+ "lat": 56.462,
+ "lon": -2.9707,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Forret hill and NE Fife",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Jackie Proven, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Forret_hill_and_NE_Fife_-_geograph.org.uk_-_4255401.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "ScotRail HST Ferryden Viaduct",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Kabelleger, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:ScotRail_HST_Ferryden_Viaduct.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Broughty Castle at dusk",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Broughty_Castle_at_dusk_-_geograph.org.uk_-_7938928.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Coast south-southwest of Ramrod, Angus",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Adrian Diack, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Coast_south-southwest_of_Ramrod,_Angus_-_geograph.org.uk_-_7265692.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Twilight Stillness",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Trinity0009, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Twilight_Stillness.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Week 3 - Greetings From... Angus L.",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Morgan from Montreal, Quebec, Canada, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Week_3_-_Greetings_From..._Angus_L._MacDonald_Bridge_(23734045153).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "University of Dundee Library at night",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: John Lord, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:University_of_Dundee_Library_at_night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Rickenbacker 360-12, Gibson Les Paul SG",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Francisco Antunes from Manchester, United Kingdom, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rickenbacker_360-12,_Gibson_Les_Paul_SG_with_Lyre_Vibrola,_Fender_Jazzmaster_-_Museum_of_Pop_Culture_(2017-03-04_18.48.27_by_Francisco_Antunes).jpg"
+  }
+ ]
+}

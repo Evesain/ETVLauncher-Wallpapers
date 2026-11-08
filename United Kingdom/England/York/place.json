@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "York",
+ "lat": 53.96,
+ "lon": -1.0873,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Vue officielle a vol d'oiseau de",
+   "subtitle": "York, England",
+   "credit": "Photo: Eugène Ciceri / Philippe Benoist, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Vue_officielle_a_vol_d%27oiseau_de_l%27exposition_universelle_de_1867.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "2024-11-19-Central Park-0669",
+   "subtitle": "York, England",
+   "credit": "Photo: Superbass, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2024-11-19-Central_Park-0669.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Staten Island Ferry terminal",
+   "subtitle": "York, England",
+   "credit": "Photo: Daniel Schwen, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Staten_Island_Ferry_terminal.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "River Ouse",
+   "subtitle": "York, England",
+   "credit": "Photo: Tim Green from Bradford, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:River_Ouse_(26549642683).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Contemplative Night Walk (Unsplash)",
+   "subtitle": "York, England",
+   "credit": "Photo: Luke Porter lukeporter, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Contemplative_Night_Walk_(Unsplash).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Highfallsrochester",
+   "subtitle": "York, England",
+   "credit": "Photo: Evilarry, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Highfallsrochester.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "New York City, night",
+   "subtitle": "York, England",
+   "credit": "Photo: chsyang, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:New_York_City,_night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Aurora Borealis from airplane",
+   "subtitle": "York, England",
+   "credit": "Photo: Quintin Soloviev, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aurora_Borealis_from_airplane.jpg"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "Wales",
+ "city": "Llandudno",
+ "lat": 53.324,
+ "lon": -3.827,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Llyn Bochlwyd Y Gribin Castell y Gwynt",
+   "subtitle": "Llandudno, Wales",
+   "credit": "Photo: Julian Herzog (Website), CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Llyn_Bochlwyd_Y_Gribin_Castell_y_Gwynt_2019_01.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Conwy Castle MMB",
+   "subtitle": "Llandudno, Wales",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Conwy_Castle_MMB_05.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Tal-y-Cafn MMB 01 Afon Conwy",
+   "subtitle": "Llandudno, Wales",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tal-y-Cafn_MMB_01_Afon_Conwy.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "The Beach at",
+   "subtitle": "Llandudno, Wales",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Beach_at_Llandrillo-yn-Rhos-Rh%C3%B4s-on-Sea_-_geograph.org.uk_-_3056404.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Conwy Castle - panoramio",
+   "subtitle": "Llandudno, Wales",
+   "credit": "Photo: Ngphotography, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Conwy_Castle_-_panoramio.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Conwy Castle, N.Wales - 8818190146",
+   "subtitle": "Llandudno, Wales",
+   "credit": "Photo: Stuart Madden, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Conwy_Castle,_N.Wales_-_8818190146.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Machlud - Sunset",
+   "subtitle": "Llandudno, Wales",
+   "credit": "Photo: Ceri Thomas, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Machlud_-_Sunset_-_geograph.org.uk_-_7892974.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Panoramic sunset over River Conwy Estuary",
+   "subtitle": "Llandudno, Wales",
+   "credit": "Photo: Richard Hoare, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Panoramic_sunset_over_River_Conwy_Estuary_20.9.11_(1)_-_geograph.org.uk_-_2611680.jpg"
+  }
+ ]
+}

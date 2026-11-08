@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Tintagel",
+ "lat": 50.667,
+ "lon": -4.75,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "ISS062-E-141121 - View of Earth",
+   "subtitle": "Tintagel, England",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, NASA Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS062-E-141121_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "ISS062-E-141120 - View of Earth",
+   "subtitle": "Tintagel, England",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, NASA Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS062-E-141120_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "The Olive Garden, Tintagel",
+   "subtitle": "Tintagel, England",
+   "credit": "Photo: Des Blenkinsopp, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Olive_Garden,_Tintagel_-_geograph.org.uk_-_6860818.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "ISS042-E-286998 - View of Earth",
+   "subtitle": "Tintagel, England",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS042-E-286998_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "ISS065-E-419655 - View of Earth",
+   "subtitle": "Tintagel, England",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS065-E-419655_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "ISS065-E-419654 - View of Earth",
+   "subtitle": "Tintagel, England",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS065-E-419654_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Cornwall - winter beach",
+   "subtitle": "Tintagel, England",
+   "credit": "Photo: Stephen Steven Hodge, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cornwall_-_winter_beach_(30861283704).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Padstow-harbour-night",
+   "subtitle": "Tintagel, England",
+   "credit": "Photo: Kmtextor, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Padstow-harbour-night.jpg"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "country": "United Kingdom",
+ "region": "Wales",
+ "city": "Brecon",
+ "lat": 51.946,
+ "lon": -3.39,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "TalybontLiftingBridge",
+   "subtitle": "Brecon, Wales",
+   "credit": "Photo: Martinvl, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:TalybontLiftingBridge.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "View towards Brecon Beacons across River",
+   "subtitle": "Brecon, Wales",
+   "credit": "Photo: M J Roscoe, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_towards_Brecon_Beacons_across_River_Usk_-_geograph.org.uk_-_6812818.jpg"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Reading",
+ "lat": 51.4543,
+ "lon": -0.9781,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Reading MMB 28 Great Western Main Line",
+   "subtitle": "Reading, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Reading_MMB_28_Great_Western_Main_Line.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "B481 crosses Peppard Common",
+   "subtitle": "Reading, England",
+   "credit": "Photo: Stuart Logan, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:B481_crosses_Peppard_Common_-_geograph.org.uk_-_2819942.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Aurora over Woodley, Reading, UK",
+   "subtitle": "Reading, England",
+   "credit": "Photo: Nigel Hoult, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aurora_over_Woodley,_Reading,_UK_(53920632488).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Reading Pedestrian and Cycle Bridge",
+   "subtitle": "Reading, England",
+   "credit": "Photo: Chris j wood, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Reading_Pedestrian_and_Cycle_Bridge_09.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Aurora over Woodley, Reading UK",
+   "subtitle": "Reading, England",
+   "credit": "Photo: Nigel Hoult, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aurora_over_Woodley,_Reading_UK_(54058253762).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Aurora near Lavell's Lake, Woodley,",
+   "subtitle": "Reading, England",
+   "credit": "Photo: Nigel Hoult, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aurora_near_Lavell%27s_Lake,_Woodley,_Reading_UK_(54059130211).jpg"
+  }
+ ]
+}

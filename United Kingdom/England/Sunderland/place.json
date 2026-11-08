@@ -1,0 +1,26 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Sunderland",
+ "lat": 54.9069,
+ "lon": -1.3838,
+ "radius_km": 20,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "The Keep and Clock of Durham Castle",
+   "subtitle": "Sunderland, England",
+   "credit": "Photo: Matthew Hoser, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Keep_and_Clock_of_Durham_Castle.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "PXL 20220604 211930151.NIGHT",
+   "subtitle": "Sunderland, England",
+   "credit": "Photo: Digital Elysium, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:PXL_20220604_211930151.NIGHT.jpg"
+  }
+ ]
+}

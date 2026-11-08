@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Brighton",
+ "lat": 50.8225,
+ "lon": -0.1372,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Brighton MMB",
+   "subtitle": "Brighton, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Brighton_MMB_09.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Brighton MMB 34 West Pier",
+   "subtitle": "Brighton, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Brighton_MMB_34_West_Pier.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Rampion Wind Farm - 2018",
+   "subtitle": "Brighton, England",
+   "credit": "Photo: Jon Lavis from Seaford, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rampion_Wind_Farm_-_2018_-_(44123189055).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "View to the sea",
+   "subtitle": "Brighton, England",
+   "credit": "Photo: Peter Jeffery, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_to_the_sea_-_geograph.org.uk_-_6052507.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Brighton Pier at night",
+   "subtitle": "Brighton, England",
+   "credit": "Photo: Miguel Mendez, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Brighton_Pier_at_night_(37916226546).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Brighton MMB 46 Pier",
+   "subtitle": "Brighton, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Brighton_MMB_46_Pier.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Brighton Pier Night",
+   "subtitle": "Brighton, England",
+   "credit": "Photo: Tony Hisgett from Birmingham, UK, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Brighton_Pier_Night_3_(3191386655).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Brighton, Royal Pavilion at night",
+   "subtitle": "Brighton, England",
+   "credit": "Photo: Fanfwah, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Brighton,_Royal_Pavilion_at_night.jpg"
+  }
+ ]
+}

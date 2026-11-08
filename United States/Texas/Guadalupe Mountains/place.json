@@ -1,0 +1,66 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Guadalupe Mountains",
+ "lat": 31.89,
+ "lon": -104.86,
+ "radius_km": 45,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Guadalupe Peak National Park",
+   "subtitle": "Guadalupe Mountains, Texas",
+   "credit": "Photo: Peter A. Episcopo, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Guadalupe_Peak_National_Park.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Guadalupe Mountains Texas-2",
+   "subtitle": "Guadalupe Mountains, Texas",
+   "credit": "Photo: Jonathan Cutrer from San Angelo, United States, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Guadalupe_Mountains_Texas-2_(13777133974).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Pine Springs Canyon below Guadalupe Peak",
+   "subtitle": "Guadalupe Mountains, Texas",
+   "credit": "Photo: Fredlyfish4, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pine_Springs_Canyon_below_Guadalupe_Peak.JPG"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Hunter Peak",
+   "subtitle": "Guadalupe Mountains, Texas",
+   "credit": "Photo: Fredlyfish4, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hunter_Peak.JPG"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Guadalupe Peak at sunset",
+   "subtitle": "Guadalupe Mountains, Texas",
+   "credit": "Photo: Leaflet, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Guadalupe_Peak_at_sunset_2006.JPG"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Pine Springs Sunrise",
+   "subtitle": "Guadalupe Mountains, Texas",
+   "credit": "Photo: Fredlyfish4, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pine_Springs_Sunrise.JPG"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Dermatophyllum guadalupense",
+   "subtitle": "Guadalupe Mountains, Texas",
+   "credit": "Photo: Patrick Alexander from Las Cruces, NM, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dermatophyllum_guadalupense_-_Flickr_-_aspidoscelis_(1).jpg"
+  }
+ ]
+}

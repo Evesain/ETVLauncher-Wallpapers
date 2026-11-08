@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Swindon",
+ "lat": 51.5558,
+ "lon": -1.7797,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Western entrance to Castle Eaton",
+   "subtitle": "Swindon, England",
+   "credit": "Photo: Vieve Forward, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Western_entrance_to_Castle_Eaton_-_geograph.org.uk_-_3779058.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "View from Lus Hill",
+   "subtitle": "Swindon, England",
+   "credit": "Photo: Des Blenkinsopp, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_from_Lus_Hill_-_geograph.org.uk_-_7211076.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "At Swindon Steam Railway Museum 2024",
+   "subtitle": "Swindon, England",
+   "credit": "Photo: Mike Peel, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:At_Swindon_Steam_Railway_Museum_2024_042.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Avebury 2022 August",
+   "subtitle": "Swindon, England",
+   "credit": "Photo: Jwslubbock, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Avebury_2022_August_1.jpg"
+  }
+ ]
+}

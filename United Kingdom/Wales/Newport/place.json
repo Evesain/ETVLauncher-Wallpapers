@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "Wales",
+ "city": "Newport",
+ "lat": 51.5842,
+ "lon": -2.9977,
+ "radius_km": 20,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Newport MMB 04 River Usk",
+   "subtitle": "Newport, Wales",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Newport_MMB_04_River_Usk.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Chepstow MMB 11 Gloucester to Newport Line",
+   "subtitle": "Newport, Wales",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chepstow_MMB_11_Gloucester_to_Newport_Line.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Bridge Marker Over Canal at Fourteen",
+   "subtitle": "Newport, Wales",
+   "credit": "Photo: Mick Lobb, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bridge_Marker_Over_Canal_at_Fourteen_Locks,_Newport,_Gwent_-_geograph.org.uk_-_6101416.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Belle Vue Pavilion Sunrise",
+   "subtitle": "Newport, Wales",
+   "credit": "Photo: Dave Roberts, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Belle_Vue_Pavilion_Sunrise.jpg"
+  }
+ ]
+}

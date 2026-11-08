@@ -231,6 +231,8 @@ def stem(name):
 def nice_title(name):
     n = re.sub(r"\s*-\s*geograph.*$", "", name, flags=re.I)
     n = re.sub(r"^\d{4}-\d{2}-\d{2}\s+", "", n)
+    n = re.sub(r"\s*-\s*Flickr\s*-.*$", "", n)                 # "... - Flickr - username"
+    n = re.sub(r"\s*\(\d{6,}\)$", "", n)                         # "(22879382966)"
     n = re.sub(r"\s*\(\d+\)$|\s+\d{1,4}$", "", n).strip(" -,.")
     return (n[:42].rsplit(" ", 1)[0] if len(n) > 42 else n) or "Photo"
 
@@ -338,7 +340,8 @@ def slug_ok(s):
 
 def credit(c):
     who = re.sub(r"^(Photograph|Photo|Image) by ", "", c["author"])
-    who = re.sub(r"\s*\((www|http)[^)]*\)", "", who).split(";")[0].strip(" .")
+    who = re.sub(r"\s*\((www|http)[^)]*\)", "", who).split(";")[0]
+    who = re.sub(r"\s*,[\s,]*", ", ", who).strip(" .,")           # "North Staffordshire,, England" -> one comma
     return "Photo: %s, %s" % (who, c["licence"])
 
 

@@ -1,0 +1,26 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Carlisle",
+ "lat": 54.8925,
+ "lon": -2.9329,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Carlisle Castle in",
+   "subtitle": "Carlisle, England",
+   "credit": "Photo: Kevin Waterhouse, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Carlisle_Castle_in_1989_-_geograph.org.uk_-_7138749.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Carlisle Castle",
+   "subtitle": "Carlisle, England",
+   "credit": "Photo: Steve Daniels, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Carlisle_Castle_-_geograph.org.uk_-_6847469.jpg"
+  }
+ ]
+}

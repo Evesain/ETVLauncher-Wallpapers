@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Manchester",
+ "lat": 53.4808,
+ "lon": -2.2426,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Sunset sky over Harwood",
+   "subtitle": "Manchester, England",
+   "credit": "Photo: philandju, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_sky_over_Harwood_-_geograph.org.uk_-_7192748.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Royal Exchange Manchester central hall",
+   "subtitle": "Manchester, England",
+   "credit": "Photo: University of Salford Press Office, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Royal_Exchange_Manchester_central_hall.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Radcliffe tower hdr",
+   "subtitle": "Manchester, England",
+   "credit": "Photo: Parrot of Doom, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Radcliffe_tower_hdr.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Manchester at dusk",
+   "subtitle": "Manchester, England",
+   "credit": "Photo: Benjamin Shaw, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Manchester_at_dusk_-_geograph.org.uk_-_5287577.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Manchester at Night",
+   "subtitle": "Manchester, England",
+   "credit": "Photo: Anthony Parkes, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Manchester_at_Night_-_geograph.org.uk_-_5717661.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "11.10.15 Sunrise Manchester",
+   "subtitle": "Manchester, England",
+   "credit": "Photo: donald judge, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:11.10.15_Sunrise_Manchester_(21897389160).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "The last sunset of",
+   "subtitle": "Manchester, England",
+   "credit": "Photo: Bill Boaden, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_last_sunset_of_2019_-_geograph.org.uk_-_6356251.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Weird sunset in Stevenson Square",
+   "subtitle": "Manchester, England",
+   "credit": "Photo: Bob Harvey, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Weird_sunset_in_Stevenson_Square_-_geograph.org.uk_-_5582556.jpg"
+  }
+ ]
+}

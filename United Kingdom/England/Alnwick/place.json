@@ -1,0 +1,66 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Alnwick",
+ "lat": 55.413,
+ "lon": -1.706,
+ "radius_km": 40,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Bamburgh MMB",
+   "subtitle": "Alnwick, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bamburgh_MMB_26.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Newham MMB 10 East Coast Main Line",
+   "subtitle": "Alnwick, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Newham_MMB_10_East_Coast_Main_Line.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Winter crop, Mile Moor",
+   "subtitle": "Alnwick, England",
+   "credit": "Photo: Derek Harper, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Winter_crop,_Mile_Moor_-_geograph.org.uk_-_6665562.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Weetwood Hall",
+   "subtitle": "Alnwick, England",
+   "credit": "Photo: Barbara Carr, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Weetwood_Hall_-_geograph.org.uk_-_3442524.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Bambrugh sunrise",
+   "subtitle": "Alnwick, England",
+   "credit": "Photo: michael marston, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bambrugh_sunrise_(8329665910).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Newham MMB",
+   "subtitle": "Alnwick, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Newham_MMB_01.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Bamburgh Castle at night. - panoramio",
+   "subtitle": "Alnwick, England",
+   "credit": "Photo: Michael Walsh, CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bamburgh_Castle_at_night._-_panoramio.jpg"
+  }
+ ]
+}

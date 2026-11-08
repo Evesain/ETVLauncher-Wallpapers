@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Liverpool",
+ "lat": 53.4084,
+ "lon": -2.9916,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Tempest Hey, Liverpool July 1016",
+   "subtitle": "Liverpool, England",
+   "credit": "Photo: John Bradley, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tempest_Hey,_Liverpool_July_1016_(1).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "River Dibbin at Bowdens Hey bridge",
+   "subtitle": "Liverpool, England",
+   "credit": "Photo: Rodhullandemu, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:River_Dibbin_at_Bowdens_Hey_bridge_3.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "View from above Otter Bridge tunnel",
+   "subtitle": "Liverpool, England",
+   "credit": "Photo: Rodhullandemu, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_from_above_Otter_Bridge_tunnel.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Liverpool Skyline",
+   "subtitle": "Liverpool, England",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Liverpool_Skyline_-_geograph.org.uk_-_3188198.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Pier Head, Liverpool at night - December",
+   "subtitle": "Liverpool, England",
+   "credit": "Photo: The Carlisle Kid, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pier_Head,_Liverpool_at_night_-_December_2018_(5)_-_geograph.org.uk_-_5997788.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Sunset in Princes Gardens in Liverpool",
+   "subtitle": "Liverpool, England",
+   "credit": "Photo: TudorTulok, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_in_Princes_Gardens_in_Liverpool_United_Kingdom_in_2015.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "St George's Hall, Liverpool at night",
+   "subtitle": "Liverpool, England",
+   "credit": "Photo: Matt Harrop, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:St_George%27s_Hall,_Liverpool_at_night_-_geograph.org.uk_-_5599546.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Liverpool Everyman Theatre at dusk",
+   "subtitle": "Liverpool, England",
+   "credit": "Photo: Unknown, CC BY-SA 2.5",
+   "source": "https://commons.wikimedia.org/wiki/File:Liverpool_Everyman_Theatre_at_dusk.jpg"
+  }
+ ]
+}

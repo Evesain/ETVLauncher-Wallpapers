@@ -1,0 +1,26 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Kendal",
+ "lat": 54.328,
+ "lon": -2.746,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Railway Bridge - Kendal",
+   "subtitle": "Kendal, England",
+   "credit": "Photo: Anthony Parkes, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Railway_Bridge_-_Kendal_-_geograph.org.uk_-_4530380.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "River Kent Kendal",
+   "subtitle": "Kendal, England",
+   "credit": "Photo: edward mcmaihin, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:River_Kent_Kendal_-_geograph.org.uk_-_3776010.jpg"
+  }
+ ]
+}

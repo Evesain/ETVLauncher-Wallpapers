@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Ayr",
+ "lat": 55.4586,
+ "lon": -4.6292,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Gardens, Burns Statue Square, Ayr",
+   "subtitle": "Ayr, Scotland",
+   "credit": "Photo: Billy McCrorie, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gardens,_Burns_Statue_Square,_Ayr_-_geograph.org.uk_-_5754759.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Trail in Fullarton Woods, Troon",
+   "subtitle": "Ayr, Scotland",
+   "credit": "Photo: Billy McCrorie, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Trail_in_Fullarton_Woods,_Troon_-_geograph.org.uk_-_6862765.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Beach, Millport, Cumbrae, Scotland",
+   "subtitle": "Ayr, Scotland",
+   "credit": "Photo: Michal Klajban, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Beach,_Millport,_Cumbrae,_Scotland.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "View from Ayr Beach",
+   "subtitle": "Ayr, Scotland",
+   "credit": "Photo: Bartolo Creations, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_from_Ayr_Beach_-_geograph.org.uk_-_7136727.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Sunset Isle of Cumbrae - panoramio",
+   "subtitle": "Ayr, Scotland",
+   "credit": "Photo: dan kearney, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_Isle_of_Cumbrae_-_panoramio.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Sunset, Ayr",
+   "subtitle": "Ayr, Scotland",
+   "credit": "Photo: Billy McCrorie, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset,_Ayr_-_geograph.org.uk_-_6321604.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "The Sea at Night",
+   "subtitle": "Ayr, Scotland",
+   "credit": "Photo: Billy McCrorie, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Sea_at_Night_-_geograph.org.uk_-_5672867.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Sunset Ridges - panoramio",
+   "subtitle": "Ayr, Scotland",
+   "credit": "Photo: AndrewJGallacher, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_Ridges_-_panoramio.jpg"
+  }
+ ]
+}

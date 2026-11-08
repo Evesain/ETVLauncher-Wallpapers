@@ -1,0 +1,50 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Dover",
+ "lat": 51.1279,
+ "lon": 1.3134,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "The White Cliffs of Dover",
+   "subtitle": "Dover, England",
+   "credit": "Photo: Mustang Joe, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_White_Cliffs_of_Dover_(48789268491).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "St. Margaret's Bay, Kent",
+   "subtitle": "Dover, England",
+   "credit": "Photo: Dr Neil Clifton, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:St._Margaret%27s_Bay,_Kent_-_geograph.org.uk_-_1976511.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "St. Margaret's Bay, Kent, The 'Coastguard'",
+   "subtitle": "Dover, England",
+   "credit": "Photo: Dr Neil Clifton, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:St._Margaret%27s_Bay,_Kent,_The_%27Coastguard%27_-_geograph.org.uk_-_1976578.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Dover Castle SE",
+   "subtitle": "Dover, England",
+   "credit": "Photo: Neptuul, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dover_Castle_SE.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Sunrise In Dover port",
+   "subtitle": "Dover, England",
+   "credit": "Photo: Alexey Komarov, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_In_Dover_port.jpg"
+  }
+ ]
+}

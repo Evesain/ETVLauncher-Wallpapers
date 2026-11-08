@@ -1,0 +1,50 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Palo Duro Canyon",
+ "lat": 34.98,
+ "lon": -101.919,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Vehicle Outside 1920 Motel",
+   "subtitle": "Palo Duro Canyon, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Vehicle_Outside_1920_Motel_2024.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Bain–Schaeffer Buffalo Stadium - Canyon,",
+   "subtitle": "Palo Duro Canyon, Texas",
+   "credit": "Photo: Quintin Soloviev, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bain%E2%80%93Schaeffer_Buffalo_Stadium_-_Canyon,_Texas_-_West_Texas_A%26M_University_football.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "USA - Texas - Palo Duro Canyon State Park",
+   "subtitle": "Palo Duro Canyon, Texas",
+   "credit": "Photo: Alexander Hatley, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:USA_-_Texas_-_Palo_Duro_Canyon_State_Park_-_53030585089.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Campground Palo Duro Canyon State Park",
+   "subtitle": "Palo Duro Canyon, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Campground_Palo_Duro_Canyon_State_Park_Texas_2024.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Campground2 Palo Duro Canyon State Park",
+   "subtitle": "Palo Duro Canyon, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Campground2_Palo_Duro_Canyon_State_Park_Texas_2024.jpg"
+  }
+ ]
+}

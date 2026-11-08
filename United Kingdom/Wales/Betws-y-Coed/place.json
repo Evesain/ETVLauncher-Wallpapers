@@ -1,0 +1,66 @@
+{
+ "country": "United Kingdom",
+ "region": "Wales",
+ "city": "Betws-y-Coed",
+ "lat": 53.093,
+ "lon": -3.802,
+ "radius_km": 40,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Beach at Coed Gyfynys",
+   "subtitle": "Betws-y-Coed, Wales",
+   "credit": "Photo: Hugh Venables, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Beach_at_Coed_Gyfynys_-_geograph.org.uk_-_8404083.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "View towards Beaumaris",
+   "subtitle": "Betws-y-Coed, Wales",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_towards_Beaumaris_-_geograph.org.uk_-_5134513.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Looking down the mountain towards Llyn",
+   "subtitle": "Betws-y-Coed, Wales",
+   "credit": "Photo: Ian Greig, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Looking_down_the_mountain_towards_Llyn_Lockwood_-_geograph.org.uk_-_1977537.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Llyn Alwen, Conwy, Cymru Wales",
+   "subtitle": "Betws-y-Coed, Wales",
+   "credit": "Photo: Llywelyn2000, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Llyn_Alwen,_Conwy,_Cymru_Wales_27.JPG"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Snowdonia Sunset",
+   "subtitle": "Betws-y-Coed, Wales",
+   "credit": "Photo: Markus Trienke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Snowdonia_Sunset_(20424071826).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Misty sunrise and Snowdon star",
+   "subtitle": "Betws-y-Coed, Wales",
+   "credit": "Photo: Hefin Owen from Wales, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Misty_sunrise_and_Snowdon_star._(16806992050).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunrise&mist in Nantlle valley",
+   "subtitle": "Betws-y-Coed, Wales",
+   "credit": "Photo: Hefin Owen from Wales, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise%26mist_in_Nantlle_valley._(15976589838).jpg"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Portsmouth",
+ "lat": 50.8198,
+ "lon": -1.088,
+ "radius_km": 20,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Portsmouth MMB 88 Martello Tower",
+   "subtitle": "Portsmouth, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Portsmouth_MMB_88_Martello_Tower.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Portsmouth MMB 23 Harbour - Cumbrian",
+   "subtitle": "Portsmouth, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Portsmouth_MMB_23_Harbour_-_Cumbrian_Fisher.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Antrim militia artillery, 1897",
+   "subtitle": "Portsmouth, England",
+   "credit": "Photo: HantsAV, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Antrim_militia_artillery,_1897_01.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Spit of land in Langstone Harbour at high",
+   "subtitle": "Portsmouth, England",
+   "credit": "Photo: Robert Eva, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Spit_of_land_in_Langstone_Harbour_at_high_tide_-_geograph.org.uk_-_5594433.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Victoria of Wight at Night",
+   "subtitle": "Portsmouth, England",
+   "credit": "Photo: Tim Sheerman-Chase, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Victoria_of_Wight_at_Night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Portsmouth Harbour Sunset",
+   "subtitle": "Portsmouth, England",
+   "credit": "Photo: Greg Clarke, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Portsmouth_Harbour_Sunset.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Aurora Borealis Over Portsmouth",
+   "subtitle": "Portsmouth, England",
+   "credit": "Photo: Tim Sheerman-Chase, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aurora_Borealis_Over_Portsmouth_6.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Night Grass",
+   "subtitle": "Portsmouth, England",
+   "credit": "Photo: Tony Hisgett from Birmingham, UK, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Night_Grass_(5693827721).jpg"
+  }
+ ]
+}

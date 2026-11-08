@@ -1,0 +1,26 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Midland",
+ "lat": 31.9973,
+ "lon": -102.0779,
+ "radius_km": 50,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Midland, TX skyline (cropped)",
+   "subtitle": "Midland, Texas",
+   "credit": "Photo: Quintin Soloviev, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Midland,_TX_skyline_(cropped).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Midland, TX skyline",
+   "subtitle": "Midland, Texas",
+   "credit": "Photo: Quintin Soloviev, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Midland,_TX_skyline.jpg"
+  }
+ ]
+}

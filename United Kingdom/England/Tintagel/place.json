@@ -1,0 +1,66 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Tintagel",
+ "lat": 50.667,
+ "lon": -4.75,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "The Olive Garden, Tintagel",
+   "subtitle": "Tintagel, England",
+   "credit": "Photo: Des Blenkinsopp, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Olive_Garden,_Tintagel_-_geograph.org.uk_-_6860818.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "High Cliff, Cornwall",
+   "subtitle": "Tintagel, England",
+   "credit": "Photo: Nilfanion, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:High_Cliff,_Cornwall.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Sunset at Wilsey Woods",
+   "subtitle": "Tintagel, England",
+   "credit": "Photo: Paul Loft, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_at_Wilsey_Woods_-_geograph.org.uk_-_4036895.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Tintagel Sunset",
+   "subtitle": "Tintagel, England",
+   "credit": "Photo: Tony Hisgett from Birmingham, UK, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tintagel_Sunset_2_(2759160855).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Carnewas Sunset - Replaced",
+   "subtitle": "Tintagel, England",
+   "credit": "Photo: Darren Shilson from St Stephen, UK, United Kingdom, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Carnewas_Sunset_-_Replaced_(4532811548).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Padstow-harbour-night",
+   "subtitle": "Tintagel, England",
+   "credit": "Photo: Kmtextor, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Padstow-harbour-night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Tintagel castle",
+   "subtitle": "Tintagel, England",
+   "credit": "Photo: Robert Ashby, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tintagel_castle_-_geograph.org.uk_-_4193101.jpg"
+  }
+ ]
+}

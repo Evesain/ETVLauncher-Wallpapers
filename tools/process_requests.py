@@ -83,8 +83,13 @@ def main():
                 run("git", "push", "-q", "-u", "origin", branch)
                 body = os.path.join(work, "body.md")
                 open(body, "w", encoding="utf-8").write(pr_body(folder, cell))
-                run("gh", "pr", "create", "--title", "Add photos for %s" % folder.split("/")[-1], "--body-file", body,
-                    "--base", "main", "--head", branch)
+                try:
+                    run("gh", "pr", "create", "--title", "Add photos for %s" % folder.split("/")[-1], "--body-file", body,
+                        "--base", "main", "--head", branch)
+                except RuntimeError:
+                    # No pull request means no review: take the branch away again, so the next run tries the whole place again.
+                    run("git", "push", "-q", "origin", "--delete", branch, check=False)
+                    raise
                 acks.append({"key": cell, "status": "done"})
             elif status == "covered":
                 acks.append({"key": cell, "status": "done"})

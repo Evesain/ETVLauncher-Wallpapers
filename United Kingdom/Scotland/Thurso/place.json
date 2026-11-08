@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Thurso",
+ "lat": 58.593,
+ "lon": -3.522,
+ "radius_km": 40,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Water cascading off cliffs at Briga Head",
+   "subtitle": "Thurso, Scotland",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Water_cascading_off_cliffs_at_Briga_Head_near_Dunnet_Head_-_geograph.org.uk_-_6331810.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Water cascading off cliffs at Shira Geo,",
+   "subtitle": "Thurso, Scotland",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Water_cascading_off_cliffs_at_Shira_Geo,_Dunnet_Head_-_geograph.org.uk_-_6331819.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Dounreay Nuclear Power Development",
+   "subtitle": "Thurso, Scotland",
+   "credit": "Photo: Ben Brooksbank, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dounreay_Nuclear_Power_Development_Establishment_geograph-3484137-by-Ben-Brooksbank.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Cliffs in sea mist at Dunnet Head",
+   "subtitle": "Thurso, Scotland",
+   "credit": "Photo: Roger Davies, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cliffs_in_sea_mist_at_Dunnet_Head_-_geograph.org.uk_-_2893752.jpg"
+  }
+ ]
+}

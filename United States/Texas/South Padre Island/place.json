@@ -1,0 +1,50 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "South Padre Island",
+ "lat": 26.1118,
+ "lon": -97.1681,
+ "radius_km": 40,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "USA - Texas - Boca Chica - Starbase",
+   "subtitle": "South Padre Island, Texas",
+   "credit": "Photo: Alexander Hatley from Spring, Texas, USA, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:USA_-_Texas_-_Boca_Chica_-_Starbase_(51286772204).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Starship launch site in construction",
+   "subtitle": "South Padre Island, Texas",
+   "credit": "Photo: Alexander Hatley from Spring, Texas, USA, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Starship_launch_site_in_construction.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Boca Fuego! The Raptor Engine Test on the",
+   "subtitle": "South Padre Island, Texas",
+   "credit": "Photo: Steve Jurvetson from Los Altos, USA, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Boca_Fuego!_The_Raptor_Engine_Test_on_the_SpaceX_Starship_SN4_(49861436766).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Starship SN9 Wide Angle",
+   "subtitle": "South Padre Island, Texas",
+   "credit": "Photo: Jared Krahn, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Starship_SN9_Wide_Angle.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Starship SN9 Sunset",
+   "subtitle": "South Padre Island, Texas",
+   "credit": "Photo: Jared Krahn, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Starship_SN9_Sunset.jpg"
+  }
+ ]
+}

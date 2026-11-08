@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Lincoln",
+ "lat": 53.2307,
+ "lon": -0.5406,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Flooded Branston Island, aerial March 2026",
+   "subtitle": "Lincoln, England",
+   "credit": "Photo: Chris, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Flooded_Branston_Island,_aerial_March_2026_(3)_-_geograph.org.uk_-_8272743.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Lincoln City Skyline in",
+   "subtitle": "Lincoln, England",
+   "credit": "Photo: DragonofBatley, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lincoln_City_Skyline_in_2024.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Lincoln City - Overview",
+   "subtitle": "Lincoln, England",
+   "credit": "Photo: John Myers, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lincoln_City_-_Overview_-_geograph.org.uk_-_4233762.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Lincoln skyline",
+   "subtitle": "Lincoln, England",
+   "credit": "Photo: Bob Harvey, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lincoln_skyline_-_geograph.org.uk_-_5701238.jpg"
+  }
+ ]
+}

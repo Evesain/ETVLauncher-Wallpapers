@@ -1,0 +1,66 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Luton",
+ "lat": 51.8787,
+ "lon": -0.42,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Pryor's Wood Bluebells 2017-04-26-4",
+   "subtitle": "Luton, England",
+   "credit": "Photo: Colin, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pryor%27s_Wood_Bluebells_2017-04-26-4.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Autumn Oak - Broadhall Way - Stevenage",
+   "subtitle": "Luton, England",
+   "credit": "Photo: Colin, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Autumn_Oak_-_Broadhall_Way_-_Stevenage.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Stevenage Sunset (Brent Court)",
+   "subtitle": "Luton, England",
+   "credit": "Photo: Andy Steele, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Stevenage_Sunset_(Brent_Court)_-_geograph.org.uk_-_7499569.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Digswell Viaduct at sunset - filmed by",
+   "subtitle": "Luton, England",
+   "credit": "Photo: Martinericbailey, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Digswell_Viaduct_at_sunset_-_filmed_by_drone.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "View of sunset sky over Hitchin Lavender",
+   "subtitle": "Luton, England",
+   "credit": "Photo: Robert Lamb, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_of_sunset_sky_over_Hitchin_Lavender_%5E2_-_geograph.org.uk_-_5863993.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Luton Hoo in",
+   "subtitle": "Luton, England",
+   "credit": "Photo: Greg Knapp from Hitchin, United Kingdom, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Luton_Hoo_in_2009.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "St. Albans Dusk",
+   "subtitle": "Luton, England",
+   "credit": "Photo: Greg Knapp from St Albans, United Kingdom, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:St._Albans_Dusk_(4558504257).jpg"
+  }
+ ]
+}

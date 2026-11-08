@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Lulworth Cove",
+ "lat": 50.62,
+ "lon": -2.25,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Durdle Door Overview",
+   "subtitle": "Lulworth Cove, England",
+   "credit": "Photo: Saffron Blaze, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Durdle_Door_Overview.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Marsh fritillary (Euphydryas aurinia) male",
+   "subtitle": "Lulworth Cove, England",
+   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Marsh_fritillary_(Euphydryas_aurinia)_male.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Dorset Coast - Summer evening",
+   "subtitle": "Lulworth Cove, England",
+   "credit": "Photo: Andrew Bone from Weymouth, England, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dorset_Coast_-_Summer_evening_(28300248544).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Reba enjoying her first walk today",
+   "subtitle": "Lulworth Cove, England",
+   "credit": "Photo: Andrew Bone from Weymouth, England, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Reba_enjoying_her_first_walk_today_(33895237500).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Heading towards Weymouth from Overcombe",
+   "subtitle": "Lulworth Cove, England",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Heading_towards_Weymouth_from_Overcombe_at_dusk_-_geograph.org.uk_-_7034599.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Merchant's Incline above Fortuneswell at",
+   "subtitle": "Lulworth Cove, England",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Merchant%27s_Incline_above_Fortuneswell_at_dusk_-_geograph.org.uk_-_7034626.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Durdle Door Under Milky Way",
+   "subtitle": "Lulworth Cove, England",
+   "credit": "Photo: Hypnosis Photos, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Durdle_Door_Under_Milky_Way.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Sunset in Colehill, England",
+   "subtitle": "Lulworth Cove, England",
+   "credit": "Photo: JackPeasePhotography, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_in_Colehill,_England.jpg"
+  }
+ ]
+}

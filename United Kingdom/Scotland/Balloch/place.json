@@ -1,0 +1,58 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Balloch",
+ "lat": 56.0,
+ "lon": -4.58,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Sunset in The Trossachs, Scotland",
+   "subtitle": "Balloch, Scotland",
+   "credit": "Photo: Michal Klajban, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_in_The_Trossachs,_Scotland.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Trig point on Barscube Hill",
+   "subtitle": "Balloch, Scotland",
+   "credit": "Photo: Leslie Barrie, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Trig_point_on_Barscube_Hill_-_geograph.org.uk_-_3360508.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Clairinsh Loch Lomond Scotland",
+   "subtitle": "Balloch, Scotland",
+   "credit": "Photo: GalleonMichael, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Clairinsh_Loch_Lomond_Scotland.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "View across Stockie Muir",
+   "subtitle": "Balloch, Scotland",
+   "credit": "Photo: Richard Sutcliffe, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_across_Stockie_Muir_-_geograph.org.uk_-_4834358.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "First Light on Ben A'an",
+   "subtitle": "Balloch, Scotland",
+   "credit": "Photo: john mcsporran from Trossachs, Scotland, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:First_Light_on_Ben_A%27an_-_Flickr_-_J_McSporran.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Loch Lomond from Conic Hill",
+   "subtitle": "Balloch, Scotland",
+   "credit": "Photo: Craigmacl, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Loch_Lomond_from_Conic_Hill.jpg"
+  }
+ ]
+}

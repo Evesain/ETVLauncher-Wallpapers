@@ -1,0 +1,26 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "College Station",
+ "lat": 30.628,
+ "lon": -96.3344,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Boonville Heritage Park Entrance",
+   "subtitle": "College Station, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Boonville_Heritage_Park_Entrance.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Turner Peters Log Cabin Southeast",
+   "subtitle": "College Station, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Turner_Peters_Log_Cabin_Southeast_Elevation.jpg"
+  }
+ ]
+}

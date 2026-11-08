@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Dundee",
+ "lat": 56.462,
+ "lon": -2.9707,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Forret hill and NE Fife",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Jackie Proven, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Forret_hill_and_NE_Fife_-_geograph.org.uk_-_4255401.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "ScotRail HST Ferryden Viaduct",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Kabelleger, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:ScotRail_HST_Ferryden_Viaduct.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Broughty Castle at dusk",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Broughty_Castle_at_dusk_-_geograph.org.uk_-_7938928.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Coast south-southwest of Ramrod, Angus",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Adrian Diack, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Coast_south-southwest_of_Ramrod,_Angus_-_geograph.org.uk_-_7265692.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Sunset over the Firth of Tay from",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_the_Firth_of_Tay_from_Broughty_Ferry_-_geograph.org.uk_-_7938929.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Twilight Stillness",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Trinity0009, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Twilight_Stillness.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "South East Dundee at Sunrise from the Law",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Laerol, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:South_East_Dundee_at_Sunrise_from_the_Law_(autumn_1998).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Surreal Retail Park",
+   "subtitle": "Dundee, Scotland",
+   "credit": "Photo: Ross2085, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Surreal_Retail_Park.jpg"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "York",
+ "lat": 53.96,
+ "lon": -1.0873,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "River Ouse",
+   "subtitle": "York, England",
+   "credit": "Photo: Tim Green from Bradford, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:River_Ouse_(26549642683).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Moreby Hall",
+   "subtitle": "York, England",
+   "credit": "Photo: Chris Heaton, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Moreby_Hall_-_geograph.org.uk_-_6918548.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Central Hall, York - DSC",
+   "subtitle": "York, England",
+   "credit": "Photo: Tadeusz Hare, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Hall,_York_-_DSC_1535.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "York MMB 39 River Ouse",
+   "subtitle": "York, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:York_MMB_39_River_Ouse.jpg"
+  }
+ ]
+}

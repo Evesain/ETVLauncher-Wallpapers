@@ -1,0 +1,50 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Waco",
+ "lat": 31.5493,
+ "lon": -97.1467,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Baylor University June 2016 48 (Baylor",
+   "subtitle": "Waco, Texas",
+   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Baylor_University_June_2016_48_(Baylor_Ballpark).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Baylor University June 2016 47 (Baylor",
+   "subtitle": "Waco, Texas",
+   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Baylor_University_June_2016_47_(Baylor_Ballpark).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "18th St Viaduct Shield",
+   "subtitle": "Waco, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:18th_St_Viaduct_Shield.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Hewitt Texas City Hall",
+   "subtitle": "Waco, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hewitt_Texas_City_Hall_2019.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Waco June 2016 07 (Indian Spring Park)",
+   "subtitle": "Waco, Texas",
+   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Waco_June_2016_07_(Indian_Spring_Park).jpg"
+  }
+ ]
+}

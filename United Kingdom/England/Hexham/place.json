@@ -1,0 +1,26 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Hexham",
+ "lat": 54.971,
+ "lon": -2.101,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "A69 near Lipwood",
+   "subtitle": "Hexham, England",
+   "credit": "Photo: wfmillar, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A69_near_Lipwood_-_geograph.org.uk_-_3882243.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Hexham Park",
+   "subtitle": "Hexham, England",
+   "credit": "Photo: Bill Boaden, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hexham_Park_-_geograph.org.uk_-_5375651.jpg"
+  }
+ ]
+}

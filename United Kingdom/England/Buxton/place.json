@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Buxton",
+ "lat": 53.259,
+ "lon": -1.911,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Autumn colours",
+   "subtitle": "Buxton, England",
+   "credit": "Photo: Simon Harrod from Uk, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Autumn_colours._(30227544812).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Buxton, Spring Gardens",
+   "subtitle": "Buxton, England",
+   "credit": "Photo: Michael Garlick, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Buxton,_Spring_Gardens_-_geograph.org.uk_-_6988641.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "View across Cressbrook Dale",
+   "subtitle": "Buxton, England",
+   "credit": "Photo: Bill Boaden, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_across_Cressbrook_Dale_-_geograph.org.uk_-_4963783.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Entering God's country",
+   "subtitle": "Buxton, England",
+   "credit": "Photo: Simon Harrod from Uk, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Entering_God%27s_country._(7779586664).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Heather and Sunset at Higger Tor",
+   "subtitle": "Buxton, England",
+   "credit": "Photo: Mark Rickaby from Nottingham, United Kingdom, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Heather_and_Sunset_at_Higger_Tor_(26297584408).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Quarry at night",
+   "subtitle": "Buxton, England",
+   "credit": "Photo: Simon Harrod from Uk, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Quarry_at_night._(6669145327).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Shrubland glow at sunset (Explored Nov 28)",
+   "subtitle": "Buxton, England",
+   "credit": "Photo: Dan Cook Archived (dan-scape.co.uk), CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Shrubland_glow_at_sunset_(Explored_Nov_28)_-_Flickr_-_Dan_Cook_Archived_(dan-scape.co.uk).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Sunset over the Pennines",
+   "subtitle": "Buxton, England",
+   "credit": "Photo: Andrew Basterfield, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_the_Pennines_(6199110242).jpg"
+  }
+ ]
+}

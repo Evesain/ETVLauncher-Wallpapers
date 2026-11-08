@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Milton Keynes",
+ "lat": 52.0406,
+ "lon": -0.7594,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Open University MMB 10 Walton Hall",
+   "subtitle": "Milton Keynes, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Open_University_MMB_10_Walton_Hall.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Tyringham",
+   "subtitle": "Milton Keynes, England",
+   "credit": "Photo: london road, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tyringham_(52093801823).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "South Northamptonshire , Mount Mill Solar",
+   "subtitle": "Milton Keynes, England",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:South_Northamptonshire_,_Mount_Mill_Solar_Park_-_geograph.org.uk_-_6113610.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Open University MMB",
+   "subtitle": "Milton Keynes, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Open_University_MMB_07.jpg"
+  }
+ ]
+}

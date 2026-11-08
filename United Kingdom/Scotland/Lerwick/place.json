@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Lerwick",
+ "lat": 60.155,
+ "lon": -1.145,
+ "radius_km": 45,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Lerwick Town Hall",
+   "subtitle": "Lerwick, Scotland",
+   "credit": "Photo: Tom Parnell from Scottish Borders, Scotland, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lerwick_Town_Hall_(32556489637).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Lerwick town hall from Fort Charlotte",
+   "subtitle": "Lerwick, Scotland",
+   "credit": "Photo: Robert Eva, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lerwick_town_hall_from_Fort_Charlotte_-_geograph.org.uk_-_6141216.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "St Ninians Isle Shetland landscape",
+   "subtitle": "Lerwick, Scotland",
+   "credit": "Photo: Unukorno, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:St_Ninians_Isle_Shetland_landscape_02.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Virkie Pool IMG",
+   "subtitle": "Lerwick, Scotland",
+   "credit": "Photo: Ronnie Robertson, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Virkie_Pool_IMG_0763.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Night Shadows MG",
+   "subtitle": "Lerwick, Scotland",
+   "credit": "Photo: Ronnie Robertson, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Night_Shadows_MG_4706_(29147083534).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Night Sky MG",
+   "subtitle": "Lerwick, Scotland",
+   "credit": "Photo: Ronnie Robertson, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Night_Sky_MG_9665_(34737207880).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Summer Evening at Lerwick Harbour,",
+   "subtitle": "Lerwick, Scotland",
+   "credit": "Photo: Andrew Tryon, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Summer_Evening_at_Lerwick_Harbour,_Shetland_-_geograph.org.uk_-_5825734.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Midsummer Sunset at Underhoull, Shetland",
+   "subtitle": "Lerwick, Scotland",
+   "credit": "Photo: Andrew Tryon, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Midsummer_Sunset_at_Underhoull,_Shetland_Islands,_Great_Britain_-_geograph.org.uk_-_6000005.jpg"
+  }
+ ]
+}

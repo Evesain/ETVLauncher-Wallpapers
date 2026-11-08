@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Cirencester",
+ "lat": 51.719,
+ "lon": -1.968,
+ "radius_km": 40,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Broadway Tower",
+   "subtitle": "Cirencester, England",
+   "credit": "Photo: Saffron Blaze, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Broadway_Tower_2012.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Saint Mary's Abbey 20230729 120608",
+   "subtitle": "Cirencester, England",
+   "credit": "Photo: Dcs57, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Saint_Mary%27s_Abbey_20230729_120608.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Outdoor Gym in the Park",
+   "subtitle": "Cirencester, England",
+   "credit": "Photo: Des Blenkinsopp, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Outdoor_Gym_in_the_Park_-_geograph.org.uk_-_7339685.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Sunset near the Rissingtons",
+   "subtitle": "Cirencester, England",
+   "credit": "Photo: Derek Harper, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_near_the_Rissingtons_-_geograph.org.uk_-_5272595.jpg"
+  }
+ ]
+}

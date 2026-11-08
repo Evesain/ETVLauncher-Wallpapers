@@ -1,0 +1,42 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "El Paso",
+ "lat": 31.7619,
+ "lon": -106.485,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "U.S. Customs and Border Protection",
+   "subtitle": "El Paso, Texas",
+   "credit": "Photo: Dugan Meyer, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:U.S._Customs_and_Border_Protection_Autonomous_Surveillance_Tower_(AST)_on_Mount_Cristo_Rey_in_Sunland_Park,_New_Mexico_2.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Texas DPS Helicopter Flies over a CBP",
+   "subtitle": "El Paso, Texas",
+   "credit": "Photo: Dugan Meyer, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Texas_DPS_Helicopter_Flies_over_a_CBP_Autonomous_Surveillance_Tower_on_Mount_Cristo_Rey_in_Sunland_Park,_New_Mexico.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "El Paso skyline",
+   "subtitle": "El Paso, Texas",
+   "credit": "Photo: Quintin Soloviev, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:El_Paso_skyline.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Sunset Heights El Paso TX General view",
+   "subtitle": "El Paso, Texas",
+   "credit": "Photo: Rogelio Rivero Cagigas, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_Heights_El_Paso_TX_General_view_02.JPG"
+  }
+ ]
+}

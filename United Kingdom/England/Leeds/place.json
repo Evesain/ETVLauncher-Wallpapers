@@ -1,0 +1,34 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Leeds",
+ "lat": 53.8008,
+ "lon": -1.5491,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Owlcotes Hill, Pudsey, Leeds",
+   "subtitle": "Leeds, England",
+   "credit": "Photo: Mark Stevenson, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Owlcotes_Hill,_Pudsey,_Leeds_-_geograph.org.uk_-_5674638.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "9.10.15 Leeds Night Light",
+   "subtitle": "Leeds, England",
+   "credit": "Photo: donald judge, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:9.10.15_Leeds_Night_Light_027_(21874260940).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "9.10.15 Leeds Night Light",
+   "subtitle": "Leeds, England",
+   "credit": "Photo: donald judge, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:9.10.15_Leeds_Night_Light_040_(21441471463).jpg"
+  }
+ ]
+}

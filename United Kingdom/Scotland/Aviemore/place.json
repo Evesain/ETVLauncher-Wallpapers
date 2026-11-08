@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Aviemore",
+ "lat": 57.195,
+ "lon": -3.827,
+ "radius_km": 40,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Bridge over the River Spey at Cromdale",
+   "subtitle": "Aviemore, Scotland",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bridge_over_the_River_Spey_at_Cromdale_-_geograph.org.uk_-_7936651.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Moorland below Carn Glas-choire",
+   "subtitle": "Aviemore, Scotland",
+   "credit": "Photo: Colin Kinnear, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Moorland_below_Carn_Glas-choire_-_geograph.org.uk_-_1810913.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Bridge at Drochaid Balbh Bhordain,",
+   "subtitle": "Aviemore, Scotland",
+   "credit": "Photo: Andrew Tryon, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bridge_at_Drochaid_Balbh_Bhordain,_Highlands_-_geograph.org.uk_-_5693487.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Sunrise over the River Spey",
+   "subtitle": "Aviemore, Scotland",
+   "credit": "Photo: Dunverig, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_over_the_River_Spey.jpg"
+  }
+ ]
+}

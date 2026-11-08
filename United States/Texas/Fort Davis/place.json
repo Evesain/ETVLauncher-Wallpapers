@@ -1,0 +1,34 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Fort Davis",
+ "lat": 30.588,
+ "lon": -103.894,
+ "radius_km": 60,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Fort Davis National Historic Site, Texas",
+   "subtitle": "Fort Davis, Texas",
+   "credit": "Photo: NPS staff, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Fort_Davis_National_Historic_Site,_Texas_(9d7fcd74-7818-4a95-94ea-c1189f8d0f44).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Davis Mountains Preserve",
+   "subtitle": "Fort Davis, Texas",
+   "credit": "Photo: Fredlyfish4, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Davis_Mountains_Preserve_2.JPG"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Davis Mountains-McDonald Observatory",
+   "subtitle": "Fort Davis, Texas",
+   "credit": "Photo: jaygannett, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Davis_Mountains-McDonald_Observatory.jpg"
+  }
+ ]
+}

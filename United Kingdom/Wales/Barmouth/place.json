@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "Wales",
+ "city": "Barmouth",
+ "lat": 52.722,
+ "lon": -4.056,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Llyn Ogwen Milky Way",
+   "subtitle": "Barmouth, Wales",
+   "credit": "Photo: John Badham, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Llyn_Ogwen_Milky_Way.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Aberglaslyn WHR MMB",
+   "subtitle": "Barmouth, Wales",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aberglaslyn_WHR_MMB_02.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Mile Marker",
+   "subtitle": "Barmouth, Wales",
+   "credit": "Photo: Peter Glyn, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mile_Marker_2.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Aberglaslyn xWHR MMB",
+   "subtitle": "Barmouth, Wales",
+   "credit": "Photo: mattbuck (category), CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aberglaslyn_xWHR_MMB_04.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Bwlch Llanberis yn y cyfnos, gaeaf 2022 -",
+   "subtitle": "Barmouth, Wales",
+   "credit": "Photo: Llywelyn2000, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bwlch_Llanberis_yn_y_cyfnos,_gaeaf_2022_-_Llanberis_pass_at_dusk,_Dec_2022,_Gwynedd_Cymru_(Wales)_20.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Castell Caernarfon yn y cyfnos yn 2023 -",
+   "subtitle": "Barmouth, Wales",
+   "credit": "Photo: Llywelyn2000, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Castell_Caernarfon_yn_y_cyfnos_yn_2023_-_Castell_Caernarfon,_Gwynedd,_Wales_at_Dusk_-_2023_09.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunset at a (cheeky) campsite in The Pass",
+   "subtitle": "Barmouth, Wales",
+   "credit": "Photo: Richard Law, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_at_a_(cheeky)_campsite_in_The_Pass_-_geograph.org.uk_-_6489267.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Sunset from Waun-oer",
+   "subtitle": "Barmouth, Wales",
+   "credit": "Photo: Michael Graham, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_from_Waun-oer_-_geograph.org.uk_-_4945261.jpg"
+  }
+ ]
+}

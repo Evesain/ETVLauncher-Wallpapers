@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "Northern Ireland",
+ "city": "Armagh",
+ "lat": 54.3503,
+ "lon": -6.6528,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Bridge over Callan River",
+   "subtitle": "Armagh, Northern Ireland",
+   "credit": "Photo: Sean Davis, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bridge_over_Callan_River_-_geograph.org.uk_-_6905595.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Steep valley slope above the flood plain",
+   "subtitle": "Armagh, Northern Ireland",
+   "credit": "Photo: Eric Jones, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Steep_valley_slope_above_the_flood_plain_of_the_River_Callan_-_geograph.org.uk_-_5257634.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Marlacoo Lake",
+   "subtitle": "Armagh, Northern Ireland",
+   "credit": "Photo: Robert Ashby, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Marlacoo_Lake_-_geograph.org.uk_-_4489601.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Callan River and Beer Garden",
+   "subtitle": "Armagh, Northern Ireland",
+   "credit": "Photo: Sean Davis, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Callan_River_and_Beer_Garden_-_geograph.org.uk_-_6929814.jpg"
+  }
+ ]
+}

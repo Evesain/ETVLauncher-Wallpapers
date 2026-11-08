@@ -1,0 +1,34 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Isle of Mull",
+ "lat": 56.47,
+ "lon": -5.95,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Salen - rotting hulks",
+   "subtitle": "Isle of Mull, Scotland",
+   "credit": "Photo: DeFacto, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Salen_-_rotting_hulks.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Southeast coast of Ulva",
+   "subtitle": "Isle of Mull, Scotland",
+   "credit": "Photo: Andrew Hackney, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Southeast_coast_of_Ulva_-_geograph.org.uk_-_2557402.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Calve Island",
+   "subtitle": "Isle of Mull, Scotland",
+   "credit": "Photo: Colin, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Calve_Island.jpg"
+  }
+ ]
+}

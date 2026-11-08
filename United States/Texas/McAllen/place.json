@@ -1,0 +1,26 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "McAllen",
+ "lat": 26.2034,
+ "lon": -98.23,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Skyline of McAllen",
+   "subtitle": "McAllen, Texas",
+   "credit": "Photo: Theunderratedtaco, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Skyline_of_McAllen.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Hidalgo Texas City Hall",
+   "subtitle": "McAllen, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hidalgo_Texas_City_Hall_2021.jpg"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Chester",
+ "lat": 53.193,
+ "lon": -2.8931,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "At Chester Zoo 2023 019 - Komodo Dragon",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Mike Peel, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:At_Chester_Zoo_2023_019_-_Komodo_Dragon_(cropped).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Civic Hall, Ellesmere Port",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Richard Kelly, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Civic_Hall,_Ellesmere_Port.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "The River Dee near Aldford",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_River_Dee_near_Aldford_-_geograph.org.uk_-_2440836.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Fallen Tree in the River Dee",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fallen_Tree_in_the_River_Dee_-_geograph.org.uk_-_5871051.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Suburban Sunset, Hoole, Chester",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Suburban_Sunset,_Hoole,_Chester_-_geograph.org.uk_-_7417385.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Chester HQ at Night",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chester_HQ_at_Night_-_geograph.org.uk_-_3784442.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "60163 Departing Chester late at night",
+   "subtitle": "Chester, England",
+   "credit": "Photo: David Moyle, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:60163_Departing_Chester_late_at_night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Chester Bennington, Dead By Sunrise",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Ron Schendorf from New York, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chester_Bennington,_Dead_By_Sunrise.jpg"
+  }
+ ]
+}

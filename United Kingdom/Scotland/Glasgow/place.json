@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Glasgow",
+ "lat": 55.8642,
+ "lon": -4.2518,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Gatepiers To Queen's Park, Glasgow,",
+   "subtitle": "Glasgow, Scotland",
+   "credit": "Photo: Michal Klajban, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gatepiers_To_Queen%27s_Park,_Glasgow,_Scotland.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "180111 Gourock Ropeworks, Newark Castle,",
+   "subtitle": "Glasgow, Scotland",
+   "credit": "Photo: dave souza, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:180111_Gourock_Ropeworks,_Newark_Castle,_Ferguson_Marine,_MV_Glen_Sannox.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "4-44 Regent Park Square, Glasgow, Scotland",
+   "subtitle": "Glasgow, Scotland",
+   "credit": "Photo: Michal Klajban, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:4-44_Regent_Park_Square,_Glasgow,_Scotland_14.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Autumn in Glasgow",
+   "subtitle": "Glasgow, Scotland",
+   "credit": "Photo: Ian Dick from Glasgow, UK, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Autumn_in_Glasgow_(48929718197).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Tonights Sunset 14 04 2020 From under the",
+   "subtitle": "Glasgow, Scotland",
+   "credit": "Photo: Rab Lawrence from Aberdeen/Scotland, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tonights_Sunset_14_04_2020_From_under_the_Erskine_Bridge_Glasgow..._(49774132878).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Winter sunrise in Glasgow2",
+   "subtitle": "Glasgow, Scotland",
+   "credit": "Photo: Ian Dick, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Winter_sunrise_in_Glasgow2.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunset across the River Clyde viewed from",
+   "subtitle": "Glasgow, Scotland",
+   "credit": "Photo: Midwich Cuckoo, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_across_the_River_Clyde_viewed_from_Riverside_Museum_in_Glasgow.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Glasgow Nights",
+   "subtitle": "Glasgow, Scotland",
+   "credit": "Photo: Peter Allen, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Glasgow_Nights_-_geograph.org.uk_-_2100649.jpg"
+  }
+ ]
+}

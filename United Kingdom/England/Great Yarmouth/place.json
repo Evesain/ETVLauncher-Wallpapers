@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Great Yarmouth",
+ "lat": 52.6083,
+ "lon": 1.731,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Private coastal defences, Hemsby",
+   "subtitle": "Great Yarmouth, England",
+   "credit": "Photo: Hugh Venables, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Private_coastal_defences,_Hemsby_-_geograph.org.uk_-_7736653.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Cliff at Scratby",
+   "subtitle": "Great Yarmouth, England",
+   "credit": "Photo: Hugh Venables, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cliff_at_Scratby_-_geograph.org.uk_-_7761341.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "North Beach, Great Yarmouth",
+   "subtitle": "Great Yarmouth, England",
+   "credit": "Photo: habiloid, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:North_Beach,_Great_Yarmouth_-_geograph.org.uk_-_8074433.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Britannia Pier, Great Yarmouth",
+   "subtitle": "Great Yarmouth, England",
+   "credit": "Photo: habiloid, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Britannia_Pier,_Great_Yarmouth_-_geograph.org.uk_-_8074555.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Wellington Pier at night",
+   "subtitle": "Great Yarmouth, England",
+   "credit": "Photo: mira66, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Wellington_Pier_at_night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Karnataka live at HRH Prog XI in Great",
+   "subtitle": "Great Yarmouth, England",
+   "credit": "Photo: Steve Knight from Halstead, United Kingdom, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Karnataka_live_at_HRH_Prog_XI_in_Great_Yarmouth_(53350959874).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Parting The Storm - Norfolk - Virginia",
+   "subtitle": "Great Yarmouth, England",
+   "credit": "Photo: Accidental Nomad from Between States, USA, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Parting_The_Storm_-_Norfolk_-_Virginia_(53758122354).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "New Norfolk 3",
+   "subtitle": "Great Yarmouth, England",
+   "credit": "Photo: Soma Kondo, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:New_Norfolk_3_2015.jpg"
+  }
+ ]
+}

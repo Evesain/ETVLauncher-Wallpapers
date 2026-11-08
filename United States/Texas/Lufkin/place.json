@@ -1,0 +1,66 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Lufkin",
+ "lat": 31.3382,
+ "lon": -94.7291,
+ "radius_km": 45,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "ISS038-E-16074 - View of Earth",
+   "subtitle": "Lufkin, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS038-E-16074_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "ISS038-E-16075 - View of Earth",
+   "subtitle": "Lufkin, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS038-E-16075_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "ISS061-E-145901 - View of Earth",
+   "subtitle": "Lufkin, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, NASA Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS061-E-145901_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "ISS061-E-145900 - View of Earth",
+   "subtitle": "Lufkin, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, NASA Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS061-E-145900_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "ISS066-E-108653 - View of Earth",
+   "subtitle": "Lufkin, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS066-E-108653_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "ISS066-E-108652 - View of Earth",
+   "subtitle": "Lufkin, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS066-E-108652_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Turkey Creek, Tyler County, TX - August",
+   "subtitle": "Lufkin, Texas",
+   "credit": "Photo: David A. Harrison, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Turkey_Creek,_Tyler_County,_TX_-_August_2022.jpg"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Tyler",
+ "lat": 32.3513,
+ "lon": -95.3011,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Lake Tyler East",
+   "subtitle": "Tyler, Texas",
+   "credit": "Photo: David A. Harrison, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lake_Tyler_East.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Soules College of Business",
+   "subtitle": "Tyler, Texas",
+   "credit": "Photo: L'être et le néant, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Soules_College_of_Business.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "ISS037-E-19608 - View of Earth",
+   "subtitle": "Tyler, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS037-E-19608_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "ISS037-E-19609 - View of Earth",
+   "subtitle": "Tyler, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS037-E-19609_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Lightning at Dusk",
+   "subtitle": "Tyler, Texas",
+   "credit": "Photo: Marines from Arlington, VA, United States, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Lightning_at_Dusk_(9599915733).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Women's Night at the Rec 2016 IMG",
+   "subtitle": "Tyler, Texas",
+   "credit": "Photo: Texas Tech University - University Student Housing, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Women%27s_Night_at_the_Rec_2016_IMG_5516_(25051745325).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "ISS043-E-239612 - View of Earth",
+   "subtitle": "Tyler, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS043-E-239612_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "ISS043-E-239613 - View of Earth",
+   "subtitle": "Tyler, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS043-E-239613_-_View_of_Earth.jpg"
+  }
+ ]
+}

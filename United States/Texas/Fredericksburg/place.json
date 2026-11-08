@@ -1,0 +1,74 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Fredericksburg",
+ "lat": 30.2752,
+ "lon": -98.872,
+ "radius_km": 40,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "ISS038-E-56796 - View of Earth",
+   "subtitle": "Fredericksburg, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS038-E-56796_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "ISS038-E-56798 - View of Earth",
+   "subtitle": "Fredericksburg, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS038-E-56798_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "ISS063-E-31223 - View of Earth",
+   "subtitle": "Fredericksburg, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, NASA Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS063-E-31223_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "ISS063-E-31224 - View of Earth",
+   "subtitle": "Fredericksburg, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, NASA Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS063-E-31224_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Soldier adjusts NVGs before air assault",
+   "subtitle": "Fredericksburg, Texas",
+   "credit": "Photo: Sgt. Joanna Greene, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Soldier_adjusts_NVGs_before_air_assault_150612-A-VW212-117.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Soldiers prepare for night air assault",
+   "subtitle": "Fredericksburg, Texas",
+   "credit": "Photo: Sgt. Joanna Greene, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Soldiers_prepare_for_night_air_assault_150612-A-VW212-255.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "DD AR 57",
+   "subtitle": "Fredericksburg, Texas",
+   "credit": "Photo: Kamenev, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:DD_AR_57_1.JPG"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Luckenbach Dance Hall",
+   "subtitle": "Fredericksburg, Texas",
+   "credit": "Photo: Nicolas Henderson from Coppell, Texas, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Luckenbach_Dance_Hall_(48523154491).jpg"
+  }
+ ]
+}

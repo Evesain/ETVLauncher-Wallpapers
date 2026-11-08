@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "Northern Ireland",
+ "city": "Belfast",
+ "lat": 54.5973,
+ "lon": -5.9301,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Belfast Pride Parade",
+   "subtitle": "Belfast, Northern Ireland",
+   "credit": "Photo: Connor Fleming, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Belfast_Pride_Parade.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Belfast City",
+   "subtitle": "Belfast, Northern Ireland",
+   "credit": "Photo: Ashlu1504, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Belfast_City.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Belfast (06), October",
+   "subtitle": "Belfast, Northern Ireland",
+   "credit": "Photo: Ardfern, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Belfast_(06),_October_2009.JPG"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "HMS Belfast, río Támesis, Londres,",
+   "subtitle": "Belfast, Northern Ireland",
+   "credit": "Photo: Diego Delso, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:HMS_Belfast,_r%C3%ADo_T%C3%A1mesis,_Londres,_Inglaterra,_2014-08-11,_DD_081.JPG"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Dusk, Belfast",
+   "subtitle": "Belfast, Northern Ireland",
+   "credit": "Photo: Rossographer, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dusk,_Belfast_-_geograph.org.uk_-_7013249.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Dusk with glowing edges",
+   "subtitle": "Belfast, Northern Ireland",
+   "credit": "Photo: Conall from Downpatrick, Northern Ireland, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dusk_with_glowing_edges_(49443541072).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunset over Belfast city airport and docks",
+   "subtitle": "Belfast, Northern Ireland",
+   "credit": "Photo: John Thompson, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_Belfast_city_airport_and_docks_-_geograph.org.uk_-_4162326.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Culture Night, Belfast, September 2012",
+   "subtitle": "Belfast, Northern Ireland",
+   "credit": "Photo: Ardfern, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Culture_Night,_Belfast,_September_2012_(10).JPG"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "country": "United Kingdom",
+ "region": "Northern Ireland",
+ "city": "Bushmills",
+ "lat": 55.204,
+ "lon": -6.516,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Portnaboe, Causeway Coast",
+   "subtitle": "Bushmills, Northern Ireland",
+   "credit": "Photo: Bryn Holmes, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Portnaboe,_Causeway_Coast_-_geograph.org.uk_-_7905984.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Giant's Causeway, 2006",
+   "subtitle": "Bushmills, Northern Ireland",
+   "credit": "Photo: Bahnfrend, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Giant%27s_Causeway,_2006_(01).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Antrim Coast - Giant's Causeway - View",
+   "subtitle": "Bushmills, Northern Ireland",
+   "credit": "Photo: Joseph Mischyshyn, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Antrim_Coast_-_Giant%27s_Causeway_-_View_towards_Grand_Causeway_-_geograph.org.uk_-_3719488.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Antrim Coast - Giant's Causeway - Highest",
+   "subtitle": "Bushmills, Northern Ireland",
+   "credit": "Photo: Joseph Mischyshyn, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Antrim_Coast_-_Giant%27s_Causeway_-_Highest_Portion_of_the_Grand_Causeway_-_geograph.org.uk_-_3719451.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Hill, Giants Causeway",
+   "subtitle": "Bushmills, Northern Ireland",
+   "credit": "Photo: Darren Shilson from St Stephen, UK, United Kingdom, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hill,_Giants_Causeway_(49723230973).jpg"
+  }
+ ]
+}

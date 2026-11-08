@@ -1,0 +1,66 @@
+{
+ "country": "United Kingdom",
+ "region": "Wales",
+ "city": "Aberystwyth",
+ "lat": 52.415,
+ "lon": -4.083,
+ "radius_km": 40,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "On Glyndwr's Way - view towards Bryn-melyn",
+   "subtitle": "Aberystwyth, Wales",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:On_Glyndwr%27s_Way_-_view_towards_Bryn-melyn_-_geograph.org.uk_-_7938642.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "On Glyndwr's Way at Bryn Coch Mawr - view",
+   "subtitle": "Aberystwyth, Wales",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:On_Glyndwr%27s_Way_at_Bryn_Coch_Mawr_-_view_towards_Mynydd_Bach_-_geograph.org.uk_-_7938644.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Aberystwyth Pier",
+   "subtitle": "Aberystwyth, Wales",
+   "credit": "Photo: Peter Whatley, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aberystwyth_Pier_-_geograph.org.uk_-_6931776.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Aberystwyth - Plynlymon Hall 20180707",
+   "subtitle": "Aberystwyth, Wales",
+   "credit": "Photo: Pymouss, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aberystwyth_-_Plynlymon_Hall_20180707.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Herring Fishing",
+   "subtitle": "Aberystwyth, Wales",
+   "credit": "Photo: Alfred Worthington, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Ceredigion_Museum_2018_02.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Sunset in Cardigan Bay - Machlud yr Haul",
+   "subtitle": "Aberystwyth, Wales",
+   "credit": "Photo: Jeremy Segrott from Cardiff, Wales, UK, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_in_Cardigan_Bay_-_Machlud_yr_Haul_ym_Mae_Aberteifi_(20604840886).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunset over Cardigan Bay",
+   "subtitle": "Aberystwyth, Wales",
+   "credit": "Photo: Peter Jeffery, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_Cardigan_Bay_-_geograph.org.uk_-_5960240.jpg"
+  }
+ ]
+}

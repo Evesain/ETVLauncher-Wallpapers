@@ -1,0 +1,50 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Fort William",
+ "lat": 56.8198,
+ "lon": -5.1052,
+ "radius_km": 40,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Caledonian Sleeper 73 967 and 73 968",
+   "subtitle": "Fort William, Scotland",
+   "credit": "Photo: Kabelleger, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Caledonian_Sleeper_73_967_and_73_968_Bridge_of_Orchy_-_Rannoch.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Midland Pullman 43 059 and 43 046 Rannoch",
+   "subtitle": "Fort William, Scotland",
+   "credit": "Photo: Kabelleger, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Midland_Pullman_43_059_and_43_046_Rannoch_-_Corrour.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "The northern pier at Fort William",
+   "subtitle": "Fort William, Scotland",
+   "credit": "Photo: David Medcalf, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_northern_pier_at_Fort_William_-_geograph.org.uk_-_8191946.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Fort William pier",
+   "subtitle": "Fort William, Scotland",
+   "credit": "Photo: Eirian Evans, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fort_William_pier_-_geograph.org.uk_-_6823001.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Glencoe Lochan - Scotland",
+   "subtitle": "Fort William, Scotland",
+   "credit": "Photo: Jonathan Combe from Scotland, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Glencoe_Lochan_-_Scotland.jpg"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Fort Worth",
+ "lat": 32.7555,
+ "lon": -97.3308,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Acer buergerianum (Trident Maple)",
+   "subtitle": "Fort Worth, Texas",
+   "credit": "Photo: TejasBeto, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Acer_buergerianum_(Trident_Maple).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Fort Worth June 2016 49 (Bass Performance",
+   "subtitle": "Fort Worth, Texas",
+   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fort_Worth_June_2016_49_(Bass_Performance_Hall).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Fort Worth Stockyards June 2016 57 (Rodeo",
+   "subtitle": "Fort Worth, Texas",
+   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fort_Worth_Stockyards_June_2016_57_(Rodeo_Park).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Texas Aurora - November 11",
+   "subtitle": "Fort Worth, Texas",
+   "credit": "Photo: S.R. Yates, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Texas_Aurora_-_November_11,_2025_(54917370552).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Texas Aurora - November 11",
+   "subtitle": "Fort Worth, Texas",
+   "credit": "Photo: S.R. Yates, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Texas_Aurora_-_November_11,_2025_(54918449723).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Amon Carter Museum of American Art,",
+   "subtitle": "Fort Worth, Texas",
+   "credit": "Photo: Steven Watson, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Amon_Carter_Museum_of_American_Art,_exterior_at_night.jpg"
+  }
+ ]
+}

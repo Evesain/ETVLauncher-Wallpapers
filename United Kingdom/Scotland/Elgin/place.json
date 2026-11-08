@@ -1,0 +1,26 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Elgin",
+ "lat": 57.65,
+ "lon": -3.32,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Bow Fiddle Rock East",
+   "subtitle": "Elgin, Scotland",
+   "credit": "Photo: Lucas Kendall, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bow_Fiddle_Rock_East.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Elgin Library",
+   "subtitle": "Elgin, Scotland",
+   "credit": "Photo: Lucas Kendall, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Elgin_Library.jpg"
+  }
+ ]
+}

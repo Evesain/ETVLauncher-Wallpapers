@@ -1,0 +1,42 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Wroxham",
+ "lat": 52.712,
+ "lon": 1.406,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Silent July",
+   "subtitle": "Wroxham, England",
+   "credit": "Photo: Lemonandspider, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Silent_July.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Below Wroxham Railway Bridge",
+   "subtitle": "Wroxham, England",
+   "credit": "Photo: Chris Morgan, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Below_Wroxham_Railway_Bridge_-_geograph.org.uk_-_7146383.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Wroxham - River Bure",
+   "subtitle": "Wroxham, England",
+   "credit": "Photo: Colin Smith, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Wroxham_-_River_Bure_-_geograph.org.uk_-_6710278.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Common Blue Damselfly - Enallagma",
+   "subtitle": "Wroxham, England",
+   "credit": "Photo: Buggingitout, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Common_Blue_Damselfly_-_Enallagma_cyathigerum_12.06.2024.jpg"
+  }
+ ]
+}

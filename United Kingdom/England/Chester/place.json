@@ -1,0 +1,66 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Chester",
+ "lat": 53.193,
+ "lon": -2.8931,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Civic Hall, Ellesmere Port",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Richard Kelly, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Civic_Hall,_Ellesmere_Port.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "The River Dee near Aldford",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_River_Dee_near_Aldford_-_geograph.org.uk_-_2440836.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Fallen Tree in the River Dee",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fallen_Tree_in_the_River_Dee_-_geograph.org.uk_-_5871051.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Chester Town Hall Council Chamber",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Michael D Beckwith, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chester_Town_Hall_Council_Chamber.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Suburban Sunset, Hoole, Chester",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Suburban_Sunset,_Hoole,_Chester_-_geograph.org.uk_-_7417385.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Chester HQ at Night",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Jeff Buck, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chester_HQ_at_Night_-_geograph.org.uk_-_3784442.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "2016 Flickr file IMG",
+   "subtitle": "Chester, England",
+   "credit": "Photo: Richard Ash, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2016_Flickr_file_IMG_6283_(28368322210).jpg"
+  }
+ ]
+}

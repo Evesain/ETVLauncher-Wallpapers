@@ -1,0 +1,42 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Tyler",
+ "lat": 32.3513,
+ "lon": -95.3011,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Lake Tyler East",
+   "subtitle": "Tyler, Texas",
+   "credit": "Photo: David A. Harrison, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lake_Tyler_East.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Soules College of Business",
+   "subtitle": "Tyler, Texas",
+   "credit": "Photo: L'être et le néant, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Soules_College_of_Business.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Tyler May 2016 40 (Liberty Hall)",
+   "subtitle": "Tyler, Texas",
+   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tyler_May_2016_40_(Liberty_Hall).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Tyler May 2016 41 (Liberty Hall)",
+   "subtitle": "Tyler, Texas",
+   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tyler_May_2016_41_(Liberty_Hall).jpg"
+  }
+ ]
+}

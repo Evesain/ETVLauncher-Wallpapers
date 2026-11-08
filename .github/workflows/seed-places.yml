@@ -1,0 +1,93 @@
+name: Seed places
+
+# Fills the places in tools/seed/*.json that have no folder yet. The work is split over parallel jobs (shards). Each job finds
+# photos for its places, opens one pull request, and merges it by itself. After all jobs, places.json is rebuilt.
+# These pull requests are merged without a review, because the places come from the lists in this repository, not from a TV.
+# A person should look at the new packs afterwards and delete weak photos. Places that TVs ask for through the Worker
+# (the new-places workflow) still wait for a review.
+# Start it by hand: Actions > Seed places > Run workflow. Places that already have a folder are skipped, so it can be run again.
+
+on:
+  workflow_dispatch:
+    inputs:
+      lists:
+        description: 'Seed lists, space separated'
+        default: 'tools/seed/uk.json tools/seed/texas.json'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: seed-places
+  cancel-in-progress: false
+
+jobs:
+  seed:
+    name: Shard ${{ matrix.shard }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow
+      - name: Find photos for this shard's places
+        run: python tools/wallpaper_tool.py seed ${{ inputs.lists }} --shard ${{ matrix.shard }}/6 | tee seed.log
+      - name: Open a pull request and merge it
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- . ':!seed.log'
+          if git diff --cached --quiet; then echo "Nothing new in this shard."; exit 0; fi
+          N="$(git diff --cached --name-only | grep -c 'place.json$' || true)"
+          BRANCH="seed/${{ github.run_id }}-${{ matrix.shard }}"
+          git checkout -q -b "$BRANCH"
+          git commit -q -m "Add photos for $N places (seed run ${{ github.run_id }}, shard ${{ matrix.shard }})"
+          git push -q -u origin "$BRANCH"
+          { echo "Photos for $N places from the seed lists, picked by the tool and not yet looked at by a person."; echo; echo '```'; cat seed.log | tail -n 60; echo '```'; } > body.md
+          gh pr create --title "Seed places: shard ${{ matrix.shard }} ($N places)" --body-file body.md --base main --head "$BRANCH"
+          # Other shards merge into main meanwhile; their folders differ, so this merges cleanly. Try a few times in case of a race.
+          for i in 1 2 3 4 5; do
+            if gh pr merge "$BRANCH" --squash --delete-branch; then exit 0; fi
+            sleep $((i * 10))
+          done
+          echo "::error::Could not merge the pull request for $BRANCH. Merge it by hand."
+          exit 1
+
+  index:
+    name: Rebuild places.json
+    needs: seed
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow
+      - name: Rebuild and commit places.json
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull -q --ff-only
+          python tools/wallpaper_tool.py index
+          if git diff --quiet -- places.json; then echo "places.json is up to date."; exit 0; fi
+          git add places.json
+          git commit -q -m "Rebuild places.json"
+          git push -q origin main

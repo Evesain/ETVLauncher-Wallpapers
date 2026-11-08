@@ -1,0 +1,335 @@
+[
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Houston",
+  "lat": 29.7604,
+  "lon": -95.3698,
+  "radius_km": 30,
+  "queries": []
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Dallas",
+  "lat": 32.7767,
+  "lon": -96.797,
+  "radius_km": 30,
+  "queries": []
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Fort Worth",
+  "lat": 32.7555,
+  "lon": -97.3308,
+  "radius_km": 25,
+  "queries": []
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Austin",
+  "lat": 30.2672,
+  "lon": -97.7431,
+  "radius_km": 30,
+  "queries": []
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "San Antonio",
+  "lat": 29.4241,
+  "lon": -98.4936,
+  "radius_km": 30,
+  "queries": [
+   "Alamo"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "El Paso",
+  "lat": 31.7619,
+  "lon": -106.485,
+  "radius_km": 30,
+  "queries": []
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Corpus Christi",
+  "lat": 27.8006,
+  "lon": -97.3964,
+  "radius_km": 30,
+  "queries": [
+   "Padre Island"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Galveston",
+  "lat": 29.3013,
+  "lon": -94.7977,
+  "radius_km": 25,
+  "queries": []
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Lubbock",
+  "lat": 33.5779,
+  "lon": -101.8552,
+  "radius_km": 30,
+  "queries": []
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Amarillo",
+  "lat": 35.222,
+  "lon": -101.8313,
+  "radius_km": 30,
+  "queries": [
+   "Cadillac Ranch"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Palo Duro Canyon",
+  "lat": 34.98,
+  "lon": -101.919,
+  "radius_km": 25,
+  "queries": [
+   "Canyon Texas"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Terlingua",
+  "lat": 29.32,
+  "lon": -103.62,
+  "radius_km": 60,
+  "queries": [
+   "Big Bend",
+   "Big Bend National Park",
+   "Chisos"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Fredericksburg",
+  "lat": 30.2752,
+  "lon": -98.872,
+  "radius_km": 40,
+  "queries": [
+   "Texas Hill Country",
+   "Enchanted Rock"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Waco",
+  "lat": 31.5493,
+  "lon": -97.1467,
+  "radius_km": 30,
+  "queries": []
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Tyler",
+  "lat": 32.3513,
+  "lon": -95.3011,
+  "radius_km": 35,
+  "queries": [
+   "East Texas"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Beaumont",
+  "lat": 30.0802,
+  "lon": -94.1266,
+  "radius_km": 30,
+  "queries": [
+   "Port Arthur"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "South Padre Island",
+  "lat": 26.1118,
+  "lon": -97.1681,
+  "radius_km": 40,
+  "queries": [
+   "Brownsville"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "McAllen",
+  "lat": 26.2034,
+  "lon": -98.23,
+  "radius_km": 30,
+  "queries": [
+   "Rio Grande Valley"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Laredo",
+  "lat": 27.5306,
+  "lon": -99.4803,
+  "radius_km": 35,
+  "queries": []
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Abilene",
+  "lat": 32.4487,
+  "lon": -99.7331,
+  "radius_km": 40,
+  "queries": []
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "San Angelo",
+  "lat": 31.4638,
+  "lon": -100.437,
+  "radius_km": 40,
+  "queries": []
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Wichita Falls",
+  "lat": 33.9137,
+  "lon": -98.4934,
+  "radius_km": 35,
+  "queries": []
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Midland",
+  "lat": 31.9973,
+  "lon": -102.0779,
+  "radius_km": 50,
+  "queries": [
+   "Odessa",
+   "Permian Basin"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Fort Davis",
+  "lat": 30.588,
+  "lon": -103.894,
+  "radius_km": 60,
+  "queries": [
+   "Davis Mountains",
+   "Marfa",
+   "McDonald Observatory"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Guadalupe Mountains",
+  "lat": 31.89,
+  "lon": -104.86,
+  "radius_km": 45,
+  "queries": [
+   "Guadalupe Mountains National Park",
+   "Salt Flat"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Texarkana",
+  "lat": 33.4251,
+  "lon": -94.0477,
+  "radius_km": 35,
+  "queries": []
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Lufkin",
+  "lat": 31.3382,
+  "lon": -94.7291,
+  "radius_km": 45,
+  "queries": [
+   "Piney Woods",
+   "Big Thicket"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Victoria",
+  "lat": 28.8053,
+  "lon": -97.0036,
+  "radius_km": 40,
+  "queries": [
+   "Goliad"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "College Station",
+  "lat": 30.628,
+  "lon": -96.3344,
+  "radius_km": 35,
+  "queries": [
+   "Brazos"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Port Aransas",
+  "lat": 27.8339,
+  "lon": -97.0611,
+  "radius_km": 25,
+  "queries": [
+   "Rockport",
+   "Aransas"
+  ]
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Denton",
+  "lat": 33.2148,
+  "lon": -97.1331,
+  "radius_km": 25,
+  "queries": []
+ },
+ {
+  "country": "United States",
+  "region": "Texas",
+  "city": "Del Rio",
+  "lat": 29.3627,
+  "lon": -100.8968,
+  "radius_km": 40,
+  "queries": [
+   "Amistad"
+  ]
+ }
+]

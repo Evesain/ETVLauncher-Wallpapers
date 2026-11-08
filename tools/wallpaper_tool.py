@@ -5,6 +5,7 @@ Photos come from Wikimedia Commons, which gives the licence and the photographer
 reuse with credit are used (CC0, public domain, CC BY, CC BY-SA). The credit goes into the text next to the photo. Nothing is
 drawn on the picture.
 
+  seed   Run auto for every place of a seed list (tools/seed/*.json).
   auto   Find and add a pack for one point without help (the new-places workflow uses this; a person reviews the pull request).
   find   Search Commons near a place and write candidate pictures and contact sheets to a work folder, for a person to look at.
   add    Copy the chosen candidates into  <Country>/<Region>/<City>/{day,night}/  and write that city's place.json.
@@ -33,9 +34,11 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OK_LICENCE = re.compile(r"^(CC0|Public domain|PD\b|CC[ -]BY(-SA)?\b|Attribution)", re.I)
 BAD_WORDS = re.compile(r"\b(map|logo|flag|coat of arms|diagram|plan|poster|advert|sign|screenshot|scan|stamp|drawing)\b", re.I)
 NIGHT_WORDS = re.compile(r"night|dusk|twilight|sunset|sunrise|illuminat|aurora|lights|evening|dawn", re.I)
+QUALITY = re.compile(r"Featured pictures|Quality images|Valued images|Pictures of the day", re.I)
 WIDTH = 1920          # wallpapers are stored at most this wide
 MIN_WIDTH = 2400      # the original must be at least this wide, so the photo stays sharp on a 1080p / 4K TV
 MIN_RATIO = 1.5       # wider than 3:2, so it fills a 16:9 screen without cutting much
+MAX_RATIO = 2.0       # not a panorama strip: a 16:9 screen would show only a slice of it
 
 
 def call(**params):
@@ -73,7 +76,7 @@ def keep(page):
     if not ii or ii.get("mime") != "image/jpeg":
         return None
     w, h = ii.get("width", 0), ii.get("height", 1)
-    if w < MIN_WIDTH or w / h < MIN_RATIO:
+    if w < MIN_WIDTH or w / h < MIN_RATIO or w / h > MAX_RATIO:
         return None
     meta = ii.get("extmetadata", {})
     licence = strip_html(meta.get("LicenseShortName", {}).get("value"))
@@ -89,7 +92,7 @@ def keep(page):
         "author": strip_html(meta.get("Artist", {}).get("value")) or "Unknown", "licence": licence,
         "page": ii.get("descriptionurl"), "thumb": ii.get("thumburl"), "width": w, "height": h,
         "lat": (page.get("coordinates") or [{}])[0].get("lat"), "lon": (page.get("coordinates") or [{}])[0].get("lon"),
-        "desc": desc[:300], "blob": (title + " " + desc + " " + cats).lower(), "hint_night": bool(NIGHT_WORDS.search(title + " " + desc + " " + cats)),
+        "desc": desc[:300], "quality": bool(QUALITY.search(cats)), "blob": (title + " " + desc + " " + cats).lower(), "hint_night": bool(NIGHT_WORDS.search(title + " " + desc + " " + cats)),
     }
 
 
@@ -106,7 +109,11 @@ def find_ids(centres, radius, queries, near):
                 break
             cont = data["continue"]
     for q in queries:
-        for term in (q, q + " night", q + " dusk", q + " sunset", q + " sunrise", q + " aurora"):
+        terms = [q, q + " night", q + " dusk", q + " sunset", q + " sunrise", q + " aurora"]
+        # The pictures that Commons editors marked as quality, featured or valued are the best wallpapers.
+        for flt in ('deepcategory:"Quality images"', 'deepcategory:"Featured pictures on Wikimedia Commons"', 'deepcategory:"Valued images"'):
+            terms += [q + " " + flt, q + " night " + flt]
+        for term in terms:
             cont = {}
             for _ in range(2):
                 data = call(action="query", list="search", srsearch=term + " filetype:bitmap", srnamespace=6, srlimit=50, **cont)
@@ -151,7 +158,7 @@ def sheet(items, path, work):
     img.save(path, quality=80)
 
 
-def gather(centres, radius, queries):
+def gather(centres, radius, queries, maxdist=35000):
     """Candidate pictures (size, licence and place checked) near the centres or named by the queries. No pictures are downloaded yet."""
     ids = find_ids(centres, radius, queries, queries)
     print("%d files found; checking size and licence ..." % len(ids))
@@ -166,8 +173,8 @@ def gather(centres, radius, queries):
             # A text hit counts only when the place name is really in its title, description or categories.
             if src == "text" and term.lower() not in c["blob"]:
                 continue
-            # A file with its own coordinates must lie within 35 km of a centre (so "Whitby" is not Whitby in Canada).
-            if c["lat"] is not None and min(metres(c["lat"], c["lon"], la, lo) for la, lo in centres) > 35000:
+            # A file with its own coordinates must lie within 35 km (or the place's radius) of a centre (so "Whitby" is not Whitby in Canada). Larger places allow more.
+            if c["lat"] is not None and min(metres(c["lat"], c["lon"], la, lo) for la, lo in centres) > maxdist:
                 continue
             c["from"] = src if c["lat"] is not None or src == "geo" else "text"
             cands.append(c)
@@ -217,7 +224,8 @@ POOR = re.compile(r"interior|inside|church|cathedral|chapel|\bpub\b|\binn\b|hote
                   r"train|tram|\bcar\b|lorry|cattle|sheep|\bcow|roundabout|houses?\b|flats|estate|"
                   r"\bshed\b|barn|pylon|\bbin\b|recycling|warehouse|office|club|society|centre\b|"
                   r"\bhen\b|\bstag\b|party|wedding|birthday|selfie|friends|family|\bgirls?\b|\bboys?\b|\bwoman|\bman\b|\blady\b|"
-                  r"kids?\b|child|people|portrait|\bme\b|\bmy\b", re.I)
+                  r"kids?\b|child|people|portrait|\bme\b|\bmy\b|"
+                  r"tourists?|posing|ruined|outbuilding|farmland|panosphere|panorama|moss\b|graffiti|\bcctv\b|scaffold", re.I)
 GOOD = re.compile(r"park|lake|reservoir|hill|castle|view|sunrise|sunset|valley|river|canal|beach|harbou?r|skyline|panorama|forest|"
                   r"bridge|tower|abbey|cliff|mountain|moor|peak|cathedral|hall\b|palace|pier|lighthouse|waterfall|ridge|coast|"
                   r"bay\b|island|woods?\b|common|gardens?|aurora|night|dusk|twilight|illuminat", re.I)
@@ -243,6 +251,7 @@ def score(c, night):
         sc -= 6
     if GOOD.search(c["name"]) or GOOD.search(c.get("desc", "")[:120]):
         sc += 3
+    sc += 5 if c.get("quality") else 0                      # marked by Commons editors as a quality or featured picture
     sc += 2 if c.get("from") == "geo" else 0
     sc += 1 if c.get("lat") is not None else 0                # it carries coordinates near the place
     sc += min(c["width"] * c["height"] / 2e7, 2)           # bigger originals stay sharper
@@ -302,27 +311,39 @@ def covered(lat, lon):
     return None
 
 
-def auto(lat, lon, place, work, n=4):
-    """Finds and adds a pack for one point. Returns (status, text): done, covered or none."""
-    have = covered(lat, lon)
-    if have:
-        return "covered", "%s already covers this point" % have["city"]
-    country, region, town = reverse(lat, lon)
-    town = town or place
+def auto(lat, lon, place, work, n=4, explicit=None):
+    """Finds and adds a pack for one point. Returns (status, text): done, covered or none.
+    explicit = {country, region, city, radius_km, queries}: a named place from a seed list (no geocoding, no overlap check)."""
+    if explicit is None:
+        have = covered(lat, lon)
+        if have:
+            return "covered", "%s already covers this point" % have["city"]
+        country, region, town = reverse(lat, lon)
+        town = town or place
+        radius_km = 25
+        queries = [town] + ([place] if place and place.lower() != town.lower() else [])
+    else:
+        country, region, town = explicit["country"], explicit["region"], explicit["city"]
+        radius_km = explicit.get("radius_km", 25)
+        queries = [town] + list(explicit.get("queries", []))
     if not (country and region and town):
         return "none", "no place name found for %s,%s" % (lat, lon)
-    dlat, dlon = 0.07, 0.07 / max(math.cos(math.radians(lat)), 0.2)
+    ring = min(radius_km * 0.35, 20)                      # km from the centre to the outer search circles
+    dlat = ring / 111.0
+    dlon = ring / (111.0 * max(math.cos(math.radians(lat)), 0.2))
     centres = [(lat, lon), (lat + dlat, lon), (lat - dlat, lon), (lat, lon + dlon), (lat, lon - dlon)]
-    queries = [town] + ([place] if place and place.lower() != town.lower() else [])
-    cands = gather(centres, 10000, queries)
-    # Download only the most promising 80, so the run stays quick.
+    if radius_km >= 40:
+        centres += [(lat + dlat * 1.2, lon + dlon * 1.2), (lat + dlat * 1.2, lon - dlon * 1.2),
+                    (lat - dlat * 1.2, lon + dlon * 1.2), (lat - dlat * 1.2, lon - dlon * 1.2)]
+    cands = gather(centres, 10000, queries, max(35000, int(radius_km * 1200)))
+    # Download only the most promising ones, so the run stays quick.
     cands.sort(key=lambda c: -(score(c, False) + (2 if c["hint_night"] else 0)))
-    day, night = download(cands[:80], work)
+    day, night = download(cands[:100], work)
     d, ni = pick(day, False, n), pick(night, True, n)
     if len(d) < 3 or len(ni) < 3:
         return "none", "%s, %s, %s: only %d day and %d night photos fit" % (town, region, country, len(d), len(ni))
     sub = town + ", " + region
-    folder = add_photos(work, country, region, town, round(lat, 4), round(lon, 4), 25,
+    folder = add_photos(work, country, region, town, round(lat, 4), round(lon, 4), radius_km,
                         ["%d=%s|%s" % (c["id"], nice_title(c["name"]), sub) for c in d],
                         ["%d=%s|%s" % (c["id"], nice_title(c["name"]), sub) for c in ni])
     return "done", folder
@@ -334,6 +355,36 @@ def cmd_auto(a):
     print("RESULT=" + status)
 
 
+def cmd_seed(a):
+    """Runs auto for every place in a seed list that has no folder yet. --shard K/N takes every N-th place, so several can run at once."""
+    import shutil
+    import tempfile
+    global SKIP_INDEX
+    SKIP_INDEX = True
+    entries = []
+    for f in a.list:
+        entries += json.load(open(f, encoding="utf-8"))
+    k, n = (int(v) for v in a.shard.split("/"))
+    failed = []
+    for i, e in enumerate(entries):
+        if i % n != k:
+            continue
+        pj = os.path.join(ROOT, slug_ok(e["country"]), slug_ok(e["region"]), slug_ok(e["city"]), "place.json")
+        if os.path.exists(pj):
+            print("skip (exists):", e["city"])
+            continue
+        work = tempfile.mkdtemp(prefix="wp-seed-")
+        try:
+            status, text = auto(e["lat"], e["lon"], e["city"], work, explicit=e)
+        except Exception as ex:  # keep going: one bad place must not stop the list
+            status, text = "error", repr(ex)
+        shutil.rmtree(work, ignore_errors=True)
+        print("%-5s %s: %s" % (status.upper(), e["city"], text), flush=True)
+        if status != "done":
+            failed.append(e["city"])
+    print("FAILED: " + (", ".join(failed) or "none"))
+
+
 def slug_ok(s):
     return re.sub(r'[<>:"/\\|?*]', "", s).strip()
 
@@ -343,6 +394,9 @@ def credit(c):
     who = re.sub(r"\s*\((www|http)[^)]*\)", "", who).split(";")[0]
     who = re.sub(r"\s*,[\s,]*", ", ", who).strip(" .,")           # "North Staffordshire,, England" -> one comma
     return "Photo: %s, %s" % (who, c["licence"])
+
+
+SKIP_INDEX = False   # set while several seed runs write at once; run the index command at the end
 
 
 def add_photos(work, country, region, city, lat, lon, radius_km, day, night):
@@ -363,11 +417,12 @@ def add_photos(work, country, region, city, lat, lon, radius_km, day, night):
             im = Image.open(os.path.join(work, "%d.jpg" % c["id"])).convert("RGB")
             if im.width > WIDTH:
                 im = im.resize((WIDTH, round(im.height * WIDTH / im.width)), Image.LANCZOS)
-            im.save(os.path.join(base, mode, fname), quality=85, optimize=True, progressive=True)
+            im.save(os.path.join(base, mode, fname), quality=82, optimize=True, progressive=True)
             place["photos"].append({"mode": mode, "file": mode + "/" + fname, "title": title or c["name"],
                                     "subtitle": subtitle or city + ", " + region, "credit": credit(c), "source": c["page"]})
     json.dump(place, open(pj, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
-    build_index()
+    if not SKIP_INDEX:
+        build_index()
     return os.path.relpath(base, ROOT).replace("\\", "/")
 
 
@@ -420,6 +475,10 @@ def main():
     u.add_argument("--place", default="")
     u.add_argument("--work", required=True)
     u.set_defaults(fn=cmd_auto)
+    sd = sub.add_parser("seed", help="run auto for every place of a seed list (tools/seed/*.json) that has no folder yet")
+    sd.add_argument("list", nargs="+", help="one or more seed lists")
+    sd.add_argument("--shard", default="0/1", help="K/N: take every N-th place, starting at K")
+    sd.set_defaults(fn=cmd_seed)
     i = sub.add_parser("index")
     i.set_defaults(fn=cmd_index)
     a = ap.parse_args()

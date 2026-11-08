@@ -13,6 +13,12 @@ places.json                                 every place, with its coordinates (t
 
 A place covers the area around its city (`radius_km`, 25 km by default). Each place has at least 3 day and 3 night photos, at most 1920 px wide.
 
+## Coverage
+
+One pack per city and one per scenic area, not one per village: the whole United Kingdom (England, Scotland, Wales and Northern Ireland) and Texas. A pack reaches 20 to 60 km around its centre (`radius_km` in `place.json`), wider in empty country. A TV outside every pack falls back to the photos built into the app and asks for a new pack, which arrives as a pull request.
+
+The place lists are in `tools/seed/` (`uk.json`, `texas.json`). Run `python tools/wallpaper_tool.py seed tools/seed/uk.json --shard 0/4` (and shards 1 to 3 in other windows) to fill the missing ones. It skips places that already have a folder. A person should look at every new pack: the tool picks by title and brightness and cannot see the picture.
+
 ## Credits and licences
 
 The photos come from [Wikimedia Commons](https://commons.wikimedia.org). Only photos that may be reused with credit are used: CC0, public domain, CC BY and CC BY-SA. Nothing is drawn on the pictures. The photographer and licence are in each `place.json` and are shown as text next to the photo in the app. The resized copies here keep the licence of the original (CC BY-SA photos stay CC BY-SA).

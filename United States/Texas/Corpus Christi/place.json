@@ -1,0 +1,74 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Corpus Christi",
+ "lat": 27.8006,
+ "lon": -97.3964,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Corpus Christi skyline",
+   "subtitle": "Corpus Christi, Texas",
+   "credit": "Photo: Quintin Soloviev, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Corpus_Christi_skyline.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "New Harbor Bridge under construction",
+   "subtitle": "Corpus Christi, Texas",
+   "credit": "Photo: SCTraveller, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:New_Harbor_Bridge_under_construction.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Bay Area, Corpus Christi, TX, USA -",
+   "subtitle": "Corpus Christi, Texas",
+   "credit": "Photo: KenB, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bay_Area,_Corpus_Christi,_TX,_USA_-_panoramio.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "ISS061-E-19357 - View of Earth",
+   "subtitle": "Corpus Christi, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, NASA Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS061-E-19357_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Bird Island Basin Campground at Padre",
+   "subtitle": "Corpus Christi, Texas",
+   "credit": "Photo: Jennifer Rangubphai, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bird_Island_Basin_Campground_at_Padre_Island_National_Seashore_at_dawn.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "DSC",
+   "subtitle": "Corpus Christi, Texas",
+   "credit": "Photo: capt_tain Tom, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:DSC_9811_(45433083111).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Bayfront Corpus Christi Texas at Night",
+   "subtitle": "Corpus Christi, Texas",
+   "credit": "Photo: Jay Phagan, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bayfront_Corpus_Christi_Texas_at_Night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "ISS059-E-59812 - View of Earth",
+   "subtitle": "Corpus Christi, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, NASA Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS059-E-59812_-_View_of_Earth.jpg"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Palo Duro Canyon",
+ "lat": 34.98,
+ "lon": -101.919,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "ISS038-E-28755 - View of Earth",
+   "subtitle": "Palo Duro Canyon, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS038-E-28755_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "ISS062-E-12000 - View of Earth",
+   "subtitle": "Palo Duro Canyon, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, NASA Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS062-E-12000_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "ISS062-E-12001 - View of Earth",
+   "subtitle": "Palo Duro Canyon, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, NASA Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS062-E-12001_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "ISS066-E-138095 - View of Earth",
+   "subtitle": "Palo Duro Canyon, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS066-E-138095_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "ISS057-E-125832 - View of Earth",
+   "subtitle": "Palo Duro Canyon, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, NASA Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS057-E-125832_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "ISS057-E-125830 - View of Earth",
+   "subtitle": "Palo Duro Canyon, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, NASA Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS057-E-125830_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "ISS053-E-307392 - View of Earth",
+   "subtitle": "Palo Duro Canyon, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS053-E-307392_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "ISS053-E-307390 - View of Earth",
+   "subtitle": "Palo Duro Canyon, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS053-E-307390_-_View_of_Earth.jpg"
+  }
+ ]
+}

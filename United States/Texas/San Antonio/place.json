@@ -1,0 +1,74 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "San Antonio",
+ "lat": 29.4241,
+ "lon": -98.4936,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Reinbolt Hall at St Marys University",
+   "subtitle": "San Antonio, Texas",
+   "credit": "Photo: Larry D. Moore, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Reinbolt_Hall_at_St_Marys_University_2021.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "New Espada Lake Dam, San Antonio, Texas,",
+   "subtitle": "San Antonio, Texas",
+   "credit": "Photo: Clyde Charles Brown, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:New_Espada_Lake_Dam,_San_Antonio,_Texas,_US.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "ISS037-E-19589 - View of Earth",
+   "subtitle": "San Antonio, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS037-E-19589_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "ISS067-E-35865 - View of Earth",
+   "subtitle": "San Antonio, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS067-E-35865_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Pagoda at Night - Japanese tea gardens,",
+   "subtitle": "San Antonio, Texas",
+   "credit": "Photo: Corey Leopold, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pagoda_at_Night_-_Japanese_tea_gardens,_San_Antonio.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "San Antonio Riverwalk at Night with",
+   "subtitle": "San Antonio, Texas",
+   "credit": "Photo: Nan Palmero from San Antonio, TX, USA, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:San_Antonio_Riverwalk_at_Night_with_Christmas_Lights_(2014-12-12_22.36.46_by_Nan_Palmero).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "The Alamo at Night, San Antonio, Texas",
+   "subtitle": "San Antonio, Texas",
+   "credit": "Photo: Nan Palmero from San Antonio, TX, USA, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Alamo_at_Night,_San_Antonio,_Texas_(2014-12-12_23.00.05_by_Nan_Palmero).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Trinity Sunset",
+   "subtitle": "San Antonio, Texas",
+   "credit": "Photo: Corey Leopold, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Trinity_Sunset_-_Flickr_-_Corey_Leopold.jpg"
+  }
+ ]
+}

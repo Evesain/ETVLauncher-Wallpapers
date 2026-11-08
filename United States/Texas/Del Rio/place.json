@@ -1,0 +1,74 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Del Rio",
+ "lat": 29.3627,
+ "lon": -100.8968,
+ "radius_km": 40,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "City Hall Municipal Building, Del Rio,",
+   "subtitle": "Del Rio, Texas",
+   "credit": "Photo: JherreraCODR, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:City_Hall_Municipal_Building,_Del_Rio,_Texas.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "ISS038-E-48366 - View of Earth",
+   "subtitle": "Del Rio, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS038-E-48366_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "ISS067-E-179476 - View of Earth",
+   "subtitle": "Del Rio, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS067-E-179476_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "210331-H-WO398-001",
+   "subtitle": "Del Rio, Texas",
+   "credit": "Photo: CBP Photography, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:210331-H-WO398-001.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Amistad National Recreation Area, Texas",
+   "subtitle": "Del Rio, Texas",
+   "credit": "Photo: NPS staff, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Amistad_National_Recreation_Area,_Texas_(69286ecb-20fe-4309-9094-a256067614c4).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "‘Momo’ en Conde Duque, música Dj desde",
+   "subtitle": "Del Rio, Texas",
+   "credit": "Photo: Diario de Madrid, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E2%80%98Momo%E2%80%99_en_Conde_Duque,_m%C3%BAsica_Dj_desde_los_balcones_de_la_Plaza_Mayor_y_cita_sensorial_para_beb%C3%A9s_en_Espacio_Abierto_04.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "ISS046-E-32036 - View of Earth",
+   "subtitle": "Del Rio, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS046-E-32036_-_View_of_Earth.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "ISS046-E-32035 - View of Earth",
+   "subtitle": "Del Rio, Texas",
+   "credit": "Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS046-E-32035_-_View_of_Earth.jpg"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "country": "United States",
+ "region": "Texas",
+ "city": "Dallas",
+ "lat": 32.7767,
+ "lon": -96.797,
+ "radius_km": 30,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Chrysler 200S",
+   "subtitle": "Dallas, Texas",
+   "credit": "Photo: Wissembourg, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chrysler_200S.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "University Park July 2016 15 (Caruth Park)",
+   "subtitle": "Dallas, Texas",
+   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:University_Park_July_2016_15_(Caruth_Park).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "University Park July 2016 16 (Caruth Park)",
+   "subtitle": "Dallas, Texas",
+   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:University_Park_July_2016_16_(Caruth_Park).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Dallas - The West End and Uptown",
+   "subtitle": "Dallas, Texas",
+   "credit": "Photo: IcedCowboyCoffee, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dallas_-_The_West_End_and_Uptown_neighborhoods_May_2024.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Dallas Skyline",
+   "subtitle": "Dallas, Texas",
+   "credit": "Photo: Shiva Shenoy from Flower Mound, United States, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dallas_Skyline_(52291785505).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Dallas at night",
+   "subtitle": "Dallas, Texas",
+   "credit": "Photo: Shiva Shenoy, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dallas_at_night_-_1.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Dallas Skyline with Arts District at night",
+   "subtitle": "Dallas, Texas",
+   "credit": "Photo: Gattacal, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dallas_Skyline_with_Arts_District_at_night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Dallas November 2018 1 (skyline)",
+   "subtitle": "Dallas, Texas",
+   "credit": "Photo: Michael Barera, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dallas_November_2018_1_(skyline).jpg"
+  }
+ ]
+}

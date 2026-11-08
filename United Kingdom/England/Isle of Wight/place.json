@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Isle of Wight",
+ "lat": 50.7,
+ "lon": -1.29,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Sandown MMB",
+   "subtitle": "Isle of Wight, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sandown_MMB_09.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Sandown MMB 14 Pier",
+   "subtitle": "Isle of Wight, England",
+   "credit": "Photo: mattbuck (category), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sandown_MMB_14_Pier.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Newport Coppins Bridge Wight Dragon",
+   "subtitle": "Isle of Wight, England",
+   "credit": "Photo: Arriva436, CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Newport_Coppins_Bridge_Wight_Dragon_3.JPG"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Newport , County Hall",
+   "subtitle": "Isle of Wight, England",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Newport_,_County_Hall_-_geograph.org.uk_-_6867182.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Bristol Packet Wharf, Newport, at dusk",
+   "subtitle": "Isle of Wight, England",
+   "credit": "Photo: Rwendland, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bristol_Packet_Wharf,_Newport,_at_dusk.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Another sunset for Myk - Newport Sands -",
+   "subtitle": "Isle of Wight, England",
+   "credit": "Photo: Stewart Black, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Another_sunset_for_Myk_-_Newport_Sands_-_Pembrokeshire.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Needles Overlook, Canyonlands National",
+   "subtitle": "Isle of Wight, England",
+   "credit": "Photo: Alex Proimos from Sydney, Australia, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Needles_Overlook,_Canyonlands_National_Park,_Utah,_Sunset_(3455933660).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Sunrise isle Wight",
+   "subtitle": "Isle of Wight, England",
+   "credit": "Photo: Walterlan Papetti, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_isle_Wight.jpg"
+  }
+ ]
+}

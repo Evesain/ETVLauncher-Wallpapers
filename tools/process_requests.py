@@ -26,7 +26,9 @@ def run(*cmd, check=True):
 
 def worker(base, key, path, body=None):
     req = urllib.request.Request(base + path, data=None if body is None else json.dumps(body).encode(),
-                                 headers={"Authorization": "Bearer " + key, "Content-Type": "application/json"})
+                                 headers={"Authorization": "Bearer " + key, "Content-Type": "application/json",
+                                          # Cloudflare turns away Python's default User-Agent with a 403.
+                                          "User-Agent": "ETVLauncher-Wallpapers-workflow/1.0"})
     with urllib.request.urlopen(req, timeout=30) as r:
         return json.load(r)
 

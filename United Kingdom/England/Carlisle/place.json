@@ -21,6 +21,38 @@
    "subtitle": "Carlisle, England",
    "credit": "Photo: Steve Daniels, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Carlisle_Castle_-_geograph.org.uk_-_6847469.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Wasdale Tree under Kirk Fell Lake",
+   "subtitle": "Keswick, England",
+   "credit": "Photo: Julian Herzog (Website), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Wasdale_Tree_under_Kirk_Fell_Lake_District_2025_01.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "28.10.15 Keswick at Sunset",
+   "subtitle": "Keswick, England",
+   "credit": "Photo: donald judge, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:28.10.15_Keswick_at_Sunset_105_(22370056100).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Strandshag Bay Derwentwater Lake District",
+   "subtitle": "Keswick, England",
+   "credit": "Photo: Julian Herzog (Website), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Strandshag_Bay_Derwentwater_Lake_District_2025_01.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Rockcliffe",
+   "subtitle": "Dumfries, Scotland",
+   "credit": "Photo: James Johnstone, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rockcliffe_1.jpg"
   }
  ]
 }

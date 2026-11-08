@@ -45,6 +45,22 @@
    "subtitle": "Fort William, Scotland",
    "credit": "Photo: Jonathan Combe from Scotland, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Glencoe_Lochan_-_Scotland.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "On the Shores of the Caledonian Canal at",
+   "subtitle": "Inverness, Scotland",
+   "credit": "Photo: Lukas von Daeniken from Schweiz, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:On_the_Shores_of_the_Caledonian_Canal_at_Inverness_(23590691825).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunset At Ullapool",
+   "subtitle": "Inverness, Scotland",
+   "credit": "Photo: Peter Jeffery, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_At_Ullapool_-_geograph.org.uk_-_5399856.jpg"
   }
  ]
 }

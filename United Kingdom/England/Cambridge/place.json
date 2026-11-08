@@ -37,6 +37,22 @@
    "subtitle": "Cambridge, England",
    "credit": "Photo: Bob Harvey, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Dusk_over_Christ%27s_Pieces_-_geograph.org.uk_-_5970634.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "View of sunset sky over Hitchin Lavender",
+   "subtitle": "Luton, England",
+   "credit": "Photo: Robert Lamb, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_of_sunset_sky_over_Hitchin_Lavender_%5E2_-_geograph.org.uk_-_5863993.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Luton Hoo in",
+   "subtitle": "Luton, England",
+   "credit": "Photo: Greg Knapp from Hitchin, United Kingdom, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Luton_Hoo_in_2009.jpg"
   }
  ]
 }

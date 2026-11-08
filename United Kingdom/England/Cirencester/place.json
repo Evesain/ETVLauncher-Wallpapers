@@ -37,6 +37,30 @@
    "subtitle": "Cirencester, England",
    "credit": "Photo: Derek Harper, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Sunset_near_the_Rissingtons_-_geograph.org.uk_-_5272595.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Magpie moth (Abraxas grossulariata)",
+   "subtitle": "Oxford, England",
+   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Magpie_moth_(Abraxas_grossulariata).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Mute swans (Cygnus olor) and cygnets",
+   "subtitle": "Oxford, England",
+   "credit": "Photo: Charles J. Sharp, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mute_swans_(Cygnus_olor)_and_cygnets.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunrise on the Downs - 49182727973",
+   "subtitle": "Bristol, England",
+   "credit": "Photo: Graeme Churchard, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_on_the_Downs_-_49182727973.jpg"
   }
  ]
 }

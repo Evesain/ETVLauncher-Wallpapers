@@ -21,6 +21,30 @@
    "subtitle": "McAllen, Texas",
    "credit": "Photo: Larry D. Moore, CC BY 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Hidalgo_Texas_City_Hall_2021.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "USA - Texas - Boca Chica - Starbase",
+   "subtitle": "South Padre Island, Texas",
+   "credit": "Photo: Alexander Hatley from Spring, Texas, USA, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:USA_-_Texas_-_Boca_Chica_-_Starbase_(51286772204).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Starship SN9 Sunset",
+   "subtitle": "South Padre Island, Texas",
+   "credit": "Photo: Jared Krahn, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Starship_SN9_Sunset.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Texas Sunset at Port Aransas",
+   "subtitle": "Port Aransas, Texas",
+   "credit": "Photo: Shiva Shenoy from Flower Mound, United States, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Texas_Sunset_at_Port_Aransas_-_Flickr_-_Shiva_Shenoy.jpg"
   }
  ]
 }

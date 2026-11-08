@@ -21,6 +21,38 @@
    "subtitle": "Kendal, England",
    "credit": "Photo: edward mcmaihin, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:River_Kent_Kendal_-_geograph.org.uk_-_3776010.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Wasdale Tree under Kirk Fell Lake",
+   "subtitle": "Keswick, England",
+   "credit": "Photo: Julian Herzog (Website), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Wasdale_Tree_under_Kirk_Fell_Lake_District_2025_01.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "28.10.15 Keswick at Sunset",
+   "subtitle": "Keswick, England",
+   "credit": "Photo: donald judge, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:28.10.15_Keswick_at_Sunset_105_(22370056100).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Strandshag Bay Derwentwater Lake District",
+   "subtitle": "Keswick, England",
+   "credit": "Photo: Julian Herzog (Website), CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Strandshag_Bay_Derwentwater_Lake_District_2025_01.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunset as the Romans might have seen it",
+   "subtitle": "Grassington, England",
+   "credit": "Photo: Ian Greig, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_as_the_Romans_might_have_seen_it_-_geograph.org.uk_-_2071980.jpg"
   }
  ]
 }

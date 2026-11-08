@@ -21,6 +21,38 @@
    "subtitle": "Llangefni, Wales",
    "credit": "Photo: TXGemGem, CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:T%C5%B5r_Bach_Beacon_and_Anchored_Boats_off_Llanddwyn_Island,_Anglesey_%E2%80%93_July_2025.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Llyn Bochlwyd Y Gribin Castell y Gwynt",
+   "subtitle": "Llandudno, Wales",
+   "credit": "Photo: Julian Herzog (Website), CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Llyn_Bochlwyd_Y_Gribin_Castell_y_Gwynt_2019_01.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Sunset Llandudno seafront",
+   "subtitle": "Llandudno, Wales",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_Llandudno_seafront_-_geograph.org.uk_-_5247279.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Conwy Castle - panoramio",
+   "subtitle": "Llandudno, Wales",
+   "credit": "Photo: Ngphotography, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Conwy_Castle_-_panoramio.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Conwy Castle, N.Wales - 8818190146",
+   "subtitle": "Llandudno, Wales",
+   "credit": "Photo: Stuart Madden, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Conwy_Castle,_N.Wales_-_8818190146.jpg"
   }
  ]
 }

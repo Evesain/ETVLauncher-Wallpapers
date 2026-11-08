@@ -29,6 +29,30 @@
    "subtitle": "Leeds, England",
    "credit": "Photo: donald judge, CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:9.10.15_Leeds_Night_Light_040_(21441471463).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "River Aire, Saltaire",
+   "subtitle": "Bradford, England",
+   "credit": "Photo: Tim Green, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:River_Aire,_Saltaire.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Sunset as the Romans might have seen it",
+   "subtitle": "Grassington, England",
+   "credit": "Photo: Ian Greig, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_as_the_Romans_might_have_seen_it_-_geograph.org.uk_-_2071980.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Manchester at Night",
+   "subtitle": "Manchester, England",
+   "credit": "Photo: Anthony Parkes, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Manchester_at_Night_-_geograph.org.uk_-_5717661.jpg"
   }
  ]
 }

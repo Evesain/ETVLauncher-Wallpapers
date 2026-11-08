@@ -45,6 +45,22 @@
    "subtitle": "South Padre Island, Texas",
    "credit": "Photo: Jared Krahn, CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Starship_SN9_Sunset.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Texas Sunset at Port Aransas",
+   "subtitle": "Port Aransas, Texas",
+   "credit": "Photo: Shiva Shenoy from Flower Mound, United States, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Texas_Sunset_at_Port_Aransas_-_Flickr_-_Shiva_Shenoy.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Sunset over San Antonio",
+   "subtitle": "San Antonio, Texas",
+   "credit": "Photo: Corey Leopold, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_over_San_Antonio.jpg"
   }
  ]
 }

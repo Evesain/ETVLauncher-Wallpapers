@@ -37,6 +37,30 @@
    "subtitle": "Exeter, England",
    "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Exeter_,_St_James%27_Park_-_geograph.org.uk_-_7413636.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Sunset near Plymouth",
+   "subtitle": "Plymouth, England",
+   "credit": "Photo: Stephen Steven Hodge, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_near_Plymouth_(30968730914).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Plymouth - Royal William Yard at dusk",
+   "subtitle": "Plymouth, England",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Plymouth_-_Royal_William_Yard_at_dusk_-_geograph.org.uk_-_7678617.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "North Devon , Exmoor Sunset",
+   "subtitle": "Lynton, England",
+   "credit": "Photo: Lewis Clarke, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:North_Devon_,_Exmoor_Sunset_-_geograph.org.uk_-_3981413.jpg"
   }
  ]
 }

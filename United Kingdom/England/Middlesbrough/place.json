@@ -37,6 +37,30 @@
    "subtitle": "Middlesbrough, England",
    "credit": "Photo: Philip Barker, CC BY-SA 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Public_footpath_to_Wilton_Wood_-_geograph.org.uk_-_1782850.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Whitby North Shore",
+   "subtitle": "Whitby, England",
+   "credit": "Photo: Phil Eptlett from North Staffordshire, England, CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Whitby_North_Shore._-_Flickr_-_philept1.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Whitby Abbey by night",
+   "subtitle": "Whitby, England",
+   "credit": "Photo: Steveriley39, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Whitby_Abbey_by_night.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Whitby, North Yorkshire",
+   "subtitle": "Whitby, England",
+   "credit": "Photo: Ray in Manila, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Whitby,_North_Yorkshire_(52265539077).jpg"
   }
  ]
 }

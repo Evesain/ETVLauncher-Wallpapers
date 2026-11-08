@@ -37,6 +37,30 @@
    "subtitle": "Aviemore, Scotland",
    "credit": "Photo: Dunverig, CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Sunrise_over_the_River_Spey.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "On the Shores of the Caledonian Canal at",
+   "subtitle": "Inverness, Scotland",
+   "credit": "Photo: Lukas von Daeniken from Schweiz, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:On_the_Shores_of_the_Caledonian_Canal_at_Inverness_(23590691825).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Sunset At Ullapool",
+   "subtitle": "Inverness, Scotland",
+   "credit": "Photo: Peter Jeffery, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_At_Ullapool_-_geograph.org.uk_-_5399856.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Two Towers1",
+   "subtitle": "Inverness, Scotland",
+   "credit": "Photo: miketnorton, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Two_Towers1.jpg"
   }
  ]
 }

@@ -1,0 +1,66 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "St Andrews",
+ "lat": 56.3398,
+ "lon": -2.7967,
+ "radius_km": 20,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Shell Bay ^ Kincraig Hill, Fife",
+   "subtitle": "St Andrews, Scotland",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Shell_Bay_%5E_Kincraig_Hill,_Fife_-_geograph.org.uk_-_7032864.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "St. Andrews Pier",
+   "subtitle": "St Andrews, Scotland",
+   "credit": "Photo: Anthony Parkes, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:St._Andrews_Pier_-_geograph.org.uk_-_5135621.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Beach by St Andrews Links",
+   "subtitle": "St Andrews, Scotland",
+   "credit": "Photo: Bill Boaden, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Beach_by_St_Andrews_Links_-_geograph.org.uk_-_6765810.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Fiesta 2015 A Night in Old San Antonio",
+   "subtitle": "St Andrews, Scotland",
+   "credit": "Photo: U. S. Army Old Guard Fife and Drum Corps, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Fiesta_2015_A_Night_in_Old_San_Antonio_(17210227046).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "East Newhall Farm - dusk view after",
+   "subtitle": "St Andrews, Scotland",
+   "credit": "Photo: Tom Parnell, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:East_Newhall_Farm_-_dusk_view_after_conversion_to_distillery.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "The Royal Edinburgh Military Tattoo 2025",
+   "subtitle": "St Andrews, Scotland",
+   "credit": "Photo: U.S. Army photo by Staff Sgt. Gabriel Bacewicz, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Royal_Edinburgh_Military_Tattoo_2025_opening_night_performance_(9234341).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Fife IMG",
+   "subtitle": "St Andrews, Scotland",
+   "credit": "Photo: Rama, CC BY-SA 2.0 fr",
+   "source": "https://commons.wikimedia.org/wiki/File:Fife_IMG_4818.jpg"
+  }
+ ]
+}

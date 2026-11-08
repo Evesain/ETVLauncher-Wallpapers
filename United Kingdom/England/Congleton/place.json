@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Congleton",
+ "lat": 53.1631,
+ "lon": -2.2125,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Mow Cop Castle",
+   "subtitle": "Mow Cop, Cheshire",
+   "credit": "Photo: Paddyhalfmonkey, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mow_Cop_Sunrise_25032017.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Lyme Park",
+   "subtitle": "Lyme Park, Cheshire",
+   "credit": "Photo: Sterim64, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lyme_Park_Across_the_Lake.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Jodrell Bank",
+   "subtitle": "Jodrell Bank, Cheshire",
+   "credit": "Photo: Mike Peel, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:At_Jodrell_Bank_Observatory_2024_009.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Rudyard Lake",
+   "subtitle": "Rudyard Lake, Staffordshire",
+   "credit": "Photo: Ian Greig, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rudyard_Lake_-_geograph.org.uk_-_2435553.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Mow Cop Castle",
+   "subtitle": "Mow Cop, Cheshire",
+   "credit": "Photo: Jowitacichocka, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mow_Cop_Castle_is_a_folly_at_Mow_Cop_in_the_civil_parish_of_Odd_Rode,_Cheshire,_England._img443.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Ridgegate Reservoir",
+   "subtitle": "Macclesfield Forest, Cheshire",
+   "credit": "Photo: Colin Park, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dusk_at_Ridgegate_Reservoir,_Macclesfield_Forest_-_geograph.org.uk_-_6338864.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Lovell Telescope",
+   "subtitle": "Jodrell Bank, Cheshire",
+   "credit": "Photo: Mike Peel, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lovell_Telescope_09.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "First Light",
+   "subtitle": "Jodrell Bank, Cheshire",
+   "credit": "Photo: Mike Peel, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:First_Light,_Jodrell_Bank_05.jpg"
+  }
+ ]
+}

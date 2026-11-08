@@ -1,0 +1,16 @@
+{
+ "version": 1,
+ "places": [
+  {
+   "country": "United Kingdom",
+   "region": "England",
+   "city": "Congleton",
+   "lat": 53.1631,
+   "lon": -2.2125,
+   "radius_km": 25,
+   "path": "United Kingdom/England/Congleton",
+   "day": 4,
+   "night": 4
+  }
+ ]
+}

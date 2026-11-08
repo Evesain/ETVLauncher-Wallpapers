@@ -1,0 +1,66 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Blackpool",
+ "lat": 53.8175,
+ "lon": -3.0357,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Lytham St Anne's beach when the tide is",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Alan Pollock, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lytham_St_Anne%27s_beach_when_the_tide_is_out._-_geograph.org.uk_-_4029110.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Beach Huts on the Sea Front, St.",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Chris Heaton, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Beach_Huts_on_the_Sea_Front,_St._Anne%27s-on-the-Sea_-_geograph.org.uk_-_6599499.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Blackpool North Pier Aug 2026 end",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Scribwik, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Blackpool_North_Pier_Aug_2026_end.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Blackpool Central Pier Aug 2026 end",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Scribwik, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Blackpool_Central_Pier_Aug_2026_end.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Towards Blackpool - panoramio",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Michael D Beckwith, CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Towards_Blackpool_-_panoramio.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Blackpool Promenade - panoramio",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: AndrewJGallacher, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Blackpool_Promenade_-_panoramio.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Blackpool",
+   "subtitle": "Blackpool, England",
+   "credit": "Photo: Steven's Transport Photos, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Blackpool_-_008.jpg"
+  }
+ ]
+}

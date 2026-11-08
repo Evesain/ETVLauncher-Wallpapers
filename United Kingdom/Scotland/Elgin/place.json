@@ -1,0 +1,66 @@
+{
+ "country": "United Kingdom",
+ "region": "Scotland",
+ "city": "Elgin",
+ "lat": 57.65,
+ "lon": -3.32,
+ "radius_km": 35,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Morena pimienta (Gymnothorax griseus),",
+   "subtitle": "Elgin, Scotland",
+   "credit": "Photo: Diego Delso, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Morena_pimienta_(Gymnothorax_griseus),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-27,_DD_185.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Bow Fiddle Rock East",
+   "subtitle": "Elgin, Scotland",
+   "credit": "Photo: Lucas Kendall, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bow_Fiddle_Rock_East.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "Morena gigante (Gymnothorax javanicus),",
+   "subtitle": "Elgin, Scotland",
+   "credit": "Photo: Diego Delso, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Morena_gigante_(Gymnothorax_javanicus),_Ras_Katy,_Sharm_el-Sheij,_Egipto,_2022-03-26,_DD_83.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Elgin Library",
+   "subtitle": "Elgin, Scotland",
+   "credit": "Photo: Lucas Kendall, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Elgin_Library.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Portknockie Sunset",
+   "subtitle": "Elgin, Scotland",
+   "credit": "Photo: Wandering pict, Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Portknockie_Sunset.JPG"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Moon over Elgin Bridge",
+   "subtitle": "Elgin, Scotland",
+   "credit": "Photo: Erwin Soo from Singapore, Singapore, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Moon_over_Elgin_Bridge_(8569422208).jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Morena estriada (Echidna nebulosa),",
+   "subtitle": "Elgin, Scotland",
+   "credit": "Photo: Diego Delso, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Morena_estriada_(Echidna_nebulosa),_Anilao,_Filipinas,_2023-08-25,_DD_47.jpg"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "country": "United Kingdom",
+ "region": "England",
+ "city": "Cambridge",
+ "lat": 52.2053,
+ "lon": 0.1218,
+ "radius_km": 25,
+ "photos": [
+  {
+   "mode": "day",
+   "file": "day/01.jpg",
+   "title": "Outdoors violinist in a sweater (Unsplash)",
+   "subtitle": "Cambridge, England",
+   "credit": "Photo: Clem Onojeghuo clemono2, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Outdoors_violinist_in_a_sweater_(Unsplash).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/02.jpg",
+   "title": "Cambridge, United Kingdom (Unsplash",
+   "subtitle": "Cambridge, England",
+   "credit": "Photo: Clem Onojeghuo clemono2, CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cambridge,_United_Kingdom_(Unsplash_iqu9ZTwTfVM).jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/03.jpg",
+   "title": "20130808 Kings College Entrance Hi-res",
+   "subtitle": "Cambridge, England",
+   "credit": "Photo: Dmitry Tonkonog, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:20130808_Kings_College_Entrance_Hi-res.jpg"
+  },
+  {
+   "mode": "day",
+   "file": "day/04.jpg",
+   "title": "Harvard Book Store, dusk",
+   "subtitle": "Cambridge, England",
+   "credit": "Photo: Chris Rycroft, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Harvard_Book_Store,_dusk.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/01.jpg",
+   "title": "Dusk over Christ's Pieces",
+   "subtitle": "Cambridge, England",
+   "credit": "Photo: Bob Harvey, CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dusk_over_Christ%27s_Pieces_-_geograph.org.uk_-_5970634.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/02.jpg",
+   "title": "Newnham College, Cambridge at night",
+   "subtitle": "Cambridge, England",
+   "credit": "Photo: Parkywiki, CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Newnham_College,_Cambridge_at_night_3.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/03.jpg",
+   "title": "Colorful morning in Cambridge",
+   "subtitle": "Cambridge, England",
+   "credit": "Photo: judy dean, CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Colorful_morning_in_Cambridge.jpg"
+  },
+  {
+   "mode": "night",
+   "file": "night/04.jpg",
+   "title": "Cambridge (MA) by night sergs",
+   "subtitle": "Cambridge, England",
+   "credit": "Photo: Luciof, CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cambridge_(MA)_by_night_sergs.jpg"
+  }
+ ]
+}
